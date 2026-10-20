@@ -1,0 +1,2811 @@
+[
+  {
+    "pagina_pdf": 1,
+    "titulo_extraido": "Brandbook / Guia de marca",
+    "tipo": "metadados_e_apresentacao",
+    "guia_assunto": "regras/00-apresentacao.md",
+    "fonte_textual": "fonte-pdf/p-001.md",
+    "referencia_visual": "referencias-visuais/p-001.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 2,
+    "titulo_extraido": "SEBRAE NACIONAL / Presidente do Conselho Deliberativo Equipe Técnica da Unidade",
+    "tipo": "metadados_e_apresentacao",
+    "guia_assunto": "regras/00-apresentacao.md",
+    "fonte_textual": "fonte-pdf/p-002.md",
+    "referencia_visual": "referencias-visuais/p-002.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 3,
+    "titulo_extraido": "Defina o negócio: Apresente-se: Invista na imagem: Entre no clima: / Estratégia de marca Expressões verbais Expressões visuais Expressões sonoras",
+    "tipo": "metadados_e_apresentacao",
+    "guia_assunto": "regras/00-apresentacao.md",
+    "fonte_textual": "fonte-pdf/p-003.md",
+    "referencia_visual": "referencias-visuais/p-003.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 4,
+    "titulo_extraido": "Olá, / Agora vamos iniciar nossa jornada.",
+    "tipo": "metadados_e_apresentacao",
+    "guia_assunto": "regras/00-apresentacao.md",
+    "fonte_textual": "fonte-pdf/p-004.md",
+    "referencia_visual": "referencias-visuais/p-004.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 5,
+    "titulo_extraido": "Serão oito grandes passos / que vamos dar de mãos",
+    "tipo": "metadados_e_apresentacao",
+    "guia_assunto": "regras/00-apresentacao.md",
+    "fonte_textual": "fonte-pdf/p-005.md",
+    "referencia_visual": "referencias-visuais/p-005.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 6,
+    "titulo_extraido": "Tudo começa por aqui. / O primeiro passo.",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-006.md",
+    "referencia_visual": "referencias-visuais/p-006.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 7,
+    "titulo_extraido": "1 / Vamos desenhar o plano",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-007.md",
+    "referencia_visual": "referencias-visuais/p-007.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 8,
+    "titulo_extraido": "1 / Defina o negócio:",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-008.md",
+    "referencia_visual": "referencias-visuais/p-008.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 9,
+    "titulo_extraido": "Público / Definir o público de uma marca é uma das principais Partimos dessa análise considerando a pesquisa",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-009.md",
+    "referencia_visual": "referencias-visuais/p-009.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 10,
+    "titulo_extraido": "Eu-pessoa / empreendedora brasileira",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-010.md",
+    "referencia_visual": "referencias-visuais/p-010.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 11,
+    "titulo_extraido": "1. RECORTE GERAL / Prazer, Jefferson Elias Junior.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-011.md",
+    "referencia_visual": "referencias-visuais/p-011.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 12,
+    "titulo_extraido": "1.1. EMPRESÁRIO COM DORES DE CRESCIMENTO / Prazer, me chamo João.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-012.md",
+    "referencia_visual": "referencias-visuais/p-012.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 13,
+    "titulo_extraido": "1.2. MEI QUE QUER CRESCER / Olá, eu sou a Gisele.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-013.md",
+    "referencia_visual": "referencias-visuais/p-013.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 14,
+    "titulo_extraido": "1.3. JOVEM EMPREENDEDOR / Olá, me chamo Gilberto.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-014.md",
+    "referencia_visual": "referencias-visuais/p-014.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 15,
+    "titulo_extraido": "A PERSONA POR TRÁS DA EU-PESSOA EMPREENDEDORA / Luzes e sombras",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-015.md",
+    "referencia_visual": "referencias-visuais/p-015.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 16,
+    "titulo_extraido": "A PERSONA POR TRÁS DA EU-PESSOA EMPREENDEDORA / Luzes e sombras",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-016.md",
+    "referencia_visual": "referencias-visuais/p-016.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 17,
+    "titulo_extraido": "Propósito / Transformar",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-017.md",
+    "referencia_visual": "referencias-visuais/p-017.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 18,
+    "titulo_extraido": "Territórios / Quando falamos em território",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-018.md",
+    "referencia_visual": "referencias-visuais/p-018.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 19,
+    "titulo_extraido": "O Sebrae tem sua oferta estruturada em três / pilares de atuação. Definir os territórios a partir",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-019.md",
+    "referencia_visual": "referencias-visuais/p-019.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 20,
+    "titulo_extraido": "Território / Atitude",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-020.md",
+    "referencia_visual": "referencias-visuais/p-020.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 21,
+    "titulo_extraido": "Território / Influência",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-021.md",
+    "referencia_visual": "referencias-visuais/p-021.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 22,
+    "titulo_extraido": "Território / Estrutura",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-022.md",
+    "referencia_visual": "referencias-visuais/p-022.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 23,
+    "titulo_extraido": "Arquétipos / Arquétipos são modelos universais de personagens",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-023.md",
+    "referencia_visual": "referencias-visuais/p-023.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 24,
+    "titulo_extraido": "Arquétipos / No branding, os arquétipos são usados para criar uma ALGUNS EXEMPLOS",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-024.md",
+    "referencia_visual": "referencias-visuais/p-024.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 25,
+    "titulo_extraido": "Atributos / Especialista em",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-025.md",
+    "referencia_visual": "referencias-visuais/p-025.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 26,
+    "titulo_extraido": "Proposta de Valor / Cliente Ofertas",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-026.md",
+    "referencia_visual": "referencias-visuais/p-026.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 27,
+    "titulo_extraido": "Proposta de Valor / Cliente Ofertas",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/01-estrategia-de-marca.md",
+    "fonte_textual": "fonte-pdf/p-027.md",
+    "referencia_visual": "referencias-visuais/p-027.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 28,
+    "titulo_extraido": "Agora é hora / de o mundo saber",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-028.md",
+    "referencia_visual": "referencias-visuais/p-028.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 29,
+    "titulo_extraido": "2 / Já definimos o DNA da nossa",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-029.md",
+    "referencia_visual": "referencias-visuais/p-029.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 30,
+    "titulo_extraido": "2 / Apresente-se:",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-030.md",
+    "referencia_visual": "referencias-visuais/p-030.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 31,
+    "titulo_extraido": "Tom de Voz / A voz de uma marca é o reflexo da sua",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-031.md",
+    "referencia_visual": "referencias-visuais/p-031.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 32,
+    "titulo_extraido": "Facilitadores / Acreditamos ser a ponte para a transformação",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-032.md",
+    "referencia_visual": "referencias-visuais/p-032.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 33,
+    "titulo_extraido": "TOM DE VOZ - DIRETRIZES / Somos próximos.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-033.md",
+    "referencia_visual": "referencias-visuais/p-033.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 34,
+    "titulo_extraido": "TOM DE VOZ - DIRETRIZES / Somos próximos.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-034.md",
+    "referencia_visual": "referencias-visuais/p-034.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 35,
+    "titulo_extraido": "TOM DE VOZ - DIRETRIZES / Somos próximos.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-035.md",
+    "referencia_visual": "referencias-visuais/p-035.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 36,
+    "titulo_extraido": "TOM DE VOZ - DIRETRIZES / Somos próximos.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-036.md",
+    "referencia_visual": "referencias-visuais/p-036.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 37,
+    "titulo_extraido": "TOM DE VOZ - DIRETRIZES / Somos reais e compartilhamos",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-037.md",
+    "referencia_visual": "referencias-visuais/p-037.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 38,
+    "titulo_extraido": "TOM DE VOZ - DIRETRIZES / Somos reais e compartilhamos",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-038.md",
+    "referencia_visual": "referencias-visuais/p-038.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 39,
+    "titulo_extraido": "TOM DE VOZ - DIRETRIZES / Somos reais e compartilhamos",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-039.md",
+    "referencia_visual": "referencias-visuais/p-039.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 40,
+    "titulo_extraido": "TOM DE VOZ - DIRETRIZES / Somos reais e compartilhamos",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-040.md",
+    "referencia_visual": "referencias-visuais/p-040.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 41,
+    "titulo_extraido": "TOM DE VOZ - DIRETRIZES / Somos versáteis e estamos",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-041.md",
+    "referencia_visual": "referencias-visuais/p-041.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 42,
+    "titulo_extraido": "TOM DE VOZ - DIRETRIZES / Somos versáteis e estamos",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-042.md",
+    "referencia_visual": "referencias-visuais/p-042.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 43,
+    "titulo_extraido": "TOM DE VOZ - DIRETRIZES / Somos versáteis e estamos",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-043.md",
+    "referencia_visual": "referencias-visuais/p-043.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 44,
+    "titulo_extraido": "TOM DE VOZ - DIRETRIZES / Somos versáteis e estamos",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-044.md",
+    "referencia_visual": "referencias-visuais/p-044.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 45,
+    "titulo_extraido": "TOM DE VOZ - DIRETRIZES / Somos acessíveis.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-045.md",
+    "referencia_visual": "referencias-visuais/p-045.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 46,
+    "titulo_extraido": "TOM DE VOZ - DIRETRIZES / Somos acessíveis.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-046.md",
+    "referencia_visual": "referencias-visuais/p-046.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 47,
+    "titulo_extraido": "TOM DE VOZ - DIRETRIZES / Somos acessíveis.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-047.md",
+    "referencia_visual": "referencias-visuais/p-047.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 48,
+    "titulo_extraido": "TOM DE VOZ - DIRETRIZES / Somos acessíveis.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-048.md",
+    "referencia_visual": "referencias-visuais/p-048.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 49,
+    "titulo_extraido": "DIRETRIZES GERAIS / Pessoa gramatical",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-049.md",
+    "referencia_visual": "referencias-visuais/p-049.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 50,
+    "titulo_extraido": "DIRETRIZES GERAIS / No ambiente digital,",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-050.md",
+    "referencia_visual": "referencias-visuais/p-050.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 51,
+    "titulo_extraido": "DIRETRIZES GERAIS - EXEMPLO / Uso de emojis",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-051.md",
+    "referencia_visual": "referencias-visuais/p-051.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 52,
+    "titulo_extraido": "DIRETRIZES GERAIS / Nossa linguagem 1 Não use o termo “homem” para se referir 6 Lembre-se do sujeito oculto",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-052.md",
+    "referencia_visual": "referencias-visuais/p-052.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 53,
+    "titulo_extraido": "DIRETRIZES GERAIS - EXEMPLO / Linguagem inclusiva",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-053.md",
+    "referencia_visual": "referencias-visuais/p-053.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 54,
+    "titulo_extraido": "DIRETRIZES GERAIS / Somos uma Nossa comunicação é destinada às pessoas que",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-054.md",
+    "referencia_visual": "referencias-visuais/p-054.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 55,
+    "titulo_extraido": "DIRETRIZES GERAIS / Assuntos nos e-mails",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-055.md",
+    "referencia_visual": "referencias-visuais/p-055.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 56,
+    "titulo_extraido": "DIRETRIZES GERAIS - EXEMPLO / Exemplo proximidade",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-056.md",
+    "referencia_visual": "referencias-visuais/p-056.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 57,
+    "titulo_extraido": "DIRETRIZES GERAIS - EXEMPLO / Exemplo construção de diálogo",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-057.md",
+    "referencia_visual": "referencias-visuais/p-057.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 58,
+    "titulo_extraido": "Manifesto / Manifesto",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-058.md",
+    "referencia_visual": "referencias-visuais/p-058.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 59,
+    "titulo_extraido": "Porque, para fazer acontecer, / é preciso ter acesso.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-059.md",
+    "referencia_visual": "referencias-visuais/p-059.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 60,
+    "titulo_extraido": "É transformar / pelo conhecimento.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-060.md",
+    "referencia_visual": "referencias-visuais/p-060.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 61,
+    "titulo_extraido": "Para fazer acontecer, mesmo, é preciso estar junto. / Como apoio, norte, referência.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/02-linguagem.md",
+    "fonte_textual": "fonte-pdf/p-061.md",
+    "referencia_visual": "referencias-visuais/p-061.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 62,
+    "titulo_extraido": "Então, chegou a hora / do terceiro grande passo:",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-062.md",
+    "referencia_visual": "referencias-visuais/p-062.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 63,
+    "titulo_extraido": "3 / Tão importante quanto a forma",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-063.md",
+    "referencia_visual": "referencias-visuais/p-063.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 64,
+    "titulo_extraido": "3 / Invista na Imagem:",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-064.md",
+    "referencia_visual": "referencias-visuais/p-064.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 65,
+    "titulo_extraido": "Brand assets / logotipo",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-065.md",
+    "referencia_visual": "referencias-visuais/p-065.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 66,
+    "titulo_extraido": "Logotipo / As barras acompanham",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-066.md",
+    "referencia_visual": "referencias-visuais/p-066.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 67,
+    "titulo_extraido": "CORES PRINCIPAIS / Nosso azul",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-067.md",
+    "referencia_visual": "referencias-visuais/p-067.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 68,
+    "titulo_extraido": "Pantone 211 C Pantone 100 C / CMYK 0 . 60 . 0 . 0 CMYK 1 . 0 . 70 . 0",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-068.md",
+    "referencia_visual": "referencias-visuais/p-068.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 69,
+    "titulo_extraido": "Como combinar / +",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-069.md",
+    "referencia_visual": "referencias-visuais/p-069.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 70,
+    "titulo_extraido": "COMBINAÇÕES EM RGB / +",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-070.md",
+    "referencia_visual": "referencias-visuais/p-070.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 71,
+    "titulo_extraido": "COMBINAÇÕES EM RGB / + +",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-071.md",
+    "referencia_visual": "referencias-visuais/p-071.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "VIS-02"
+    ]
+  },
+  {
+    "pagina_pdf": 72,
+    "titulo_extraido": "COMBINAÇÕES EM RGB / O que não fazer.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-072.md",
+    "referencia_visual": "referencias-visuais/p-072.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 73,
+    "titulo_extraido": "Como combinar / +",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-073.md",
+    "referencia_visual": "referencias-visuais/p-073.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 74,
+    "titulo_extraido": "COMBINAÇÕES EM CMYK / +",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-074.md",
+    "referencia_visual": "referencias-visuais/p-074.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 75,
+    "titulo_extraido": "COMBINAÇÕES EM CMYK / + +",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-075.md",
+    "referencia_visual": "referencias-visuais/p-075.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "VIS-02"
+    ]
+  },
+  {
+    "pagina_pdf": 76,
+    "titulo_extraido": "Como todo o povo / Begônia",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-076.md",
+    "referencia_visual": "referencias-visuais/p-076.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 77,
+    "titulo_extraido": "Tie / Gradientes escuros",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-077.md",
+    "referencia_visual": "referencias-visuais/p-077.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 78,
+    "titulo_extraido": "COMO FAZER / Gradientes escuros",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-078.md",
+    "referencia_visual": "referencias-visuais/p-078.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 79,
+    "titulo_extraido": "Tie / Gradientes claros",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-079.md",
+    "referencia_visual": "referencias-visuais/p-079.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 80,
+    "titulo_extraido": "COMO FAZER / Gradientes claros",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-080.md",
+    "referencia_visual": "referencias-visuais/p-080.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 81,
+    "titulo_extraido": "Tipografias / Tipografias dão forma visual à linguagem verbal.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-081.md",
+    "referencia_visual": "referencias-visuais/p-081.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 82,
+    "titulo_extraido": "TIPOGRAFIA PRINCIPAL / Campuni",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-082.md",
+    "referencia_visual": "referencias-visuais/p-082.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": [
+      "CON-11"
+    ]
+  },
+  {
+    "pagina_pdf": 83,
+    "titulo_extraido": "TIPOGRAFIA DE APOIO / Figtree",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-083.md",
+    "referencia_visual": "referencias-visuais/p-083.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 84,
+    "titulo_extraido": "CONSTRUÇÃO E HIERARQUIA / Eu sou um título",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-084.md",
+    "referencia_visual": "referencias-visuais/p-084.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 85,
+    "titulo_extraido": "CAMPUNI / Régua de flexibilização",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-085.md",
+    "referencia_visual": "referencias-visuais/p-085.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-13"
+    ]
+  },
+  {
+    "pagina_pdf": 86,
+    "titulo_extraido": "FIGTREE / Régua de flexibilização",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-086.md",
+    "referencia_visual": "referencias-visuais/p-086.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-13"
+    ]
+  },
+  {
+    "pagina_pdf": 87,
+    "titulo_extraido": "Texto sobre cores / Ao seu lado a cada",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-087.md",
+    "referencia_visual": "referencias-visuais/p-087.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 88,
+    "titulo_extraido": "Texto sobre cores Sempre Assim como para criar um novo negócio / é preciso um conjunto de habilidades",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-088.md",
+    "referencia_visual": "referencias-visuais/p-088.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 89,
+    "titulo_extraido": "Fonte de peso regular a partir de Fonte de peso regular até / TEXTO SOBRE CORES",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-089.md",
+    "referencia_visual": "referencias-visuais/p-089.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 90,
+    "titulo_extraido": "TEXTO SOBRE CORES / Acessibilidade na web",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-090.md",
+    "referencia_visual": "referencias-visuais/p-090.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 91,
+    "titulo_extraido": "Fonte de peso regular a partir de Fonte de peso regular até / TEXTO SOBRE CORES",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-091.md",
+    "referencia_visual": "referencias-visuais/p-091.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 92,
+    "titulo_extraido": "TEXTO SOBRE CORES / Acessibilidade em impressos",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-092.md",
+    "referencia_visual": "referencias-visuais/p-092.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 93,
+    "titulo_extraido": "TIPOGRAFIA / Boas práticas",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-093.md",
+    "referencia_visual": "referencias-visuais/p-093.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 94,
+    "titulo_extraido": "Fotografia TRÊS MANDAMENTOS / DA FOTOGRAFIA DO SEBRAE",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-094.md",
+    "referencia_visual": "referencias-visuais/p-094.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 95,
+    "titulo_extraido": "#1 / Somos reais",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-095.md",
+    "referencia_visual": "referencias-visuais/p-095.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 96,
+    "titulo_extraido": "SOMOS REAIS / O que não fazer.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-096.md",
+    "referencia_visual": "referencias-visuais/p-096.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 97,
+    "titulo_extraido": "#2 / Somos inspiradores",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-097.md",
+    "referencia_visual": "referencias-visuais/p-097.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 98,
+    "titulo_extraido": "SOMOS INSPIRADORES / O que não fazer.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-098.md",
+    "referencia_visual": "referencias-visuais/p-098.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 99,
+    "titulo_extraido": "#3 / Somos fazedores",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-099.md",
+    "referencia_visual": "referencias-visuais/p-099.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 100,
+    "titulo_extraido": "SOMOS FAZEDORES / O que não fazer.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-100.md",
+    "referencia_visual": "referencias-visuais/p-100.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 101,
+    "titulo_extraido": "FOTOGRAFIA / Diretrizes de pessoas",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-101.md",
+    "referencia_visual": "referencias-visuais/p-101.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 102,
+    "titulo_extraido": "FOTOGRAFIA / Diretrizes de temperatura",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-102.md",
+    "referencia_visual": "referencias-visuais/p-102.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 103,
+    "titulo_extraido": "FOTOGRAFIA / Diretrizes de cenário",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-103.md",
+    "referencia_visual": "referencias-visuais/p-103.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 104,
+    "titulo_extraido": "FOTOGRAFIA / O que não fazer.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-104.md",
+    "referencia_visual": "referencias-visuais/p-104.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 105,
+    "titulo_extraido": "Grid Sebrae / Para auxiliar o desenvolvimento dos layouts com",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-105.md",
+    "referencia_visual": "referencias-visuais/p-105.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 106,
+    "titulo_extraido": "grafismos / São infinitas",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-106.md",
+    "referencia_visual": "referencias-visuais/p-106.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 107,
+    "titulo_extraido": "107",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-107.md",
+    "referencia_visual": "referencias-visuais/p-107.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 108,
+    "titulo_extraido": "108",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-108.md",
+    "referencia_visual": "referencias-visuais/p-108.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 109,
+    "titulo_extraido": "109",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-109.md",
+    "referencia_visual": "referencias-visuais/p-109.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 110,
+    "titulo_extraido": "GRID SEBRAE / Simplificado",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-110.md",
+    "referencia_visual": "referencias-visuais/p-110.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 111,
+    "titulo_extraido": "GRID SEBRAE / Simplificado",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-111.md",
+    "referencia_visual": "referencias-visuais/p-111.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 112,
+    "titulo_extraido": "GRID SEBRAE / Básico",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-112.md",
+    "referencia_visual": "referencias-visuais/p-112.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 113,
+    "titulo_extraido": "GRID SEBRAE / Básico",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-113.md",
+    "referencia_visual": "referencias-visuais/p-113.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 114,
+    "titulo_extraido": "GRID SEBRAE / Intermediário",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-114.md",
+    "referencia_visual": "referencias-visuais/p-114.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 115,
+    "titulo_extraido": "GRID SEBRAE / Intermediário",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-115.md",
+    "referencia_visual": "referencias-visuais/p-115.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 116,
+    "titulo_extraido": "GRID SEBRAE / Avançado",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-116.md",
+    "referencia_visual": "referencias-visuais/p-116.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 117,
+    "titulo_extraido": "GRID SEBRAE / Avançado",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-117.md",
+    "referencia_visual": "referencias-visuais/p-117.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 118,
+    "titulo_extraido": "GRID SEBRAE / Adaptando a",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-118.md",
+    "referencia_visual": "referencias-visuais/p-118.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 119,
+    "titulo_extraido": "GRID SEBRAE / Adaptando a",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-119.md",
+    "referencia_visual": "referencias-visuais/p-119.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 120,
+    "titulo_extraido": "GRID SEBRAE / Régua de flexibilização",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-120.md",
+    "referencia_visual": "referencias-visuais/p-120.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 121,
+    "titulo_extraido": "GRID SEBRAE / O que não fazer.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-121.md",
+    "referencia_visual": "referencias-visuais/p-121.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 122,
+    "titulo_extraido": "GRID SEBRAE / Regionalismo",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-122.md",
+    "referencia_visual": "referencias-visuais/p-122.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 123,
+    "titulo_extraido": "GRID SEBRAE / Regionalismo",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-123.md",
+    "referencia_visual": "referencias-visuais/p-123.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 124,
+    "titulo_extraido": "GRID SEBRAE / Regionalismo",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-124.md",
+    "referencia_visual": "referencias-visuais/p-124.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 125,
+    "titulo_extraido": "10x12 módulos / Iconografia",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-125.md",
+    "referencia_visual": "referencias-visuais/p-125.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 126,
+    "titulo_extraido": "10x12 módulos / Iconografia",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-126.md",
+    "referencia_visual": "referencias-visuais/p-126.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 127,
+    "titulo_extraido": "Iconografia / 127",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-127.md",
+    "referencia_visual": "referencias-visuais/p-127.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 128,
+    "titulo_extraido": "Ilustrações / Este é o estilo que definimos",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-128.md",
+    "referencia_visual": "referencias-visuais/p-128.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 129,
+    "titulo_extraido": "ILUSTRAÇÕES / Diretrizes visuais",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-129.md",
+    "referencia_visual": "referencias-visuais/p-129.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 130,
+    "titulo_extraido": "Resumo / LOGO TIPOGRAFIA CORES GRID",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/03-expressoes-visuais.md",
+    "fonte_textual": "fonte-pdf/p-130.md",
+    "referencia_visual": "referencias-visuais/p-130.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 131,
+    "titulo_extraido": "Definida a nossa / forma, é hora de dar",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/04-expressoes-sonoras.md",
+    "fonte_textual": "fonte-pdf/p-131.md",
+    "referencia_visual": "referencias-visuais/p-131.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 132,
+    "titulo_extraido": "4 / Mesmo quando não dizemos",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/04-expressoes-sonoras.md",
+    "fonte_textual": "fonte-pdf/p-132.md",
+    "referencia_visual": "referencias-visuais/p-132.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 133,
+    "titulo_extraido": "4 / Entre no clima:",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/04-expressoes-sonoras.md",
+    "fonte_textual": "fonte-pdf/p-133.md",
+    "referencia_visual": "referencias-visuais/p-133.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 134,
+    "titulo_extraido": "Nossa identidade sonora nasce / de 4 atributos que, juntos, dão",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/04-expressoes-sonoras.md",
+    "fonte_textual": "fonte-pdf/p-134.md",
+    "referencia_visual": "referencias-visuais/p-134.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 135,
+    "titulo_extraido": "DNA SONORO / Ritmo",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/04-expressoes-sonoras.md",
+    "fonte_textual": "fonte-pdf/p-135.md",
+    "referencia_visual": "referencias-visuais/p-135.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 136,
+    "titulo_extraido": "DNA SONORO / Harmonia",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/04-expressoes-sonoras.md",
+    "fonte_textual": "fonte-pdf/p-136.md",
+    "referencia_visual": "referencias-visuais/p-136.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 137,
+    "titulo_extraido": "DNA SONORO / Instrumentação",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/04-expressoes-sonoras.md",
+    "fonte_textual": "fonte-pdf/p-137.md",
+    "referencia_visual": "referencias-visuais/p-137.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 138,
+    "titulo_extraido": "DNA SONORO / Melodia",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/04-expressoes-sonoras.md",
+    "fonte_textual": "fonte-pdf/p-138.md",
+    "referencia_visual": "referencias-visuais/p-138.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 139,
+    "titulo_extraido": "Nossa identidade / Tema Musical",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/04-expressoes-sonoras.md",
+    "fonte_textual": "fonte-pdf/p-139.md",
+    "referencia_visual": "referencias-visuais/p-139.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 140,
+    "titulo_extraido": "TEMA MUSICAL / Completo",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/04-expressoes-sonoras.md",
+    "fonte_textual": "fonte-pdf/p-140.md",
+    "referencia_visual": "referencias-visuais/p-140.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 141,
+    "titulo_extraido": "TEMA MUSICAL / Fundo",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/04-expressoes-sonoras.md",
+    "fonte_textual": "fonte-pdf/p-141.md",
+    "referencia_visual": "referencias-visuais/p-141.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 142,
+    "titulo_extraido": "TEMA MUSICAL / Harmônico",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/04-expressoes-sonoras.md",
+    "fonte_textual": "fonte-pdf/p-142.md",
+    "referencia_visual": "referencias-visuais/p-142.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 143,
+    "titulo_extraido": "TEMA MUSICAL / Rítmico",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/04-expressoes-sonoras.md",
+    "fonte_textual": "fonte-pdf/p-143.md",
+    "referencia_visual": "referencias-visuais/p-143.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 144,
+    "titulo_extraido": "Assinatura sonora / Uso na comunicação",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/04-expressoes-sonoras.md",
+    "fonte_textual": "fonte-pdf/p-144.md",
+    "referencia_visual": "referencias-visuais/p-144.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 145,
+    "titulo_extraido": "Como é bom ver um / trabalho tomando forma,",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-145.md",
+    "referencia_visual": "referencias-visuais/p-145.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 146,
+    "titulo_extraido": "5 / É aqui que vamos organizar",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-146.md",
+    "referencia_visual": "referencias-visuais/p-146.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 147,
+    "titulo_extraido": "5 / Organize-se:",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-147.md",
+    "referencia_visual": "referencias-visuais/p-147.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 148,
+    "titulo_extraido": "Arquitetura / 1.",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-148.md",
+    "referencia_visual": "referencias-visuais/p-148.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 149,
+    "titulo_extraido": "1. A solicitação e criação / de logos devem passar",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-149.md",
+    "referencia_visual": "referencias-visuais/p-149.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 150,
+    "titulo_extraido": "1. ANÁLISE DE CRITÉRIOS PREESTABELECIDOS / As perguntas referentes ao 'sim' e ao 'não' Assim como a árvore de decisão, que será",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-150.md",
+    "referencia_visual": "referencias-visuais/p-150.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 151,
+    "titulo_extraido": "2. A marca-mãe, / sempre que possível,",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-151.md",
+    "referencia_visual": "referencias-visuais/p-151.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 152,
+    "titulo_extraido": "2. A marca-mãe, / sempre que possível,",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-152.md",
+    "referencia_visual": "referencias-visuais/p-152.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 153,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / Premissas",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-153.md",
+    "referencia_visual": "referencias-visuais/p-153.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 154,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / Monolíticos 01",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-154.md",
+    "referencia_visual": "referencias-visuais/p-154.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 155,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / Monolíticos 01",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-155.md",
+    "referencia_visual": "referencias-visuais/p-155.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 156,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / Monolíticos 01",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-156.md",
+    "referencia_visual": "referencias-visuais/p-156.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 157,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / Monolíticos 01",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-157.md",
+    "referencia_visual": "referencias-visuais/p-157.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07",
+      "CON-09"
+    ]
+  },
+  {
+    "pagina_pdf": 158,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / Boas práticas",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-158.md",
+    "referencia_visual": "referencias-visuais/p-158.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 159,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / O que não fazer",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-159.md",
+    "referencia_visual": "referencias-visuais/p-159.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 160,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / Monolíticos 02",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-160.md",
+    "referencia_visual": "referencias-visuais/p-160.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 161,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / Monolíticos 02",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-161.md",
+    "referencia_visual": "referencias-visuais/p-161.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 162,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / Boas práticas",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-162.md",
+    "referencia_visual": "referencias-visuais/p-162.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 163,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / O que não fazer",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-163.md",
+    "referencia_visual": "referencias-visuais/p-163.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 164,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / Endossadas 01",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-164.md",
+    "referencia_visual": "referencias-visuais/p-164.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 165,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / Endossadas 02",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-165.md",
+    "referencia_visual": "referencias-visuais/p-165.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 166,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / Endossadas",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-166.md",
+    "referencia_visual": "referencias-visuais/p-166.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-04",
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 167,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / Boas práticas",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-167.md",
+    "referencia_visual": "referencias-visuais/p-167.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 168,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / O que não fazer",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-168.md",
+    "referencia_visual": "referencias-visuais/p-168.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 169,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / Independentes",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-169.md",
+    "referencia_visual": "referencias-visuais/p-169.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 170,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / Assinatura com",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-170.md",
+    "referencia_visual": "referencias-visuais/p-170.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 171,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / Como fazemos?",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-171.md",
+    "referencia_visual": "referencias-visuais/p-171.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": [
+      "CON-02",
+      "CON-07",
+      "CON-10"
+    ]
+  },
+  {
+    "pagina_pdf": 172,
+    "titulo_extraido": "1. PRESENÇA DA MARCA-MÃE / Como fazemos?",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-172.md",
+    "referencia_visual": "referencias-visuais/p-172.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 173,
+    "titulo_extraido": "3. O uso da identidade visual é um / fator adicional e flexível na criação",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-173.md",
+    "referencia_visual": "referencias-visuais/p-173.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 174,
+    "titulo_extraido": "3. ORIENTAÇÕES DE IDENTIDADE VISUAL / Marca-mãe Sebrae",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-174.md",
+    "referencia_visual": "referencias-visuais/p-174.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 175,
+    "titulo_extraido": "3. ORIENTAÇÕES DE IDENTIDADE VISUAL / Os assets da marca-mãe (tipografia, cores, grid,",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-175.md",
+    "referencia_visual": "referencias-visuais/p-175.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 176,
+    "titulo_extraido": "3. ORIENTAÇÕES DE IDENTIDADE VISUAL / A identidade visual padrão deve",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-176.md",
+    "referencia_visual": "referencias-visuais/p-176.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 177,
+    "titulo_extraido": "3. ORIENTAÇÕES DE IDENTIDADE VISUAL / Começamos a nos distanciar",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-177.md",
+    "referencia_visual": "referencias-visuais/p-177.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 178,
+    "titulo_extraido": "3. ORIENTAÇÕES DE IDENTIDADE VISUAL / Identidade independente",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-178.md",
+    "referencia_visual": "referencias-visuais/p-178.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 179,
+    "titulo_extraido": "3. ORIENTAÇÕES DE IDENTIDADE VISUAL / Padrão",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-179.md",
+    "referencia_visual": "referencias-visuais/p-179.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 180,
+    "titulo_extraido": "3. ORIENTAÇÕES DE IDENTIDADE VISUAL / Padrão",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-180.md",
+    "referencia_visual": "referencias-visuais/p-180.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07",
+      "CON-11"
+    ]
+  },
+  {
+    "pagina_pdf": 181,
+    "titulo_extraido": "3. ORIENTAÇÕES DE IDENTIDADE VISUAL / Padrão",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-181.md",
+    "referencia_visual": "referencias-visuais/p-181.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 182,
+    "titulo_extraido": "3. ORIENTAÇÕES DE IDENTIDADE VISUAL / Derivada",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-182.md",
+    "referencia_visual": "referencias-visuais/p-182.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 183,
+    "titulo_extraido": "3. ORIENTAÇÕES DE IDENTIDADE VISUAL / Derivada",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-183.md",
+    "referencia_visual": "referencias-visuais/p-183.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 184,
+    "titulo_extraido": "3. ORIENTAÇÕES DE IDENTIDADE VISUAL / Derivada",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-184.md",
+    "referencia_visual": "referencias-visuais/p-184.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 185,
+    "titulo_extraido": "3. ORIENTAÇÕES DE IDENTIDADE VISUAL / Derivada",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-185.md",
+    "referencia_visual": "referencias-visuais/p-185.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 186,
+    "titulo_extraido": "3. ORIENTAÇÕES DE IDENTIDADE VISUAL / Derivada",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-186.md",
+    "referencia_visual": "referencias-visuais/p-186.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 187,
+    "titulo_extraido": "3. ORIENTAÇÕES DE IDENTIDADE VISUAL / Nova identidade",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-187.md",
+    "referencia_visual": "referencias-visuais/p-187.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 188,
+    "titulo_extraido": "3. ORIENTAÇÕES DE IDENTIDADE VISUAL / Nova identidade",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-188.md",
+    "referencia_visual": "referencias-visuais/p-188.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 189,
+    "titulo_extraido": "3. ORIENTAÇÕES DE IDENTIDADE VISUAL / Nova identidade",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-189.md",
+    "referencia_visual": "referencias-visuais/p-189.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 190,
+    "titulo_extraido": "3. ORIENTAÇÕES DE IDENTIDADE VISUAL / Nova identidade",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-190.md",
+    "referencia_visual": "referencias-visuais/p-190.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 191,
+    "titulo_extraido": "Árvore de decisão / A ÁRVORE DE DECISÃO PARA O SEBRAE É:",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-191.md",
+    "referencia_visual": "referencias-visuais/p-191.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 192,
+    "titulo_extraido": "ÁRVORE DE DECISÃO / Antes de submeter uma iniciativa à árvore de decisão, é preciso",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-192.md",
+    "referencia_visual": "referencias-visuais/p-192.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 193,
+    "titulo_extraido": "CONVIVÊNCIA ENTRE AS MARCAS / Marcas existentes",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-193.md",
+    "referencia_visual": "referencias-visuais/p-193.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07",
+      "CON-10"
+    ]
+  },
+  {
+    "pagina_pdf": 194,
+    "titulo_extraido": "CONVIVÊNCIA ENTRE AS MARCAS / O que não fazer",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/05-arquitetura-de-marcas.md",
+    "fonte_textual": "fonte-pdf/p-194.md",
+    "referencia_visual": "referencias-visuais/p-194.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-07"
+    ]
+  },
+  {
+    "pagina_pdf": 195,
+    "titulo_extraido": "Viu como é importante / manter tudo organizado?",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-195.md",
+    "referencia_visual": "referencias-visuais/p-195.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 196,
+    "titulo_extraido": "6 / É hora de colocar ordem",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-196.md",
+    "referencia_visual": "referencias-visuais/p-196.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 197,
+    "titulo_extraido": "6 / Regulamente:",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-197.md",
+    "referencia_visual": "referencias-visuais/p-197.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 198,
+    "titulo_extraido": "Assinatura simples / Pode me chamar de Sebrae!",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-198.md",
+    "referencia_visual": "referencias-visuais/p-198.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 199,
+    "titulo_extraido": "PORTUGUÊS / Assinaturas compostas",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-199.md",
+    "referencia_visual": "referencias-visuais/p-199.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 200,
+    "titulo_extraido": "Assinaturas compostas / INGLÊS",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-200.md",
+    "referencia_visual": "referencias-visuais/p-200.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "TEX-01"
+    ]
+  },
+  {
+    "pagina_pdf": 201,
+    "titulo_extraido": "Versões alternativas / Todas as assinaturas possuem como",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-201.md",
+    "referencia_visual": "referencias-visuais/p-201.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 202,
+    "titulo_extraido": "Área de Proteção / X X",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-202.md",
+    "referencia_visual": "referencias-visuais/p-202.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 203,
+    "titulo_extraido": "Redução Máxima / Outro cuidado que devemos ter com nosso",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-203.md",
+    "referencia_visual": "referencias-visuais/p-203.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-04"
+    ]
+  },
+  {
+    "pagina_pdf": 204,
+    "titulo_extraido": "Como Assinamos / O Sebrae tem três jeitos diferentes de assinar.*",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-204.md",
+    "referencia_visual": "referencias-visuais/p-204.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 205,
+    "titulo_extraido": "O que estamos assinando? / COMO ASSINAMOS",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-205.md",
+    "referencia_visual": "referencias-visuais/p-205.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 206,
+    "titulo_extraido": "COMO ASSINAMOS #1 / Primeiro, escolhemos Ao seu lado",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-206.md",
+    "referencia_visual": "referencias-visuais/p-206.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 207,
+    "titulo_extraido": "COMO ASSINAMOS #2 / Para cores institucionais ou para as que não fazem parte",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-207.md",
+    "referencia_visual": "referencias-visuais/p-207.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 208,
+    "titulo_extraido": "COMO ASSINAMOS #3 / Não deu certo!",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-208.md",
+    "referencia_visual": "referencias-visuais/p-208.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-01"
+    ]
+  },
+  {
+    "pagina_pdf": 209,
+    "titulo_extraido": "COMO ASSINAMOS #4 / Janela aberta A JANELA TANGENCIA O LOGOTIPO EM APENAS UM PONTO",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-209.md",
+    "referencia_visual": "referencias-visuais/p-209.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 210,
+    "titulo_extraido": "COMO ASSINAMOS #4 / Janela aberta",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-210.md",
+    "referencia_visual": "referencias-visuais/p-210.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 211,
+    "titulo_extraido": "COMO ASSINAMOS #4 / Janela aberta",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-211.md",
+    "referencia_visual": "referencias-visuais/p-211.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 212,
+    "titulo_extraido": "COMO ASSINAMOS #5 / Vinheta",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-212.md",
+    "referencia_visual": "referencias-visuais/p-212.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 213,
+    "titulo_extraido": "Assinaturas / Assinaturas horizontais",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-213.md",
+    "referencia_visual": "referencias-visuais/p-213.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-02"
+    ]
+  },
+  {
+    "pagina_pdf": 214,
+    "titulo_extraido": "Assinaturas / Assinaturas horizontais",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-214.md",
+    "referencia_visual": "referencias-visuais/p-214.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-02"
+    ]
+  },
+  {
+    "pagina_pdf": 215,
+    "titulo_extraido": "Assinaturas / Assinaturas horizontais",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-215.md",
+    "referencia_visual": "referencias-visuais/p-215.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-02"
+    ]
+  },
+  {
+    "pagina_pdf": 216,
+    "titulo_extraido": "Assinaturas Assinaturas verticais: / A ordem de importância favorece",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-216.md",
+    "referencia_visual": "referencias-visuais/p-216.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-02"
+    ]
+  },
+  {
+    "pagina_pdf": 217,
+    "titulo_extraido": "Convivência RELAÇÃO DE PROPORÇÃO / 1",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-217.md",
+    "referencia_visual": "referencias-visuais/p-217.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 218,
+    "titulo_extraido": "Convivência DIAGRAMAÇÃO / 2",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-218.md",
+    "referencia_visual": "referencias-visuais/p-218.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 219,
+    "titulo_extraido": "Convivência MÚLTIPLOS SELOS / 3",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-219.md",
+    "referencia_visual": "referencias-visuais/p-219.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 220,
+    "titulo_extraido": "Convivência / com selos",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-220.md",
+    "referencia_visual": "referencias-visuais/p-220.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 221,
+    "titulo_extraido": "Convivência / com selos",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-221.md",
+    "referencia_visual": "referencias-visuais/p-221.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 222,
+    "titulo_extraido": "Usos Indevidos / 1",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/06-assinaturas-e-regras-gerais.md",
+    "fonte_textual": "fonte-pdf/p-222.md",
+    "referencia_visual": "referencias-visuais/p-222.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 223,
+    "titulo_extraido": "Agora que entendemos como / manter tudo organizado, vale",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/07-inteligencia-artificial.md",
+    "fonte_textual": "fonte-pdf/p-223.md",
+    "referencia_visual": "referencias-visuais/p-223.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 224,
+    "titulo_extraido": "7 / A tecnologia avança muito rápido,",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/07-inteligencia-artificial.md",
+    "fonte_textual": "fonte-pdf/p-224.md",
+    "referencia_visual": "referencias-visuais/p-224.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 225,
+    "titulo_extraido": "7 / Inove o processo:",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/07-inteligencia-artificial.md",
+    "fonte_textual": "fonte-pdf/p-225.md",
+    "referencia_visual": "referencias-visuais/p-225.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 226,
+    "titulo_extraido": "Nossa visão sobre / o uso de IA",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/07-inteligencia-artificial.md",
+    "fonte_textual": "fonte-pdf/p-226.md",
+    "referencia_visual": "referencias-visuais/p-226.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 227,
+    "titulo_extraido": "Nossa visão sobre / o uso de IA",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/07-inteligencia-artificial.md",
+    "fonte_textual": "fonte-pdf/p-227.md",
+    "referencia_visual": "referencias-visuais/p-227.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 228,
+    "titulo_extraido": "Diretrizes para texto / Ao utilizar assistentes de texto (como ChatGPT, Copilot ou Gemini),",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/07-inteligencia-artificial.md",
+    "fonte_textual": "fonte-pdf/p-228.md",
+    "referencia_visual": "referencias-visuais/p-228.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 229,
+    "titulo_extraido": "Diretrizes para imagem / Nossa marca é pautada na verdade – em nossas diretrizes",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/07-inteligencia-artificial.md",
+    "fonte_textual": "fonte-pdf/p-229.md",
+    "referencia_visual": "referencias-visuais/p-229.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 230,
+    "titulo_extraido": "Todas essas imagens foram geradas por IA. / DIRETRIZES PARA IMAGEM",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/07-inteligencia-artificial.md",
+    "fonte_textual": "fonte-pdf/p-230.md",
+    "referencia_visual": "referencias-visuais/p-230.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 231,
+    "titulo_extraido": "Riscos e / responsabilidades",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/07-inteligencia-artificial.md",
+    "fonte_textual": "fonte-pdf/p-231.md",
+    "referencia_visual": "referencias-visuais/p-231.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 232,
+    "titulo_extraido": "E, por fim, chegou / a hora de trazermos",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/08-aplicacoes.md",
+    "fonte_textual": "fonte-pdf/p-232.md",
+    "referencia_visual": "referencias-visuais/p-232.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 233,
+    "titulo_extraido": "8 / Afinal, o que seria",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/08-aplicacoes.md",
+    "fonte_textual": "fonte-pdf/p-233.md",
+    "referencia_visual": "referencias-visuais/p-233.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 234,
+    "titulo_extraido": "8 / Inspire-se:",
+    "tipo": "transicao_ou_abertura",
+    "guia_assunto": "regras/08-aplicacoes.md",
+    "fonte_textual": "fonte-pdf/p-234.md",
+    "referencia_visual": "referencias-visuais/p-234.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": false,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 235,
+    "titulo_extraido": "Materiais / Institucionais",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/08-aplicacoes.md",
+    "fonte_textual": "fonte-pdf/p-235.md",
+    "referencia_visual": "referencias-visuais/p-235.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 236,
+    "titulo_extraido": "Papelaria / Cartão de visitas (90x50 mm). Papel timbrado (A4).",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/08-aplicacoes.md",
+    "fonte_textual": "fonte-pdf/p-236.md",
+    "referencia_visual": "referencias-visuais/p-236.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 237,
+    "titulo_extraido": "Crachás / Aqui, utilizamos nossas cores diversas",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/08-aplicacoes.md",
+    "fonte_textual": "fonte-pdf/p-237.md",
+    "referencia_visual": "referencias-visuais/p-237.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 238,
+    "titulo_extraido": "Apresentação / institucional",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/08-aplicacoes.md",
+    "fonte_textual": "fonte-pdf/p-238.md",
+    "referencia_visual": "referencias-visuais/p-238.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 239,
+    "titulo_extraido": "Sacola / 239",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/08-aplicacoes.md",
+    "fonte_textual": "fonte-pdf/p-239.md",
+    "referencia_visual": "referencias-visuais/p-239.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 240,
+    "titulo_extraido": "Ambiente Digital / No ambiente digital, temos mais liberdade para",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/08-aplicacoes.md",
+    "fonte_textual": "fonte-pdf/p-240.md",
+    "referencia_visual": "referencias-visuais/p-240.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 241,
+    "titulo_extraido": "Redes sociais / 241",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/08-aplicacoes.md",
+    "fonte_textual": "fonte-pdf/p-241.md",
+    "referencia_visual": "referencias-visuais/p-241.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 242,
+    "titulo_extraido": "Assinaturas / de e-mail",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/08-aplicacoes.md",
+    "fonte_textual": "fonte-pdf/p-242.md",
+    "referencia_visual": "referencias-visuais/p-242.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": [
+      "CON-02"
+    ]
+  },
+  {
+    "pagina_pdf": 243,
+    "titulo_extraido": "Comunicação / Nos materiais de comunicação externa,",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/08-aplicacoes.md",
+    "fonte_textual": "fonte-pdf/p-243.md",
+    "referencia_visual": "referencias-visuais/p-243.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 244,
+    "titulo_extraido": "Painel / 244",
+    "tipo": "conteudo_de_marca",
+    "guia_assunto": "regras/08-aplicacoes.md",
+    "fonte_textual": "fonte-pdf/p-244.md",
+    "referencia_visual": "referencias-visuais/p-244.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  },
+  {
+    "pagina_pdf": 245,
+    "titulo_extraido": "Página final sem texto extraível; assinatura composta branca sobre azul",
+    "tipo": "encerramento_visual",
+    "guia_assunto": "regras/08-aplicacoes.md",
+    "fonte_textual": "fonte-pdf/p-245.md",
+    "referencia_visual": "referencias-visuais/p-245.png",
+    "texto_extraido_conferido_com_pdf": true,
+    "dependencia_visual": true,
+    "criterios_usuario_relacionados": []
+  }
+]

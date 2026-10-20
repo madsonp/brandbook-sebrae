@@ -1,0 +1,18 @@
+﻿nome,pantone,cmyk,rgb,hex,pagina_pdf,grupo
+Preto,Process Black C,"0,0,0,100","0,0,0",#000000,67,principal
+Atlântico,2756 C,"100,92,0,26","11,37,116",#0B2574,67,principal
+Céu,2905 C,"43,3,0,0","101,183,251",#65B7FB,67,principal
+Azul,2935 C,"100,63,0,2","42,79,218",#2A4FDA,67,principal
+Offwhite,Cool Gray 1 C,"10,7,5,0","239,243,238",#EFF3EE,67,principal
+Begônia,211 C,"0,60,0,0","255,128,200",#FF80C8,68,complementar
+Canário,100 C,"1,0,70,0","251,236,118",#FBEC76,68,complementar
+Manacá,252 C,"20,60,0,0","190,100,227",#BE64E3,68,complementar
+Umbu,2281 C,"13,0,48,0","231,247,158",#E7F79E,68,complementar
+Jacarandá,2665 C,"65,73,0,0","143,133,244",#8F85F4,68,complementar
+Pera,584 C,"17,0,75,0","202,223,97",#CADF61,68,complementar
+Tiê,1785 C,"0,82,51,0","224,86,93",#E0565D,68,complementar
+Menta,353 C,"42,0,44,0","159,240,189",#9FF0BD,68,complementar
+Acerola,714 C,"0,36,66,0","243,157,114",#F39D72,68,complementar
+Taiti,2285 C,"44,0,86,0","144,210,117",#90D275,68,complementar
+Ipê,169 C,"0,34,21,0","242,175,171",#F2AFAB,68,complementar
+Guaco,3529 C,"73,0,100,0","97,180,102",#61B466,68,complementar

@@ -1,0 +1,35 @@
+[
+  {
+    "grupo_gradiente": "escuro",
+    "cores_solidas_no_intervalo": [
+      "Acerola",
+      "Ipê",
+      "Canário",
+      "Umbu",
+      "Pera",
+      "Menta",
+      "Taiti",
+      "Guaco"
+    ],
+    "pagina_pdf": 78,
+    "finalidade": "texto_e_elementos_graficos_sobre_o_fundo_gradiente",
+    "referencia_visual": "referencias-visuais/p-078.png",
+    "limite": "Intervalo recomendado mostrado na página; conferir contraste da peça e categoria do texto. Não substitui uma avaliação específica de legibilidade nem as matrizes de texto/fundo sólido."
+  },
+  {
+    "grupo_gradiente": "claro",
+    "cores_solidas_no_intervalo": [
+      "Offwhite",
+      "Céu",
+      "Azul",
+      "Atlântico",
+      "Begônia",
+      "Manacá",
+      "Jacarandá"
+    ],
+    "pagina_pdf": 80,
+    "finalidade": "texto_e_elementos_graficos_sobre_o_fundo_gradiente",
+    "referencia_visual": "referencias-visuais/p-080.png",
+    "limite": "Intervalo recomendado mostrado na página; conferir contraste da peça e categoria do texto. Não substitui uma avaliação específica de legibilidade nem as matrizes de texto/fundo sólido."
+  }
+]

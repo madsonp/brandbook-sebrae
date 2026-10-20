@@ -1,0 +1,9 @@
+# Arquivos locais e intermediários
+work/
+__pycache__/
+*.pyc
+.env
+.env.*
+.DS_Store
+Thumbs.db
+*.tmp

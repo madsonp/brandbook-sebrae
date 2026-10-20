@@ -1,0 +1,207 @@
+{
+  "fonte_base": "original.pdf",
+  "escopo_das_orientacoes": "A comparação com o PDF relata o conteúdo da fonte. A execução deste trabalho também considera os critérios expressos pelo usuário. Identificar a origem quando ela muda a decisão.",
+  "criterios": [
+    {
+      "id": "CON-01",
+      "origem": "usuario_nesta_conversa",
+      "escopo": "trabalhos sujeitos às definições do usuário; não atribuir estas definições à redação original do PDF",
+      "paginas_pdf": [
+        208
+      ],
+      "criterio": "Interno é material desenvolvido pelo Sebrae para uso/veiculação por ele próprio, incluindo material didático e comunicação interna. Externo é mídia desenvolvida para veiculação para fora, como outdoor e mídia exterior. Classificar pela destinação informada, preservando os exemplos da p. 208.",
+      "relacao_com_pdf": "Esclarecimento de interpretação ou orientação de uso do padrão gráfico.",
+      "status": "esclarecido_pelo_usuario",
+      "paginas_de_origem_da_questao": [
+        208
+      ]
+    },
+    {
+      "id": "CON-02",
+      "origem": "usuario_nesta_conversa",
+      "escopo": "trabalhos sujeitos às definições do usuário; não atribuir estas definições à redação original do PDF; definição de assinatura de e-mail, sem decidir a posição de marcas parceiras",
+      "paginas_pdf": [
+        171,
+        213,
+        214,
+        215,
+        216,
+        242
+      ],
+      "criterio": "No contexto esclarecido pelo usuário, assinatura significa assinatura de e-mail dos colaboradores, com regra específica por submarca. Isso não redefine todas as ocorrências de assinatura no PDF: os capítulos de marcas compartilhadas continuam com seu próprio contexto. A posição/hierarquia entre marcas das pp. 171 e 213–216 não foi especificada nesta resposta.",
+      "relacao_com_pdf": "Define assinatura de e-mail; não resolve a hierarquia das marcas nas pp. 171 e 213–216.",
+      "status": "parcialmente_esclarecido_pelo_usuario",
+      "paginas_de_origem_da_questao": [
+        171,
+        213,
+        214,
+        215,
+        216
+      ]
+    },
+    {
+      "id": "CON-04",
+      "origem": "usuario_nesta_conversa",
+      "escopo": "trabalhos sujeitos às definições do usuário; não atribuir estas definições à redação original do PDF",
+      "paginas_pdf": [
+        166,
+        203
+      ],
+      "criterio": "Por confirmação do usuário, os limites 16 px no digital e 5 mm no impresso referem-se à distância entre a marca e o nome da submarca, no caso discutido da p. 166. É um esclarecimento que altera a leitura do trecho chamado redução no PDF; não é cota de altura/largura do logotipo nem substitui as reduções da p. 203. A relação x/3 do desenho permanece registrada na fonte; não inferir que px e mm sejam conversões entre si.",
+      "relacao_com_pdf": "Diverge da redação da p. 166, que chama os valores de redução do logotipo.",
+      "status": "esclarecido_pelo_usuario",
+      "paginas_de_origem_da_questao": [
+        166,
+        203
+      ]
+    },
+    {
+      "id": "CON-07",
+      "origem": "usuario_nesta_conversa",
+      "escopo": "trabalhos sujeitos às definições do usuário; não atribuir estas definições à redação original do PDF; exigência de símbolo para novas submarcas nos modelos discutidos, com tratamento específico de marcas preexistentes",
+      "paginas_pdf": [
+        154,
+        155,
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188,
+        189,
+        190,
+        191,
+        192,
+        193,
+        194
+      ],
+      "criterio": "A proibição de criar submarcas sem símbolo aplica-se a todos os modelos de submarca abrangidos pela regra discutida, inclusive Monolítico 02. Os exemplos originais sem símbolo ficam como registro da fonte e não autorizam uma nova criação sem símbolo. Esta orientação não redesenha automaticamente uma marca existente nem revoga a exceção expressa de marcas anteriores da p. 193.",
+      "relacao_com_pdf": "Altera a aplicação dos exemplos sem símbolo das pp. 160–164; não redesenha esses exemplos.",
+      "status": "esclarecido_pelo_usuario",
+      "paginas_de_origem_da_questao": [
+        160,
+        161,
+        163
+      ]
+    },
+    {
+      "id": "CON-09",
+      "origem": "usuario_nesta_conversa",
+      "escopo": "trabalhos sujeitos às definições do usuário; não atribuir estas definições à redação original do PDF",
+      "paginas_pdf": [
+        157
+      ],
+      "criterio": "Corrigir o título operacional para Nome à esquerda e símbolo à direita, preservando a composição mostrada na p. 157: nome antes do logotipo Sebrae e símbolo à direita.",
+      "relacao_com_pdf": "Esclarecimento de interpretação ou orientação de uso do padrão gráfico.",
+      "status": "esclarecido_pelo_usuario",
+      "paginas_de_origem_da_questao": [
+        157
+      ]
+    },
+    {
+      "id": "CON-10",
+      "origem": "usuario_nesta_conversa",
+      "escopo": "trabalhos sujeitos às definições do usuário; não atribuir estas definições à redação original do PDF",
+      "paginas_pdf": [
+        171,
+        193
+      ],
+      "criterio": "O espaçamento entre as marcas nas situações das pp. 171 e 193 deve medir o tamanho de duas letras S do logotipo Sebrae. Não reduzir para uma letra S nem substituir por duas letras da fonte do texto. O usuário não especificou um novo eixo geométrico nem uma medida absoluta em px.",
+      "relacao_com_pdf": "Estabelece operacionalmente duas letras S; o esquema da p. 171 usa uma cota geral X.",
+      "status": "esclarecido_pelo_usuario",
+      "paginas_de_origem_da_questao": [
+        171,
+        193
+      ]
+    },
+    {
+      "id": "CON-11",
+      "origem": "usuario_nesta_conversa",
+      "escopo": "trabalhos sujeitos às definições do usuário; não atribuir estas definições à redação original do PDF",
+      "paginas_pdf": [
+        82,
+        180
+      ],
+      "criterio": "No exemplo Assessoria de Negócios da p. 180, utilizar Campuni Bold. A menção a Regular no texto original é superada por este esclarecimento.",
+      "relacao_com_pdf": "Resolve a divergência entre Regular no texto e Bold na legenda da p. 180.",
+      "status": "esclarecido_pelo_usuario",
+      "paginas_de_origem_da_questao": [
+        82,
+        180
+      ]
+    },
+    {
+      "id": "CON-13",
+      "origem": "usuario_nesta_conversa",
+      "escopo": "trabalhos sujeitos às definições do usuário; não atribuir estas definições à redação original do PDF",
+      "paginas_pdf": [
+        85,
+        86
+      ],
+      "criterio": "Os valores de entreletra das pp. 85–86 são em px. Por exemplo, -10 significa -10 px nesse quadro. Isso não altera as unidades pt das categorias de texto das matrizes de contraste nem define uma unidade nova para entrelinha.",
+      "relacao_com_pdf": "Acrescenta a unidade px, ausente no quadro do PDF.",
+      "status": "esclarecido_pelo_usuario",
+      "paginas_de_origem_da_questao": [
+        85,
+        86
+      ]
+    },
+    {
+      "id": "VIS-02",
+      "origem": "usuario_nesta_conversa",
+      "escopo": "trabalhos sujeitos às definições do usuário; não atribuir estas definições à redação original do PDF",
+      "paginas_pdf": [
+        71,
+        75
+      ],
+      "criterio": "Para Guaco/Taiti, citar o exemplo visual Taiti/Guaco das pp. 71 e 75: a figura mostra o par sem traço de restrição. Conforme o usuário, a inversão é erro de redação; usar a figura como orientação para esse par. A transcrição literal continua registrando que Taiti não aparece na linha de base Guaco. Esta correção é específica e não torna intercambiáveis os demais 31 pares dependentes da base; tampouco aprova texto/fundo.",
+      "relacao_com_pdf": "Esclarecimento de interpretação ou orientação de uso do padrão gráfico.",
+      "status": "esclarecido_pelo_usuario",
+      "paginas_de_origem_da_questao": [
+        71,
+        75
+      ]
+    },
+    {
+      "id": "TEX-01",
+      "origem": "usuario_nesta_conversa",
+      "escopo": "trabalhos sujeitos às definições do usuário; não atribuir estas definições à redação original do PDF",
+      "paginas_pdf": [
+        200
+      ],
+      "criterio": "Utilizar o padrão gráfico em espanhol apresentado na p. 200 e o arquivo oficial correspondente. Preservar tipografia, proporções, posição e redação do padrão; não recriar a assinatura por tradução livre nem corrigir sua grafia por conta própria. A referência PNG é evidência visual, não um novo vetor oficial.",
+      "relacao_com_pdf": "Esclarecimento de interpretação ou orientação de uso do padrão gráfico.",
+      "status": "esclarecido_pelo_usuario",
+      "paginas_de_origem_da_questao": [
+        200
+      ]
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+[
+  {
+    "recurso": "logotipos_e_assinaturas",
+    "paginas_pdf": [
+      66,
+      198,
+      199,
+      200,
+      201,
+      202,
+      203
+    ],
+    "necessidade": "Arquivos oficiais em curvas das configurações necessárias.",
+    "disponibilidade_no_pacote": "PDF e PNG de referência disponíveis; arquivos oficiais avulsos não incluídos.",
+    "imagens_sao_referencias_nao_arquivos_de_producao": true
+  },
+  {
+    "recurso": "grids_de_layout",
+    "paginas_pdf": [
+      105,
+      110,
+      112,
+      114,
+      116,
+      118
+    ],
+    "necessidade": "Grids oficiais nas quatro versões, ou reprodução geométrica fiel verificada.",
+    "disponibilidade_no_pacote": "PDF e PNG disponíveis; não há modelos vetoriais avulsos de construção no pacote.",
+    "imagens_sao_referencias_nao_arquivos_de_producao": true
+  },
+  {
+    "recurso": "fontes_tipograficas",
+    "paginas_pdf": [
+      82,
+      83,
+      156,
+      160,
+      199
+    ],
+    "necessidade": "Campuni Bold, Figtree e os pesos Univers aplicáveis, conforme a tarefa.",
+    "disponibilidade_no_pacote": "Nenhum arquivo de fonte está incluído. Há link de Figtree; disponibilidade e licença não foram verificadas nesta auditoria.",
+    "imagens_sao_referencias_nao_arquivos_de_producao": true
+  },
+  {
+    "recurso": "iconografia",
+    "paginas_pdf": [
+      125,
+      126,
+      127
+    ],
+    "necessidade": "Ícones oficiais ou novas construções compatíveis com o grid e as diretrizes.",
+    "disponibilidade_no_pacote": "Referências disponíveis; não há biblioteca oficial avulsa de ícones.",
+    "imagens_sao_referencias_nao_arquivos_de_producao": true
+  },
+  {
+    "recurso": "ilustracoes",
+    "paginas_pdf": [
+      128,
+      129
+    ],
+    "necessidade": "Ilustrações próprias no estilo definido.",
+    "disponibilidade_no_pacote": "As imagens da p. 128 são referências de estilo e não devem ser reutilizadas em peças da marca.",
+    "imagens_sao_referencias_nao_arquivos_de_producao": true
+  },
+  {
+    "recurso": "audio_video",
+    "paginas_pdf": [
+      140,
+      141,
+      142,
+      143,
+      144,
+      212
+    ],
+    "necessidade": "Arquivos oficiais de tema, versões, assinatura sonora e vinheta.",
+    "disponibilidade_no_pacote": "Links extraídos disponíveis; mídias não baixadas e destinos não testados.",
+    "imagens_sao_referencias_nao_arquivos_de_producao": true
+  }
+]

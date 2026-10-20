@@ -1,0 +1,212 @@
+[
+  {
+    "id": "GRID-LAYOUT",
+    "origem": "pdf_figura",
+    "paginas_pdf": [
+      105
+    ],
+    "escopo": "grid de layout",
+    "parametros": {
+      "inclinacao_referencia_graus": 77.7
+    },
+    "recurso_necessario": "modelo de grid; o ângulo sozinho não define todas as linhas"
+  },
+  {
+    "id": "GRID-ICON",
+    "origem": "pdf_figura_e_texto",
+    "paginas_pdf": [
+      125,
+      126
+    ],
+    "escopo": "iconografia",
+    "parametros": {
+      "grade_modulos": "10x12",
+      "direcoes_graus": [
+        0,
+        77.7
+      ],
+      "modulo": "altura de uma barra do logo"
+    },
+    "condicoes": "não ultrapassar o grid; exceções de aplicação/legibilidade conforme Branding e UX"
+  },
+  {
+    "id": "GRID-SIMBOLO",
+    "origem": "pdf_figura_e_texto",
+    "paginas_pdf": [
+      154,
+      155
+    ],
+    "escopo": "símbolos monolíticos descritos",
+    "parametros": {
+      "grade_modulos": "10x10",
+      "altura_barra_em_modulos": 2
+    },
+    "condicoes": "não ultrapassar o grid; não confundir com iconografia"
+  },
+  {
+    "id": "MONO-01",
+    "origem": "pdf_figura_e_texto",
+    "paginas_pdf": [
+      156,
+      157
+    ],
+    "escopo": "Monolítico 01",
+    "parametros": {
+      "altura_logotipo_em_modulos": 6,
+      "distancia_em_modulos": 2,
+      "fonte_nome": "Univers Bold Italic"
+    },
+    "condicoes": "preservar as posições específicas de cada variante"
+  },
+  {
+    "id": "MONO-02",
+    "origem": "pdf_figura",
+    "paginas_pdf": [
+      160,
+      161
+    ],
+    "escopo": "Monolítico 02",
+    "parametros": {
+      "X": "altura de uma barra Sebrae",
+      "espessura_horizontal_separador": "X/2",
+      "distancia_nome_ao_separador": "2X",
+      "distancia_separador_ao_logotipo": "2X",
+      "fonte_nome": "Univers Bold"
+    },
+    "condicoes": "cota X/2 é horizontal; extensão vertical conforme figura; preservar cores e composição"
+  },
+  {
+    "id": "ENDOSSO",
+    "origem": "pdf_figura_e_texto",
+    "paginas_pdf": [
+      164,
+      165
+    ],
+    "escopo": "endossos dos diagramas",
+    "parametros": {
+      "referencia_X": "nome da submarca = 100% no diagrama",
+      "proporcao_logotipo": "aproximadamente 40%",
+      "espacamento_relativo": "X/3"
+    },
+    "condicoes": "consultar posições e equilíbrio do símbolo; critério do usuário sobre mínimos absolutos registrado separadamente"
+  },
+  {
+    "id": "ENDOSSO-MINIMO-TRABALHO",
+    "origem": "usuario_nesta_conversa",
+    "paginas_pdf": [
+      166
+    ],
+    "escopo": "distância entre marca e nome no trabalho conforme confirmação recebida",
+    "parametros": {
+      "minimo_digital_px": 16,
+      "minimo_impresso_mm": 5
+    },
+    "condicoes": "o PDF chama esses valores de redução do logotipo; não atribuir esta leitura à redação original"
+  },
+  {
+    "id": "PROTECAO",
+    "origem": "pdf_figura_e_texto",
+    "paginas_pdf": [
+      202
+    ],
+    "escopo": "área externa da assinatura",
+    "parametros": {
+      "modulo_X": "altura da letra S do logo",
+      "margem": "X em cada lado a partir dos pontos extremos"
+    },
+    "condicoes": "não confundir com espaço interno de descritivo ou com distância entre marcas"
+  },
+  {
+    "id": "COMPOSTA-ESPACO",
+    "origem": "pdf_figura",
+    "paginas_pdf": [
+      199
+    ],
+    "escopo": "assinaturas compostas",
+    "parametros": {
+      "espaco_logo_descritivo": "X/2",
+      "referencia_X": "letra S do diagrama",
+      "fonte_descritivo": "Univers Bold Italic"
+    },
+    "condicoes": "usar configuração oficial da versão escolhida"
+  },
+  {
+    "id": "REDUCAO-SIMPLES",
+    "origem": "pdf_figura",
+    "paginas_pdf": [
+      203
+    ],
+    "escopo": "assinatura simples com barras",
+    "parametros": {
+      "altura_minima_mm": 10,
+      "altura_minima_px": 50
+    },
+    "condicoes": "valores distintos da fonte; não trocar por largura nem converter para substituir um pelo outro"
+  },
+  {
+    "id": "REDUCAO-COMPOSTA-3",
+    "origem": "pdf_figura",
+    "paginas_pdf": [
+      199,
+      203
+    ],
+    "escopo": "composta versão 3, descritivo à direita",
+    "parametros": {
+      "altura_minima_mm": 12,
+      "altura_minima_px": 65
+    }
+  },
+  {
+    "id": "REDUCAO-COMPOSTA-1-2",
+    "origem": "pdf_figura",
+    "paginas_pdf": [
+      199,
+      203
+    ],
+    "escopo": "compostas versões 1 e 2, descritivo abaixo",
+    "parametros": {
+      "altura_minima_mm": 18,
+      "altura_minima_px": 96
+    }
+  },
+  {
+    "id": "SELOS",
+    "origem": "pdf_figura_e_texto",
+    "paginas_pdf": [
+      217
+    ],
+    "escopo": "intervalo de tamanho sugerido dos selos",
+    "parametros": {
+      "menor_altura": "metade da altura do logo Sebrae",
+      "maior_altura": "dobro da altura do logo Sebrae"
+    },
+    "condicoes": "sugestão; respeitar redução e legibilidade de ambos"
+  },
+  {
+    "id": "GRADIENTE",
+    "origem": "pdf_texto",
+    "paginas_pdf": [
+      76
+    ],
+    "escopo": "gradientes digitais",
+    "parametros": {
+      "quantidade_cores": 2,
+      "proporcao": "50% de cada",
+      "angulo_graus": 45
+    },
+    "condicoes": "não define duas paradas CSS coincidentes; seguir transição visual"
+  },
+  {
+    "id": "ASSINATURA-SONORA",
+    "origem": "pdf_texto",
+    "paginas_pdf": [
+      144
+    ],
+    "escopo": "assinatura sonora",
+    "parametros": {
+      "silencio_previo_minimo_segundos": 0.5,
+      "sobreposicao": false
+    },
+    "condicoes": "sem sons ou locução simultâneos"
+  }
+]

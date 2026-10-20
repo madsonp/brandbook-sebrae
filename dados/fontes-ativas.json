@@ -1,0 +1,46 @@
+{
+  "edicao": "5.0",
+  "modo_arquivo_unico": [
+    "GUIA-PARA-LLMS.md",
+    "brandbook-consolidado.md"
+  ],
+  "modo_modular": [
+    "GUIA-PARA-LLMS.md",
+    "regras/00-apresentacao.md",
+    "regras/01-estrategia-de-marca.md",
+    "regras/02-linguagem.md",
+    "regras/03-expressoes-visuais.md",
+    "regras/04-expressoes-sonoras.md",
+    "regras/05-arquitetura-de-marcas.md",
+    "regras/06-assinaturas-e-regras-gerais.md",
+    "regras/07-inteligencia-artificial.md",
+    "regras/08-aplicacoes.md",
+    "regras/09-contraste-texto-fundo.md",
+    "regras/10-combinacoes-graficas.md",
+    "regras/11-gradientes.md"
+  ],
+  "referencias_primarias": [
+    "original.pdf",
+    "pdfs-por-capitulo/",
+    "referencias-visuais/",
+    "fonte-pdf/"
+  ],
+  "dados_ativos": [
+    "dados/combinacoes-graficas.csv",
+    "dados/combinacoes-graficas.json",
+    "dados/contraste-texto-fundo.csv",
+    "dados/contraste-texto-fundo.json",
+    "dados/cores-contextuais.json",
+    "dados/cores.csv",
+    "dados/gradientes.json",
+    "dados/links-extraidos-do-pdf.json",
+    "dados/manifesto.json",
+    "dados/mapa-paginas.csv",
+    "dados/intervalos-gradientes.json",
+    "dados/criterios-de-aplicacao.json",
+    "dados/recursos-de-producao.json",
+    "dados/mapa-consulta-paginas.json",
+    "dados/medidas-e-contextos.json"
+  ],
+  "regra_de_carregamento": "Guia operacional: consolidado ou módulos. Critérios do usuário: leitura obrigatória quando pertinentes. Fonte por página: somente as páginas necessárias para confronto com o original."
+}

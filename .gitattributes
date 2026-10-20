@@ -1,0 +1,4 @@
+# Preservar os bytes do pacote e a validade do inventário SHA-256.
+* -text
+*.pdf binary
+*.png binary

@@ -1,0 +1,20 @@
+[
+  {
+    "nome": "Branco",
+    "grupo": "cor_contextual_de_assinatura_e_texto",
+    "rgb": [
+      255,
+      255,
+      255
+    ],
+    "hex": "#FFFFFF",
+    "origem_codigo": "cor branca das amostras digitais do PDF; não é uma nova entrada Pantone",
+    "paginas_pdf": [
+      89,
+      90,
+      201
+    ],
+    "pantone": null,
+    "cmyk_especifico_na_fonte": null
+  }
+]

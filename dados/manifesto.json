@@ -1,0 +1,90 @@
+{
+  "titulo": "Brandbook Sebrae 2026 para consulta por LLMs",
+  "idioma": "pt-BR",
+  "status": "adaptacao_de_consulta_nao_oficial",
+  "paginas_pdf": 245,
+  "imagens_esperadas": 245,
+  "resolucao_imagens": "lado maior 1600 px",
+  "fonte_pdf": {
+    "arquivo": "original.pdf",
+    "nome_recebido": "Sebrae-Brandbook_2026-04-26.pdf",
+    "sha256": "64301c2a36ef06a61c50a0aba31e30af9c43424403bfcbc4eb9ae12cb517c019"
+  },
+  "capitulos": [
+    {
+      "id": "01-estrategia-de-marca",
+      "titulo": "Estratégia de marca",
+      "pagina_inicial_pdf": 6,
+      "pagina_final_pdf": 27,
+      "markdown": "regras/01-estrategia-de-marca.md",
+      "pdf": "pdfs-por-capitulo/01-estrategia-de-marca.pdf"
+    },
+    {
+      "id": "02-linguagem",
+      "titulo": "Expressões verbais e linguagem",
+      "pagina_inicial_pdf": 28,
+      "pagina_final_pdf": 61,
+      "markdown": "regras/02-linguagem.md",
+      "pdf": "pdfs-por-capitulo/02-linguagem.pdf"
+    },
+    {
+      "id": "03-expressoes-visuais",
+      "titulo": "Expressões visuais",
+      "pagina_inicial_pdf": 62,
+      "pagina_final_pdf": 130,
+      "markdown": "regras/03-expressoes-visuais.md",
+      "pdf": "pdfs-por-capitulo/03-expressoes-visuais.pdf"
+    },
+    {
+      "id": "04-expressoes-sonoras",
+      "titulo": "Expressões sonoras",
+      "pagina_inicial_pdf": 131,
+      "pagina_final_pdf": 144,
+      "markdown": "regras/04-expressoes-sonoras.md",
+      "pdf": "pdfs-por-capitulo/04-expressoes-sonoras.pdf"
+    },
+    {
+      "id": "05-arquitetura-de-marcas",
+      "titulo": "Arquitetura de marcas",
+      "pagina_inicial_pdf": 145,
+      "pagina_final_pdf": 194,
+      "markdown": "regras/05-arquitetura-de-marcas.md",
+      "pdf": "pdfs-por-capitulo/05-arquitetura-de-marcas.pdf"
+    },
+    {
+      "id": "06-assinaturas-e-regras-gerais",
+      "titulo": "Assinaturas e regras gerais",
+      "pagina_inicial_pdf": 195,
+      "pagina_final_pdf": 222,
+      "markdown": "regras/06-assinaturas-e-regras-gerais.md",
+      "pdf": "pdfs-por-capitulo/06-assinaturas-e-regras-gerais.pdf"
+    },
+    {
+      "id": "07-inteligencia-artificial",
+      "titulo": "Inteligência Artificial",
+      "pagina_inicial_pdf": 223,
+      "pagina_final_pdf": 231,
+      "markdown": "regras/07-inteligencia-artificial.md",
+      "pdf": "pdfs-por-capitulo/07-inteligencia-artificial.pdf"
+    },
+    {
+      "id": "08-aplicacoes",
+      "titulo": "Aplicações e inspirações",
+      "pagina_inicial_pdf": 232,
+      "pagina_final_pdf": 245,
+      "markdown": "regras/08-aplicacoes.md",
+      "pdf": "pdfs-por-capitulo/08-aplicacoes.pdf"
+    }
+  ],
+  "edicao_adaptacao": "5.0",
+  "organizado_em": "2026-10-20",
+  "dados": "dados/",
+  "consulta_fonte": {
+    "paginas": "fonte-pdf/",
+    "mapa": "dados/mapa-consulta-paginas.json",
+    "texto_extraido_de_todas_as_paginas": 245,
+    "limite": "Extração não preserva toda ordem de leitura, curvas e classificações visuais."
+  },
+  "criterios_usuario": "dados/criterios-de-aplicacao.json",
+  "recursos_producao": "dados/recursos-de-producao.json"
+}
