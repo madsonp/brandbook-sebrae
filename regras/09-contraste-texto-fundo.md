@@ -10,6 +10,7 @@ Transcrição das amostras das páginas 89–92. Cada linha corresponde a uma co
 - Fundo Offwhite não é branco puro. As matrizes das pp. 89 e 91 usam Offwhite, embora a p. 88 também mencione fundos brancos.
 - As amostras para impresso usam a representação de cor do PDF. Não derivar novos códigos RGB das cores exibidas nessas páginas nem substituir os códigos das pp. 67–68.
 - As combinações gráficas das pp. 69–75 têm finalidade diferente: não substituem a matriz específica de texto/fundo.
+- **Alerta de acessibilidade (pendente de confirmação do Sebrae/NA):** o par web texto Atlântico sobre fundo Manacá (p. 90) aparece também na categoria pequena, mas sua razão de contraste calculada pelo WCAG é 4,0:1, abaixo do mínimo de 4,5:1 para texto pequeno. Até a resposta, usá-lo só na categoria grande.
 
 As imagens originais continuam sendo a referência em caso de dúvida. Prova de cor em impressos e condições de visualização podem afetar o resultado, conforme o original.
 

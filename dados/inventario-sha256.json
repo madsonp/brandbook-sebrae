@@ -1,9 +1,9 @@
 {
-  "edicao": "5.0",
+  "edicao": "5.1",
   "arquivos": {
     "brandbook-consolidado.md": {
-      "sha256": "9248bf373f10e4bbfd0c07bc17b3d80ab8a4efcc90942cd02974ec74f195af3f",
-      "bytes": 181217
+      "sha256": "15ff6e5241bf6785684519ba7233b91ae9e76b0efedc93785c560d05db08054a",
+      "bytes": 185099
     },
     "dados/combinacoes-graficas.csv": {
       "sha256": "5206c92f565f6b654c8edeae3d8c3f552010393aff83152fe01bc74a34e329cb",
@@ -30,11 +30,11 @@
       "bytes": 1132
     },
     "dados/criterios-de-aplicacao.json": {
-      "sha256": "27ca441f81a78afa563a51de987e171d44b9d0062b0024565c2faf98948ad4ac",
-      "bytes": 9428
+      "sha256": "5760a5600dc1ded9ec2336099f37ccc16d52942b89fcc4af9c61ec694e85707e",
+      "bytes": 13328
     },
     "dados/fontes-ativas.json": {
-      "sha256": "17df351738d09b407748863b8cb36cd14ebec9cd2dfdaeb8a084ce60ad1a3bdb",
+      "sha256": "a2563fd185e45482f9a5ee242312b907a291a0bc3dc11d2ac2ea7c2f30ea1899",
       "bytes": 1575
     },
     "dados/gradientes.json": {
@@ -50,7 +50,7 @@
       "bytes": 1961
     },
     "dados/manifesto.json": {
-      "sha256": "83f16db3a3282aae92c250f776dd9261d84de277dbb24eaed0e939ba95bd1c3e",
+      "sha256": "49801ea793e8d2bc8f713cdfe185e51702ba44d27030beb42950edd122f982c6",
       "bytes": 3134
     },
     "dados/mapa-consulta-paginas.json": {
@@ -62,8 +62,8 @@
       "bytes": 19877
     },
     "dados/medidas-e-contextos.json": {
-      "sha256": "17a2d03bf8a7ceecaed3c4aa9f29449fef084b3b1e1399729b5fcc2c131199e8",
-      "bytes": 5641
+      "sha256": "fecea635579b01ca83d273268564b21320acec3804f98f206e9ab37ec2579d58",
+      "bytes": 6276
     },
     "dados/recursos-de-producao.json": {
       "sha256": "8734657f4c9cd7997af19ff0433f0211dbbdef3526032772e8aa8070ae456017",
@@ -1054,16 +1054,16 @@
       "bytes": 486
     },
     "GUIA-PARA-LLMS.md": {
-      "sha256": "2953b624e09c1542cc5eca6e98db8830109e0fa2d91185f00c318e1044c8a4a3",
-      "bytes": 4703
+      "sha256": "95fc78757182a75745eb0bdb5f9687bce665ea09b657fed16a100bcf43a06ad3",
+      "bytes": 5034
     },
     "indice.md": {
-      "sha256": "aa1fb319e5df607ed32a160ae2606af0564e39ab82632abf1fa4cf377ef7748b",
-      "bytes": 25459
+      "sha256": "4ec4c6aa635e514cbec2493927c8883719aac87f6b73707b8f9286cd7f2e4df9",
+      "bytes": 25513
     },
     "LEIA-ME.md": {
-      "sha256": "c154122a94f6b18cf5cd641236076a7e4d80155ef71bce2e239a4043c3b153f9",
-      "bytes": 1931
+      "sha256": "4209776cc85dfcb6f7a890a35dc64e0056015716860faea137dfc2e208b98d29",
+      "bytes": 1911
     },
     "links-do-original.md": {
       "sha256": "88dd3ef1239d6aa72ba669bce406581430068342401206cef77c4c82267d4251",
@@ -2086,48 +2086,48 @@
       "bytes": 25428
     },
     "regras/00-apresentacao.md": {
-      "sha256": "436b351f3fae12b87dd4808f10995f2aa5979a44155c60e1c6626f3afd723a1f",
-      "bytes": 3318
+      "sha256": "77e45412192acc5f4e1fbc53d96585ee42e7cb6537b9bb2ecf5aaaee39312d71",
+      "bytes": 3373
     },
     "regras/01-estrategia-de-marca.md": {
-      "sha256": "838cb5e87548a7746384d9c7c0a79e04d340229125ba5f526002737babea0eeb",
-      "bytes": 19341
+      "sha256": "ed599eb4e5b5381901b779bea8d81c0b7cb4554153a80645e60ead16363a2bf4",
+      "bytes": 19396
     },
     "regras/02-linguagem.md": {
-      "sha256": "31b6509a999ec1619e407325d92ae41f4bb85dbe4d2ee419d916e0cc93045459",
-      "bytes": 23411
+      "sha256": "4bcc1b2d533e541881d27bc6cb332c26dab9108501bbec3c2e9516368fb77ded",
+      "bytes": 23466
     },
     "regras/03-expressoes-visuais.md": {
-      "sha256": "02b3939b75e979f7d0a9804f557e58a367ade03ff0a96aef7380d220d9196775",
-      "bytes": 35348
+      "sha256": "884e0089813dd1fa2375d510253cd483e82d8e96931158f9b8faf6602ba97255",
+      "bytes": 35707
     },
     "regras/04-expressoes-sonoras.md": {
-      "sha256": "c1031b8c3a3c5098894470b56e8d7b39d3b350ac7ed1030a778818d27038a79c",
-      "bytes": 8798
+      "sha256": "d48eb469f23dd96b41c074802c4c7959855dd74a533f809c574232298deb69ca",
+      "bytes": 8853
     },
     "regras/05-arquitetura-de-marcas.md": {
-      "sha256": "ff2f23f83bc593cd1cf34a355ec37fc8426299fdaa43bca2bc6068459be6b36c",
-      "bytes": 40959
+      "sha256": "2240d88ff6be1230b79e4056baa1b809c5870acc00ab82c20e8f003f1d060713",
+      "bytes": 43234
     },
     "regras/06-assinaturas-e-regras-gerais.md": {
-      "sha256": "3af1509104a31eea56b668a2cc6ea196c30b52c7413495b05d070f77574eecdc",
-      "bytes": 22325
+      "sha256": "1819e5a012d7cdf96f52138b0c555673af04c8818e659a91db81fdfe2aa405d0",
+      "bytes": 22636
     },
     "regras/07-inteligencia-artificial.md": {
-      "sha256": "36216280c91f26774af132921ee7e5b8644e34974735fce35344a8314aa3776c",
-      "bytes": 6326
+      "sha256": "7a2b07f88159467f34e89262e6a73f085d879c0b99a48d944f2146a54f8457d3",
+      "bytes": 6381
     },
     "regras/08-aplicacoes.md": {
-      "sha256": "da3b3e963fb9c3a7072c3fd11b25cd961c7341425dc42f3519aacc22e776a406",
-      "bytes": 5633
+      "sha256": "502cbf6ebc8de195ba40b4ae9d2febcc2d8fdc704adde50078a0d07fad22a576",
+      "bytes": 5688
     },
     "regras/09-contraste-texto-fundo.md": {
-      "sha256": "32b6198a4d7998e17c60573c8cf7fe693ba21df42711f70b5b442f0635d6dc06",
-      "bytes": 13166
+      "sha256": "da01eed6278faf57058fa5fc3d7e594d5bca1e95f9e486e62df4611f0b3a07cb",
+      "bytes": 13488
     },
     "regras/10-combinacoes-graficas.md": {
-      "sha256": "0fda8985c7329d542d9e0011e4a7ead847aec52a00f5bfc35c6fc397260015be",
-      "bytes": 12869
+      "sha256": "876b4329cd198546309b5b49513abbda03042dc449d5fa2501bb05a97e525e8a",
+      "bytes": 12943
     },
     "regras/11-gradientes.md": {
       "sha256": "57c86ff937836a5d8d229b28eada2494cc6ba508eec534eedf0636e01c1a43ad",

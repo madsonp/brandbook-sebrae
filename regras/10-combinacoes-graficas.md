@@ -1,6 +1,6 @@
 # Combinações gráficas RGB e CMYK
 
-Para o par Guaco/Taiti, utilizar como referência a figura Taiti/Guaco das pp. 71 e 75, mostrada sem traço de restrição. Essa orientação é específica para composição gráfica; a matriz de texto/fundo tem critérios próprios.
+Para o par Guaco/Taiti, utilizar como referência a figura Taiti/Guaco das pp. 71 e 75, mostrada sem traço de restrição (orientação provisória VIS-02, pendente de confirmação do Sebrae/NA). Essa orientação é específica para composição gráfica; a matriz de texto/fundo tem critérios próprios.
 
 Transcrição das linhas das pp. 69–71 e 73–75: **478 amostras visíveis e duas posições não mostradas**, organizadas em 480 registros para os 16 nomes de cor que participam dessas matrizes. Preto e branco puro não integram essas linhas; não extrapolar a eles o resultado desta tabela.
 

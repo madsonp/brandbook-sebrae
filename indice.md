@@ -15,7 +15,7 @@
 ## Fontes e aplicação
 
 - [Consulta direta por página do PDF](fonte-pdf/LEIA-ME.md).
-- Critérios do usuário: `dados/criterios-de-aplicacao.json`.
+- Orientações internas provisórias, pendentes de confirmação do Sebrae/NA: `dados/criterios-de-aplicacao.json`.
 - Recursos necessários para produção: `dados/recursos-de-producao.json`.
 
 ## Apêndices de consulta

@@ -4,7 +4,7 @@ Material de consulta em português para Claude, GPT e outras LLMs, com regras, d
 
 ## Fontes de consulta
 
-O guia operacional reúne o conteúdo do brandbook e as definições recebidas do usuário. Consulte `dados/criterios-de-aplicacao.json` para identificar a origem das regras que mudam a decisão. Para conferir o PDF, use as páginas em `fonte-pdf/`, com suas imagens. Consulte `dados/recursos-de-producao.json` antes de produzir uma peça final.
+O guia operacional reúne o conteúdo do brandbook e orientações internas provisórias, pendentes de confirmação do Sebrae/NA. Consulte `dados/criterios-de-aplicacao.json` para identificar a origem das regras que mudam a decisão. Para conferir o PDF, use as páginas em `fonte-pdf/`, com suas imagens. Consulte `dados/recursos-de-producao.json` antes de produzir uma peça final.
 
 ## Como consultar
 
@@ -24,6 +24,6 @@ Para usar com anexos, comece por `GUIA-PARA-LLMS.md` e `brandbook-consolidado.md
 - `original.pdf`: documento original completo.
 - [Links de mídia](links-do-original.md): referências extraídas do PDF.
 
-Mantenha a estrutura das pastas para preservar os links. Um caminho no Markdown não carrega a imagem automaticamente na ferramenta; anexe-a quando necessário. O ZIP é destinado ao transporte e à extração da pasta.
+Mantenha a estrutura das pastas para preservar os links. Um caminho no Markdown não carrega a imagem automaticamente na ferramenta; anexe-a quando necessário.
 
 Esta é uma adaptação para consulta, não uma publicação oficial do Sebrae.

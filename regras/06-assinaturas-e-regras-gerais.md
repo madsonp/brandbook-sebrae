@@ -1,6 +1,6 @@
 # Assinaturas e regras gerais
 
-Este guia operacional considera as regras do PDF e os critérios do usuário em `dados/criterios-de-aplicacao.json`. Para consultar a redação original, use `fonte-pdf/` e as imagens correspondentes.
+Este guia operacional considera as regras do PDF e as orientações internas provisórias, pendentes de confirmação do Sebrae/NA, em `dados/criterios-de-aplicacao.json`. Para consultar a redação original, use `fonte-pdf/` e as imagens correspondentes.
 
 > Adaptação de consulta do Brandbook Sebrae 2026. As referências de página usam a numeração física do PDF, iniciando em 1.
 
@@ -44,7 +44,7 @@ As três composições da p. 199 possuem espaçamento **x/2** entre logo e descr
 
 [Referência visual p. 199](../referencias-visuais/p-199.png)
 
-Em inglês: "SEBRAE" + "Brazilian Micro and Small Business Support Service". Em espanhol, utilizar o padrão gráfico oficial apresentado na p. 200, preservando sua redação e composição. A tipografia, as proporções e o posicionamento dos elementos aqui definidos nunca devem ser alterados. Para facilitar, disponibilizamos os arquivos fechados com as fontes em curvas.
+Em inglês: "SEBRAE" + "Brazilian Micro and Small Business Support Service". Em espanhol, utilizar o padrão gráfico oficial apresentado na p. 200, preservando sua redação e composição. O descritivo em espanhol traz a forma “Apoio a Las” (“Apoio” é português; em espanhol seria “Apoyo”). A consulta ao Sebrae/NA está pendente: até a resposta, não corrigir por conta própria e sinalizar a dúvida antes de usar essa versão. A tipografia, as proporções e o posicionamento dos elementos aqui definidos nunca devem ser alterados. Para facilitar, disponibilizamos os arquivos fechados com as fontes em curvas.
 
 *(pág. 200)*
 

@@ -88,11 +88,24 @@
       "proporcao_logotipo": "aproximadamente 40%",
       "espacamento_relativo": "X/3"
     },
-    "condicoes": "consultar posições e equilíbrio do símbolo; critério do usuário sobre mínimos absolutos registrado separadamente"
+    "condicoes": "consultar posições e equilíbrio do símbolo; a distância entre logotipo e nome é x/3 (leitura literal das pp. 164–165)"
+  },
+  {
+    "id": "REDUCAO-ENDOSSO",
+    "origem": "pdf_figura_e_texto",
+    "paginas_pdf": [
+      166
+    ],
+    "escopo": "logotipo Sebrae nas composições endossadas (sem as barras)",
+    "parametros": {
+      "reducao_minima_digital_px": 16,
+      "reducao_minima_impresso_mm": 5
+    },
+    "condicoes": "leitura literal; a consulta ao Sebrae/NA (item 1) pergunta se a medida é altura do logotipo e como se relaciona com a p. 203"
   },
   {
     "id": "ENDOSSO-MINIMO-TRABALHO",
-    "origem": "usuario_nesta_conversa",
+    "origem": "orientacao_interna_provisoria",
     "paginas_pdf": [
       166
     ],
@@ -101,7 +114,8 @@
       "minimo_digital_px": 16,
       "minimo_impresso_mm": 5
     },
-    "condicoes": "o PDF chama esses valores de redução do logotipo; não atribuir esta leitura à redação original"
+    "condicoes": "Leitura suspensa (CON-04). O PDF chama esses valores de redução do logotipo e a seta da figura aponta para o logotipo; usar a leitura literal (REDUCAO-ENDOSSO) e a distância x/3 (ENDOSSO) até a resposta do Sebrae/NA.",
+    "status": "suspenso_ate_resposta_sebrae_na"
   },
   {
     "id": "PROTECAO",

@@ -1,6 +1,6 @@
 # Sebrae Brandbook 2026 — consulta para LLMs
 
-Base privada de consulta do Brandbook Sebrae 2026, edição de adaptação **5.0**. Reúne o PDF original, referências visuais, guia operacional e dados estruturados. É uma adaptação de consulta; não é uma nova publicação oficial do Sebrae.
+Base privada de consulta do Brandbook Sebrae 2026, edição de adaptação **5.1**. Reúne o PDF original, referências visuais, guia operacional e dados estruturados. É uma adaptação de consulta; não é uma nova publicação oficial do Sebrae.
 
 ## Comece aqui
 
@@ -9,7 +9,7 @@ Base privada de consulta do Brandbook Sebrae 2026, edição de adaptação **5.0
 3. Consulte o [consolidado](brandbook-consolidado.md) ou os [capítulos](regras/), usando apenas uma dessas formas textuais por padrão.
 4. Confira a [página original](fonte-pdf/LEIA-ME.md), a imagem ou o [PDF](original.pdf) quando a decisão depender de geometria, exemplos ou marcações visuais.
 
-O consolidado inclui a origem e o alcance das orientações do usuário e a disponibilidade dos recursos de produção. Para integrações, consulte [critérios de aplicação](dados/criterios-de-aplicacao.json), [medidas e contextos](dados/medidas-e-contextos.json) e [recursos de produção](dados/recursos-de-producao.json).
+O consolidado inclui a origem, a situação e o alcance das orientações internas provisórias, submetidas ao Sebrae/NA e ainda sem resposta, e a disponibilidade dos recursos de produção. Para integrações, consulte [critérios de aplicação](dados/criterios-de-aplicacao.json), [medidas e contextos](dados/medidas-e-contextos.json) e [recursos de produção](dados/recursos-de-producao.json).
 
 ## Usar com uma LLM
 
@@ -22,8 +22,8 @@ Mensagem sugerida:
 Para uso local:
 
 ```sh
-git clone https://github.com/madsonp/sebrae-brandbook-2026-llm.git
-cd sebrae-brandbook-2026-llm
+git clone https://github.com/madsonp/brandbook-sebrae.git
+cd brandbook-sebrae
 python scripts/verificar.py
 ```
 

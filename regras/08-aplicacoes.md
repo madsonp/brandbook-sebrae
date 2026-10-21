@@ -1,6 +1,6 @@
 # Aplicações e inspirações
 
-Este guia operacional considera as regras do PDF e os critérios do usuário em `dados/criterios-de-aplicacao.json`. Para consultar a redação original, use `fonte-pdf/` e as imagens correspondentes.
+Este guia operacional considera as regras do PDF e as orientações internas provisórias, pendentes de confirmação do Sebrae/NA, em `dados/criterios-de-aplicacao.json`. Para consultar a redação original, use `fonte-pdf/` e as imagens correspondentes.
 
 > Adaptação de consulta do Brandbook Sebrae 2026. As referências de página usam a numeração física do PDF, iniciando em 1.
 

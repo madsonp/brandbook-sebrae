@@ -1,6 +1,6 @@
 # Brandbook Sebrae 2026 para consulta por LLMs
 
-Este guia operacional considera as regras do PDF e os critérios do usuário em `dados/criterios-de-aplicacao.json`. Para consultar a redação original, use `fonte-pdf/` e as imagens correspondentes.
+Este guia operacional considera as regras do PDF e as orientações internas provisórias, pendentes de confirmação do Sebrae/NA, em `dados/criterios-de-aplicacao.json`. Para consultar a redação original, use `fonte-pdf/` e as imagens correspondentes.
 
 > Adaptação de consulta do Brandbook Sebrae 2026. As referências de página usam a numeração física do PDF, iniciando em 1.
 
@@ -861,7 +861,7 @@ O espaço entre cada estilo de texto não deve ser menor do que a altura do text
 
 Temos algumas diretrizes básicas para guiar uma diagramação simples e chegarmos a um bom resultado.
 
-| Aprovação | Corpo | Entrelinha | Entreletra (px) |
+| Aprovação | Corpo | Entrelinha | Entreletra (unidade não indicada no PDF) |
 | --- | --- | --- | --- |
 | ✗ Não recomendado | x | < x-5 | < -25 |
 | ✓ Recomendado | x | x | -10 |
@@ -871,7 +871,7 @@ Temos algumas diretrizes básicas para guiar uma diagramação simples e chegarm
 
 A mesma régua se aplica tanto à família Campuni (pág. 85) quanto à Figtree (pág. 86). As colunas apresentam exemplos de configuração; não estabelecem aprovação automática de todos os valores intermediários.
 
-Os valores de entreletra das pp. 85–86 são expressos em px. As categorias de tamanho das matrizes de contraste permanecem expressas em pt.
+O PDF não indica a unidade da entreletra. A convenção mais provável é a de tracking do InDesign e do Illustrator (milésimos de em: −10 equivale a −0,01 em). A leitura anterior em px (CON-13) está suspensa até a resposta do Sebrae/NA. Para reproduzir na web, converter por em (−10 → `letter-spacing: -0.01em`), nunca como px. As categorias de tamanho das matrizes de contraste permanecem expressas em pt.
 
 *(págs. 85-86)*
 
@@ -1470,7 +1470,7 @@ Nos dois casos abaixo, o símbolo aparece sempre à esquerda do logotipo Sebrae 
 
 Para o caso a seguir, o símbolo aparece sempre à direita do logotipo Sebrae e centralizado. Evite nomes com mais de duas palavras para não atrapalhar a ordem de leitura e construção do logo. A altura do logotipo deve ocupar o equivalente a 6 módulos. A distância entre eles é de 2 módulos, à esquerda ou à direita.
 
-- **Logo Monolítico 01 — Nome à esquerda e símbolo à direita:** a submarca deverá vir antes do logotipo do Sebrae e do símbolo, escrita em Univers Bold Italic. *(ex.: "Nomenome SEBRAE")*
+- **Logo Monolítico 01 — Nome à esquerda e símbolo à direita** (o PDF intitula “Nome à direita”; título corrigido pela composição da figura, CON-09, pendente de confirmação do Sebrae/NA): a submarca deverá vir antes do logotipo do Sebrae e do símbolo, escrita em Univers Bold Italic. *(ex.: "Nomenome SEBRAE")*
 
 A composição apresenta o nome antes do logotipo Sebrae e o símbolo à direita.
 
@@ -1492,7 +1492,7 @@ A composição apresenta o nome antes do logotipo Sebrae e o símbolo à direita
 
 ### 1. Presença da marca-mãe — O que não fazer
 
-Todas as novas submarcas devem ter símbolo, inclusive no modelo Monolítico 02. Para marcas anteriores ao projeto, aplicar a análise específica da p. 193.
+**Orientação provisória (CON-07), pendente de confirmação do Sebrae/NA:** a p. 163 proíbe criar submarcas sem símbolo, mas a construção do Monolítico 02 (pp. 160–162) não prevê posição para símbolo e a p. 164 apresenta o modelo Endossado sem símbolo. Em novas submarcas, preferir os modelos com símbolo e sinalizar a dúvida antes de aprovar uma composição sem símbolo. Para marcas anteriores ao projeto, aplicar a análise específica da p. 193.
 
 Ilustramos aqui alguns exemplos do que **não fazer** na criação de submarcas:
 
@@ -1512,7 +1512,7 @@ A segunda estrutura de construção também é indicada para iniciativas cuja fu
 
 Nas duas opções do Monolítico 02, X corresponde à altura de uma barra do logotipo Sebrae. No diagrama, o separador vertical tem espessura horizontal X/2 e afastamento de 2X em cada lado: entre o nome e o separador e entre o separador e o logotipo. Sua extensão vertical acompanha os limites superior e inferior do logotipo mostrados na figura. A cota X/2 não corresponde à altura total do separador. Em relação à posição, o logo Sebrae **sempre aparece à direita** do nome da submarca. A **cor do nome da submarca** é de livre escolha, dentre as diversas cores presentes na paleta cromática do Sebrae.
 
-Todas as novas submarcas devem ter símbolo, inclusive no modelo Monolítico 02. Para marcas anteriores ao projeto, aplicar a análise específica da p. 193.
+**Orientação provisória (CON-07), pendente de confirmação do Sebrae/NA:** a p. 163 proíbe criar submarcas sem símbolo, mas a construção do Monolítico 02 (pp. 160–162) não prevê posição para símbolo e a p. 164 apresenta o modelo Endossado sem símbolo. Em novas submarcas, preferir os modelos com símbolo e sinalizar a dúvida antes de aprovar uma composição sem símbolo. Para marcas anteriores ao projeto, aplicar a análise específica da p. 193.
 
 **Logo Monolítico 02 — Nome em uma linha:** localizado à esquerda do logo do Sebrae, separado por uma barra vertical e escrito em **Univers Bold**. *(ex.: "Nomenome | SEBRAE")*
 
@@ -1562,9 +1562,9 @@ O endosso pode se dar pela inserção do nome "Sebrae" a essa iniciativa ou por 
 
 A assinatura do Sebrae aparece de forma secundária e **sempre no canto esquerdo inferior ou superior**, numa proporção de **aproximadamente 40%** em relação à submarca. O logotipo Sebrae aparece sem as barras e sempre em sua cor azul. As submarcas podem assumir cores diversas, sem fazer referência aos pilares.
 
-Todas as novas submarcas devem ter símbolo, inclusive no modelo Monolítico 02. Para marcas anteriores ao projeto, aplicar a análise específica da p. 193.
+**Orientação provisória (CON-07), pendente de confirmação do Sebrae/NA:** a p. 163 proíbe criar submarcas sem símbolo, mas a construção do Monolítico 02 (pp. 160–162) não prevê posição para símbolo e a p. 164 apresenta o modelo Endossado sem símbolo. Em novas submarcas, preferir os modelos com símbolo e sinalizar a dúvida antes de aprovar uma composição sem símbolo. Para marcas anteriores ao projeto, aplicar a análise específica da p. 193.
 
-**Referência de composição Endossadas 01 (p. 164):** o diagrama apresenta o nome da submarca em tipografia livre, sem símbolo. Para criar uma nova submarca, usar a composição com símbolo da p. 165. Logotipo do Sebrae localizado à esquerda, podendo ser aplicado acima ou abaixo da submarca. A proporção entre o nome da submarca (100% = x) e o logotipo Sebrae (40%) segue um módulo x/3 de espaçamento.
+**Referência de composição Endossadas 01 (p. 164):** o diagrama apresenta o nome da submarca em tipografia livre, sem símbolo. Para uma nova submarca, a orientação provisória é preferir a composição com símbolo da p. 165 (CON-07, pendente de confirmação do Sebrae/NA). Logotipo do Sebrae localizado à esquerda, podendo ser aplicado acima ou abaixo da submarca. A proporção entre o nome da submarca (100% = x) e o logotipo Sebrae (40%) segue um módulo x/3 de espaçamento.
 
 *(pág. 164)*
 
@@ -1578,7 +1578,7 @@ Todas as novas submarcas devem ter símbolo, inclusive no modelo Monolítico 02.
 
 [Referência visual p. 165](referencias-visuais/p-165.png)
 
-Nas composições endossadas, a distância entre a marca e o nome da submarca deve respeitar o mínimo de **16 px no digital e 5 mm no impresso**. Para as alturas mínimas das assinaturas institucionais, consultar a p. 203.
+**Leitura literal do PDF:** nas composições endossadas, o logotipo Sebrae não deve ter redução menor que **16 px no digital e 5 mm no impresso**; a seta da figura aponta para o próprio logotipo. A distância entre o logotipo e o nome da submarca está cotada como **x/3** nas pp. 164–165. A leitura dos 16 px/5 mm como distância entre marca e nome (CON-04) está suspensa até a resposta do Sebrae/NA. Para as alturas mínimas das assinaturas institucionais, consultar a p. 203.
 
 *(pág. 166)*
 
@@ -1594,7 +1594,7 @@ Símbolo e nome da submarca de livre escolha. Logotipo do Sebrae localizado à e
 
 ### 1. Presença da marca-mãe — O que não fazer
 
-Todas as novas submarcas devem ter símbolo, inclusive no modelo Monolítico 02. Para marcas anteriores ao projeto, aplicar a análise específica da p. 193.
+**Orientação provisória (CON-07), pendente de confirmação do Sebrae/NA:** a p. 163 proíbe criar submarcas sem símbolo, mas a construção do Monolítico 02 (pp. 160–162) não prevê posição para símbolo e a p. 164 apresenta o modelo Endossado sem símbolo. Em novas submarcas, preferir os modelos com símbolo e sinalizar a dúvida antes de aprovar uma composição sem símbolo. Para marcas anteriores ao projeto, aplicar a análise específica da p. 193.
 
 Ilustramos aqui alguns exemplos do que **não fazer** na criação de submarcas:
 
@@ -1635,11 +1635,11 @@ Para marcas criadas antes deste projeto, aplicar a análise específica da p. 19
 
 ### 1. Presença da marca-mãe — Como fazemos?
 
-As regras de posição e hierarquia entre marcas devem ser aplicadas no contexto específico de cada composição, conforme as pp. 171 e 213–216.
+As regras de posição e hierarquia entre marcas devem ser aplicadas no contexto específico de cada composição, conforme as pp. 171 e 213–216. A p. 171 trata a posição à direita ou abaixo como secundária, e a p. 213 associa a posição à direita à maior importância; essa diferença (CON-02) aguarda resposta do Sebrae/NA.
 
 Em assinaturas conjuntas, as submarcas independentes sempre têm mais importância, o papel do Sebrae é secundário. Essa hierarquia é expressa apenas pela posição. Sendo assim, a marca-mãe Sebrae aparece depois da submarca, à direita ou abaixo dela. Em termos de tamanho, elas devem ser opticamente iguais. Ou seja, devem ter a mesma presença de marca. *(ex.: "empretec" + "SEBRAE")*
 
-Para preservar ambas as marcas, o espaçamento entre elas deve medir o tamanho de duas letras S do logotipo Sebrae.
+Para preservar ambas as marcas, o PDF define um espaçamento padrão com base na letra S de Sebrae. A figura mostra o espaço ocupado por dois quadrados da letra S, mas o cota como X e define X = S. **Orientação provisória (CON-10), pendente de confirmação do Sebrae/NA:** usar duas letras S, como mostra a figura.
 
 *(pág. 171)*
 
@@ -1768,7 +1768,7 @@ A submarca "Assessoria de Negócios Sebrae" é uma iniciativa institucional. Por
 
 | Tipografia | Cores | Grid | Fotografia | Logo |
 | --- | --- | --- | --- | --- |
-| Campuni Bold / Figtree. No exemplo Assessoria de Negócios, utilizar Campuni Bold. | Restringimos a quatro cores e elas são derivadas da marca-mãe. | Escolha de 01 grid como principal na identidade. | Direcionada ao público que será abordado. | Logotipo monolítico 02. |
+| Campuni Bold / Figtree. No exemplo Assessoria de Negócios, utilizar Campuni Bold (orientação provisória CON-11, pendente de confirmação do Sebrae/NA; o texto da p. 180 menciona Regular). | Restringimos a quatro cores e elas são derivadas da marca-mãe. | Escolha de 01 grid como principal na identidade. | Direcionada ao público que será abordado. | Logotipo monolítico 02. |
 
 *(pág. 180)*
 
@@ -1968,7 +1968,7 @@ As três composições da p. 199 possuem espaçamento **x/2** entre logo e descr
 
 [Referência visual p. 199](referencias-visuais/p-199.png)
 
-Em inglês: "SEBRAE" + "Brazilian Micro and Small Business Support Service". Em espanhol, utilizar o padrão gráfico oficial apresentado na p. 200, preservando sua redação e composição. A tipografia, as proporções e o posicionamento dos elementos aqui definidos nunca devem ser alterados. Para facilitar, disponibilizamos os arquivos fechados com as fontes em curvas.
+Em inglês: "SEBRAE" + "Brazilian Micro and Small Business Support Service". Em espanhol, utilizar o padrão gráfico oficial apresentado na p. 200, preservando sua redação e composição. O descritivo em espanhol traz a forma “Apoio a Las” (“Apoio” é português; em espanhol seria “Apoyo”). A consulta ao Sebrae/NA está pendente: até a resposta, não corrigir por conta própria e sinalizar a dúvida antes de usar essa versão. A tipografia, as proporções e o posicionamento dos elementos aqui definidos nunca devem ser alterados. Para facilitar, disponibilizamos os arquivos fechados com as fontes em curvas.
 
 *(pág. 200)*
 
@@ -2421,6 +2421,7 @@ Transcrição das amostras das páginas 89–92. Cada linha corresponde a uma co
 - Fundo Offwhite não é branco puro. As matrizes das pp. 89 e 91 usam Offwhite, embora a p. 88 também mencione fundos brancos.
 - As amostras para impresso usam a representação de cor do PDF. Não derivar novos códigos RGB das cores exibidas nessas páginas nem substituir os códigos das pp. 67–68.
 - As combinações gráficas das pp. 69–75 têm finalidade diferente: não substituem a matriz específica de texto/fundo.
+- **Alerta de acessibilidade (pendente de confirmação do Sebrae/NA):** o par web texto Atlântico sobre fundo Manacá (p. 90) aparece também na categoria pequena, mas sua razão de contraste calculada pelo WCAG é 4,0:1, abaixo do mínimo de 4,5:1 para texto pequeno. Até a resposta, usá-lo só na categoria grande.
 
 As imagens originais continuam sendo a referência em caso de dúvida. Prova de cor em impressos e condições de visualização podem afetar o resultado, conforme o original.
 
@@ -2564,7 +2565,7 @@ As imagens originais continuam sendo a referência em caso de dúvida. Prova de 
 
 # Combinações gráficas RGB e CMYK
 
-Para o par Guaco/Taiti, utilizar como referência a figura Taiti/Guaco das pp. 71 e 75, mostrada sem traço de restrição. Essa orientação é específica para composição gráfica; a matriz de texto/fundo tem critérios próprios.
+Para o par Guaco/Taiti, utilizar como referência a figura Taiti/Guaco das pp. 71 e 75, mostrada sem traço de restrição (orientação provisória VIS-02, pendente de confirmação do Sebrae/NA). Essa orientação é específica para composição gráfica; a matriz de texto/fundo tem critérios próprios.
 
 Transcrição das linhas das pp. 69–71 e 73–75: **478 amostras visíveis e duas posições não mostradas**, organizadas em 480 registros para os 16 nomes de cor que participam dessas matrizes. Preto e branco puro não integram essas linhas; não extrapolar a eles o resultado desta tabela.
 
@@ -2702,24 +2703,26 @@ São as cores sólidas indicadas pelos colchetes das páginas 78 e 80 para aplic
 
 # Escopo e autoridade das orientações
 
-O guia operacional atende às definições expressas pelo usuário deste trabalho. Elas não constituem nova edição do PDF. Ao explicar o que o PDF diz, use a fonte original; ao executar uma tarefa sujeita às definições do usuário, considere também os critérios abaixo. Se houver diferença material, não declare que as duas redações são idênticas nem prometa conformidade literal com ambas.
+O guia operacional reúne o PDF e orientações provisórias de Madson Lima Pinto (Unidade de Portfólio e Marketing, Sebrae/BA), registradas em `dados/criterios-de-aplicacao.json`. Essas orientações **não constituem nova edição do PDF** e foram submetidas ao Sebrae/NA em uma solicitação de esclarecimentos (10 perguntas, outubro de 2026). Até a resposta, nenhuma delas deve ser apresentada como regra oficial.
 
-As classificações e descrições de exemplos nos capítulos explicam as figuras do PDF. Elas não revogam os critérios de criação de novas submarcas definidos para este trabalho. A referência a um modelo antigo aprovado na figura não autoriza ignorar uma condição adicional do usuário.
+Ao explicar o que o PDF diz, use a fonte original. Ao executar uma tarefa, aplique a orientação provisória quando ela existir, informe que está pendente de confirmação e indique a página do PDF. Duas leituras foram suspensas porque a evidência da página aponta em outra direção (CON-04 e CON-13); nesses casos, vale a leitura literal do PDF.
 
-| Assunto | Origem | Critério e alcance |
-| --- | --- | --- |
-| Interno e externo na aplicação de marca | Usuário; contexto da p. 208 | Interno é material desenvolvido para uso/veiculação pelo próprio Sebrae, incluindo didáticos e comunicação interna. Externo é mídia para veiculação para fora, como outdoor e mídia exterior. Não reclassificar automaticamente os crachás da p. 237 ou revogar regras de IA por essa definição contextual. |
-| Assinatura de e-mail | Usuário; aplicação da p. 242 | Assinatura dos colaboradores, com regra específica por submarca. O PDF também apresenta variação estadual e preservação de elementos azuis na mesma posição. Isso não determina a hierarquia de marcas parceiras. |
-| Distância de endosso | Usuário; p. 166 | Mínimo de 16 px no digital e 5 mm no impresso entre marca e nome. No PDF, esses valores são chamados de redução do logotipo; a leitura como distância vem do usuário. As alturas da p. 203 continuam específicas de suas configurações. |
-| Símbolo em novas submarcas | Usuário; modelos das pp. 154–194 | Exigir símbolo em todos os modelos discutidos, inclusive Monolítico 02. O PDF também mostra modelos sem símbolo; não afirmar que todos os exemplos originais já cumprem a exigência adicional. Para marcas anteriores, preservar análise individual da p. 193. |
-| Composição da p. 157 | Figura do PDF e confirmação do usuário | Nome antes do logotipo Sebrae e símbolo à direita. O título operacional descreve a composição; não inverter a figura pelo título Nome à direita impresso no PDF. |
-| Espaçamento entre marcas | Usuário; pp. 171 e 193 | Medir duas letras S do logotipo Sebrae. A p. 171 mostra uma cota geral X; a p. 193 mostra dois módulos X. Não apresentar a definição do usuário como uma transcrição literal da cota da p. 171. |
-| Campuni em Assessoria de Negócios | Usuário; p. 180 | Utilizar Bold. A fonte original apresenta Regular no texto e Campuni Bold na legenda; a definição recebida resolve este caso para o trabalho. |
-| Unidade de entreletra | Usuário; pp. 85–86 | Valores em px. A unidade não é escrita nos quadros do PDF. Não alterar as unidades pt das categorias de contraste nem inferir unidade para entrelinha. |
-| Assinatura espanhola | Usuário; p. 200 | Utilizar o padrão gráfico e o arquivo oficial correspondente. Não corrigir grafia, traduzir livremente nem recriar a composição. |
-| Guaco/Taiti | Usuário; figuras das pp. 71 e 75 | Usar o exemplo visual Taiti/Guaco, sem traço de restrição, para orientar esse par. Taiti continua ausente na linha literal de base Guaco. Não estender essa orientação aos outros pares ou à matriz de texto/fundo. |
+| Assunto | Origem | Situação | Orientação e alcance |
+| --- | --- | --- | --- |
+| Interno e externo na aplicação de marca | Orientação interna; contexto da p. 208 | Em uso; não consultado | Interno é material desenvolvido para uso/veiculação pelo próprio Sebrae, incluindo didáticos e comunicação interna. Externo é mídia para veiculação para fora, como outdoor e mídia exterior. Não reclassificar automaticamente os crachás da p. 237 nem revogar regras de IA por essa definição contextual. |
+| Assinatura de e-mail | Orientação interna; aplicação da p. 242 | Em uso; não consultado | Assinatura dos colaboradores, com regra específica por submarca. O PDF também apresenta variação estadual e preservação de elementos azuis na mesma posição. Isso não determina a hierarquia de marcas parceiras. |
+| Hierarquia entre marcas | PDF, pp. 171, 193 e 213–216 | Consulta ao Sebrae/NA, item 4 | A p. 171 trata a posição à direita ou abaixo como secundária; a p. 213 associa a direita à maior importância. Aplicar cada regra em seu contexto e sinalizar a dúvida quando uma submarca independente convive com o Sebrae e com parceiros. |
+| Redução e distância no endosso | PDF, pp. 164–166 e 203 | **Suspensa** (CON-04); consulta item 1 | Leitura literal: o logotipo Sebrae não deve ter redução menor que 16 px/5 mm; a distância entre logotipo e nome é x/3 (pp. 164–165). Não usar os 16 px/5 mm como distância até a resposta. |
+| Símbolo em novas submarcas | PDF, pp. 160–165 | Provisória (CON-07); consulta item 3 | A p. 163 proíbe submarcas sem símbolo; as pp. 160–162 e 164 mostram modelos sem símbolo. Preferir modelos com símbolo e sinalizar a dúvida. Para marcas anteriores, preservar a análise individual da p. 193. |
+| Composição da p. 157 | Figura do PDF | Provisória (CON-09); consulta item 9 | Nome antes do logotipo Sebrae e símbolo à direita. O título impresso “Nome à direita” contradiz a figura; seguir a figura. |
+| Espaçamento entre marcas | PDF, pp. 171 e 193 | Provisória (CON-10); consulta item 7 | Usar duas letras S do logotipo Sebrae, como mostra a figura. A p. 171 cota o espaço como X e define X = S. |
+| Campuni em Assessoria de Negócios | PDF, p. 180 | Provisória (CON-11); consulta item 2 | Usar Bold, como na amostra. O texto da página menciona Regular. |
+| Unidade de entreletra | PDF, pp. 85–86 | **Suspensa** (CON-13); consulta item 5 | A unidade não está indicada. Provável: milésimos de em (tracking do InDesign/Illustrator). Não converter como px. |
+| Assinatura em espanhol | PDF, p. 200 | Provisória (TEX-01); consulta item 8 | Usar o padrão gráfico oficial sem recriar a composição. O descritivo traz “Apoio a Las” (em espanhol seria “Apoyo”); sinalizar a dúvida antes de usar. |
+| Guaco/Taiti | PDF, pp. 71 e 75 | Provisória (VIS-02); consulta item 6 | Usar o exemplo visual Taiti/Guaco, sem traço de restrição. Não estender aos outros pares nem à matriz de texto/fundo. |
+| Atlântico sobre Manacá | PDF, p. 90; cálculo WCAG | Alerta; consulta item 10 | Aprovado no PDF também para texto pequeno, mas o contraste é 4,0:1 (mínimo WCAG para texto pequeno: 4,5:1). Usar só na categoria grande até a resposta. |
 
-A posição/hierarquia entre marcas da p. 171 e a regra de parceiros das pp. 213–216 permanecem contextuais. A resposta sobre assinatura de e-mail não define uma nova posição para essas composições.
+Também foram informados ao Sebrae/NA, como revisão editorial: o rótulo “Passo 4” na p. 67 (capítulo do Passo 3), a referência a “casos apresentados acima” na p. 166 (estão nas pp. 164–165) e a grafia “Négocios” na p. 180.
 
 # Recursos para produção
 

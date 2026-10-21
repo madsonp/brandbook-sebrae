@@ -1,6 +1,6 @@
 # Sebrae Brandbook 2026
 
-> Base privada de consulta em português. Requer acesso autenticado ao repositório ou cópia local. Adaptação 5.0; original preservado.
+> Base privada de consulta em português. Requer acesso autenticado ao repositório ou cópia local. Adaptação 5.1; original preservado.
 
 ## Entrada
 - [README](README.md)
@@ -11,9 +11,9 @@
 ## Evidência
 - [Fonte por página](fonte-pdf/LEIA-ME.md)
 - [PDF original](original.pdf)
-- [Critérios do usuário](dados/criterios-de-aplicacao.json)
+- [Orientações provisórias, pendentes do Sebrae/NA](dados/criterios-de-aplicacao.json)
 - [Medidas e contextos](dados/medidas-e-contextos.json)
 - [Recursos de produção](dados/recursos-de-producao.json)
 
 ## Uso
-Escolha consolidado ou capítulos relevantes. Cite páginas e carregue as imagens/PDFs necessários. Não confunda matriz gráfica com texto/fundo nem critério do usuário com redação original. Não prometa conformidade visual sem recursos e verificação. Este arquivo é um ponto de navegação, não concede acesso nem altera as regras do brandbook.
+Escolha consolidado ou capítulos relevantes. Cite páginas e carregue as imagens/PDFs necessários. Não confunda matriz gráfica com texto/fundo nem orientação provisória com redação original. Não prometa conformidade visual sem recursos e verificação. Este arquivo é um ponto de navegação, não concede acesso nem altera as regras do brandbook.

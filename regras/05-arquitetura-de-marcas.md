@@ -1,6 +1,6 @@
 # Arquitetura de marcas
 
-Este guia operacional considera as regras do PDF e os critérios do usuário em `dados/criterios-de-aplicacao.json`. Para consultar a redação original, use `fonte-pdf/` e as imagens correspondentes.
+Este guia operacional considera as regras do PDF e as orientações internas provisórias, pendentes de confirmação do Sebrae/NA, em `dados/criterios-de-aplicacao.json`. Para consultar a redação original, use `fonte-pdf/` e as imagens correspondentes.
 
 > Adaptação de consulta do Brandbook Sebrae 2026. As referências de página usam a numeração física do PDF, iniciando em 1.
 
@@ -120,7 +120,7 @@ Nos dois casos abaixo, o símbolo aparece sempre à esquerda do logotipo Sebrae 
 
 Para o caso a seguir, o símbolo aparece sempre à direita do logotipo Sebrae e centralizado. Evite nomes com mais de duas palavras para não atrapalhar a ordem de leitura e construção do logo. A altura do logotipo deve ocupar o equivalente a 6 módulos. A distância entre eles é de 2 módulos, à esquerda ou à direita.
 
-- **Logo Monolítico 01 — Nome à esquerda e símbolo à direita:** a submarca deverá vir antes do logotipo do Sebrae e do símbolo, escrita em Univers Bold Italic. *(ex.: "Nomenome SEBRAE")*
+- **Logo Monolítico 01 — Nome à esquerda e símbolo à direita** (o PDF intitula “Nome à direita”; título corrigido pela composição da figura, CON-09, pendente de confirmação do Sebrae/NA): a submarca deverá vir antes do logotipo do Sebrae e do símbolo, escrita em Univers Bold Italic. *(ex.: "Nomenome SEBRAE")*
 
 A composição apresenta o nome antes do logotipo Sebrae e o símbolo à direita.
 
@@ -142,7 +142,7 @@ A composição apresenta o nome antes do logotipo Sebrae e o símbolo à direita
 
 ### 1. Presença da marca-mãe — O que não fazer
 
-Todas as novas submarcas devem ter símbolo, inclusive no modelo Monolítico 02. Para marcas anteriores ao projeto, aplicar a análise específica da p. 193.
+**Orientação provisória (CON-07), pendente de confirmação do Sebrae/NA:** a p. 163 proíbe criar submarcas sem símbolo, mas a construção do Monolítico 02 (pp. 160–162) não prevê posição para símbolo e a p. 164 apresenta o modelo Endossado sem símbolo. Em novas submarcas, preferir os modelos com símbolo e sinalizar a dúvida antes de aprovar uma composição sem símbolo. Para marcas anteriores ao projeto, aplicar a análise específica da p. 193.
 
 Ilustramos aqui alguns exemplos do que **não fazer** na criação de submarcas:
 
@@ -162,7 +162,7 @@ A segunda estrutura de construção também é indicada para iniciativas cuja fu
 
 Nas duas opções do Monolítico 02, X corresponde à altura de uma barra do logotipo Sebrae. No diagrama, o separador vertical tem espessura horizontal X/2 e afastamento de 2X em cada lado: entre o nome e o separador e entre o separador e o logotipo. Sua extensão vertical acompanha os limites superior e inferior do logotipo mostrados na figura. A cota X/2 não corresponde à altura total do separador. Em relação à posição, o logo Sebrae **sempre aparece à direita** do nome da submarca. A **cor do nome da submarca** é de livre escolha, dentre as diversas cores presentes na paleta cromática do Sebrae.
 
-Todas as novas submarcas devem ter símbolo, inclusive no modelo Monolítico 02. Para marcas anteriores ao projeto, aplicar a análise específica da p. 193.
+**Orientação provisória (CON-07), pendente de confirmação do Sebrae/NA:** a p. 163 proíbe criar submarcas sem símbolo, mas a construção do Monolítico 02 (pp. 160–162) não prevê posição para símbolo e a p. 164 apresenta o modelo Endossado sem símbolo. Em novas submarcas, preferir os modelos com símbolo e sinalizar a dúvida antes de aprovar uma composição sem símbolo. Para marcas anteriores ao projeto, aplicar a análise específica da p. 193.
 
 **Logo Monolítico 02 — Nome em uma linha:** localizado à esquerda do logo do Sebrae, separado por uma barra vertical e escrito em **Univers Bold**. *(ex.: "Nomenome | SEBRAE")*
 
@@ -212,9 +212,9 @@ O endosso pode se dar pela inserção do nome "Sebrae" a essa iniciativa ou por 
 
 A assinatura do Sebrae aparece de forma secundária e **sempre no canto esquerdo inferior ou superior**, numa proporção de **aproximadamente 40%** em relação à submarca. O logotipo Sebrae aparece sem as barras e sempre em sua cor azul. As submarcas podem assumir cores diversas, sem fazer referência aos pilares.
 
-Todas as novas submarcas devem ter símbolo, inclusive no modelo Monolítico 02. Para marcas anteriores ao projeto, aplicar a análise específica da p. 193.
+**Orientação provisória (CON-07), pendente de confirmação do Sebrae/NA:** a p. 163 proíbe criar submarcas sem símbolo, mas a construção do Monolítico 02 (pp. 160–162) não prevê posição para símbolo e a p. 164 apresenta o modelo Endossado sem símbolo. Em novas submarcas, preferir os modelos com símbolo e sinalizar a dúvida antes de aprovar uma composição sem símbolo. Para marcas anteriores ao projeto, aplicar a análise específica da p. 193.
 
-**Referência de composição Endossadas 01 (p. 164):** o diagrama apresenta o nome da submarca em tipografia livre, sem símbolo. Para criar uma nova submarca, usar a composição com símbolo da p. 165. Logotipo do Sebrae localizado à esquerda, podendo ser aplicado acima ou abaixo da submarca. A proporção entre o nome da submarca (100% = x) e o logotipo Sebrae (40%) segue um módulo x/3 de espaçamento.
+**Referência de composição Endossadas 01 (p. 164):** o diagrama apresenta o nome da submarca em tipografia livre, sem símbolo. Para uma nova submarca, a orientação provisória é preferir a composição com símbolo da p. 165 (CON-07, pendente de confirmação do Sebrae/NA). Logotipo do Sebrae localizado à esquerda, podendo ser aplicado acima ou abaixo da submarca. A proporção entre o nome da submarca (100% = x) e o logotipo Sebrae (40%) segue um módulo x/3 de espaçamento.
 
 *(pág. 164)*
 
@@ -228,7 +228,7 @@ Todas as novas submarcas devem ter símbolo, inclusive no modelo Monolítico 02.
 
 [Referência visual p. 165](../referencias-visuais/p-165.png)
 
-Nas composições endossadas, a distância entre a marca e o nome da submarca deve respeitar o mínimo de **16 px no digital e 5 mm no impresso**. Para as alturas mínimas das assinaturas institucionais, consultar a p. 203.
+**Leitura literal do PDF:** nas composições endossadas, o logotipo Sebrae não deve ter redução menor que **16 px no digital e 5 mm no impresso**; a seta da figura aponta para o próprio logotipo. A distância entre o logotipo e o nome da submarca está cotada como **x/3** nas pp. 164–165. A leitura dos 16 px/5 mm como distância entre marca e nome (CON-04) está suspensa até a resposta do Sebrae/NA. Para as alturas mínimas das assinaturas institucionais, consultar a p. 203.
 
 *(pág. 166)*
 
@@ -244,7 +244,7 @@ Símbolo e nome da submarca de livre escolha. Logotipo do Sebrae localizado à e
 
 ### 1. Presença da marca-mãe — O que não fazer
 
-Todas as novas submarcas devem ter símbolo, inclusive no modelo Monolítico 02. Para marcas anteriores ao projeto, aplicar a análise específica da p. 193.
+**Orientação provisória (CON-07), pendente de confirmação do Sebrae/NA:** a p. 163 proíbe criar submarcas sem símbolo, mas a construção do Monolítico 02 (pp. 160–162) não prevê posição para símbolo e a p. 164 apresenta o modelo Endossado sem símbolo. Em novas submarcas, preferir os modelos com símbolo e sinalizar a dúvida antes de aprovar uma composição sem símbolo. Para marcas anteriores ao projeto, aplicar a análise específica da p. 193.
 
 Ilustramos aqui alguns exemplos do que **não fazer** na criação de submarcas:
 
@@ -285,11 +285,11 @@ Para marcas criadas antes deste projeto, aplicar a análise específica da p. 19
 
 ### 1. Presença da marca-mãe — Como fazemos?
 
-As regras de posição e hierarquia entre marcas devem ser aplicadas no contexto específico de cada composição, conforme as pp. 171 e 213–216.
+As regras de posição e hierarquia entre marcas devem ser aplicadas no contexto específico de cada composição, conforme as pp. 171 e 213–216. A p. 171 trata a posição à direita ou abaixo como secundária, e a p. 213 associa a posição à direita à maior importância; essa diferença (CON-02) aguarda resposta do Sebrae/NA.
 
 Em assinaturas conjuntas, as submarcas independentes sempre têm mais importância, o papel do Sebrae é secundário. Essa hierarquia é expressa apenas pela posição. Sendo assim, a marca-mãe Sebrae aparece depois da submarca, à direita ou abaixo dela. Em termos de tamanho, elas devem ser opticamente iguais. Ou seja, devem ter a mesma presença de marca. *(ex.: "empretec" + "SEBRAE")*
 
-Para preservar ambas as marcas, o espaçamento entre elas deve medir o tamanho de duas letras S do logotipo Sebrae.
+Para preservar ambas as marcas, o PDF define um espaçamento padrão com base na letra S de Sebrae. A figura mostra o espaço ocupado por dois quadrados da letra S, mas o cota como X e define X = S. **Orientação provisória (CON-10), pendente de confirmação do Sebrae/NA:** usar duas letras S, como mostra a figura.
 
 *(pág. 171)*
 
@@ -418,7 +418,7 @@ A submarca "Assessoria de Negócios Sebrae" é uma iniciativa institucional. Por
 
 | Tipografia | Cores | Grid | Fotografia | Logo |
 | --- | --- | --- | --- | --- |
-| Campuni Bold / Figtree. No exemplo Assessoria de Negócios, utilizar Campuni Bold. | Restringimos a quatro cores e elas são derivadas da marca-mãe. | Escolha de 01 grid como principal na identidade. | Direcionada ao público que será abordado. | Logotipo monolítico 02. |
+| Campuni Bold / Figtree. No exemplo Assessoria de Negócios, utilizar Campuni Bold (orientação provisória CON-11, pendente de confirmação do Sebrae/NA; o texto da p. 180 menciona Regular). | Restringimos a quatro cores e elas são derivadas da marca-mãe. | Escolha de 01 grid como principal na identidade. | Direcionada ao público que será abordado. | Logotipo monolítico 02. |
 
 *(pág. 180)*
 

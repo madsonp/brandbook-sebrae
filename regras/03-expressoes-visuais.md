@@ -1,6 +1,6 @@
 # Expressões visuais
 
-Este guia operacional considera as regras do PDF e os critérios do usuário em `dados/criterios-de-aplicacao.json`. Para consultar a redação original, use `fonte-pdf/` e as imagens correspondentes.
+Este guia operacional considera as regras do PDF e as orientações internas provisórias, pendentes de confirmação do Sebrae/NA, em `dados/criterios-de-aplicacao.json`. Para consultar a redação original, use `fonte-pdf/` e as imagens correspondentes.
 
 > Adaptação de consulta do Brandbook Sebrae 2026. As referências de página usam a numeração física do PDF, iniciando em 1.
 
@@ -170,7 +170,7 @@ O espaço entre cada estilo de texto não deve ser menor do que a altura do text
 
 Temos algumas diretrizes básicas para guiar uma diagramação simples e chegarmos a um bom resultado.
 
-| Aprovação | Corpo | Entrelinha | Entreletra (px) |
+| Aprovação | Corpo | Entrelinha | Entreletra (unidade não indicada no PDF) |
 | --- | --- | --- | --- |
 | ✗ Não recomendado | x | < x-5 | < -25 |
 | ✓ Recomendado | x | x | -10 |
@@ -180,7 +180,7 @@ Temos algumas diretrizes básicas para guiar uma diagramação simples e chegarm
 
 A mesma régua se aplica tanto à família Campuni (pág. 85) quanto à Figtree (pág. 86). As colunas apresentam exemplos de configuração; não estabelecem aprovação automática de todos os valores intermediários.
 
-Os valores de entreletra das pp. 85–86 são expressos em px. As categorias de tamanho das matrizes de contraste permanecem expressas em pt.
+O PDF não indica a unidade da entreletra. A convenção mais provável é a de tracking do InDesign e do Illustrator (milésimos de em: −10 equivale a −0,01 em). A leitura anterior em px (CON-13) está suspensa até a resposta do Sebrae/NA. Para reproduzir na web, converter por em (−10 → `letter-spacing: -0.01em`), nunca como px. As categorias de tamanho das matrizes de contraste permanecem expressas em pt.
 
 *(págs. 85-86)*
 
