@@ -1,0 +1,115 @@
+{
+  "edicao": "5.1",
+  "ciclo": 1,
+  "escopo": "Registro da Campuni versão 2.000 incluída neste pacote e do confronto com as fontes embutidas em original.pdf. Não é regra nova do PDF nem orientação submetida ao Sebrae/NA.",
+  "origem_dos_arquivos": "OTF fornecidos para este pacote e identificados como as fontes corrigidas da Campuni.",
+  "familia": "Campuni",
+  "papel_no_pdf": "Tipografia principal de títulos e subtítulos, no peso Bold (p. 82).",
+  "diretorio": "fontes-tipograficas/campuni/",
+  "formato": "OpenType CFF (.otf)",
+  "versao": "2.000",
+  "unidades_por_em": 1000,
+  "copyright": "Copyright © 2020 by Moritz Kleinsorge. All rights reserved.",
+  "autor": "Moritz Kleinsorge",
+  "fsType": 8,
+  "leitura_de_licenca": "fsType 8 declara embedding editável na tabela OS/2. O copyright permanece do autor. A inclusão neste repositório privado não cria licença de redistribuição.",
+  "glifos_por_arquivo": 622,
+  "caracteres_mapeados": 395,
+  "cobertura_conferida": "á à â ã ç é ê í ó ô õ ú e os sinais @ # ! & % da p. 81 estão mapeados nos três pesos.",
+  "arquivos": [
+    {
+      "arquivo": "fontes-tipograficas/campuni/Campuni-Regular.otf",
+      "peso": "Regular",
+      "usWeightClass": 400,
+      "bytes": 76164,
+      "sha256": "efb70161878ff8c05ec622f24cd4b933173c3e20e15b7dc7b8deab7c530d6a9a"
+    },
+    {
+      "arquivo": "fontes-tipograficas/campuni/Campuni-Bold.otf",
+      "peso": "Bold",
+      "usWeightClass": 700,
+      "bytes": 77204,
+      "sha256": "b8773cca2d43ab78db4478a85165ae364077a8c9f788e08973054afc8f742820",
+      "nome_windows": "A família Windows (nameID 1) é Campuni Bold e a subfamília (nameID 2) é Regular. A família tipográfica (nameID 16/17) é Campuni Bold. Esse arranjo instala o peso como família própria."
+    },
+    {
+      "arquivo": "fontes-tipograficas/campuni/Campuni-Black.otf",
+      "peso": "Black",
+      "usWeightClass": 900,
+      "bytes": 74456,
+      "sha256": "1872920b6fa1c1f5d5c3c7ece8e0090693f0c55af1c06f10f59eec9c3e7b4c83",
+      "nome_windows": "A família Windows (nameID 1) é Campuni Black e a subfamília (nameID 2) é Regular. A família tipográfica (nameID 16/17) é Campuni Black."
+    }
+  ],
+  "peso_prescrito_para_titulos": "Bold",
+  "pesos_nao_estabelecidos_como_regra": {
+    "Black": "Campuni Black não ocorre no PDF e não há regra que a autorize como peso da marca-mãe.",
+    "Regular": "Campuni-Regular está embutida só na p. 120, nos glifos period, b, c, m, o e r. A p. 180 menciona Regular no texto e Bold na legenda; CON-11, ainda pendente, manda usar Bold nesse exemplo."
+  },
+  "confronto_com_o_pdf": {
+    "metodo": "O subconjunto Type1C de cada página foi desenhado e comparado ao glifo de mesmo nome da versão 2.000, depois de converter a grade de 2048 para 1000. A sobreposição é o índice de Jaccard da área preenchida, com cada glifo centralizado no quadro.",
+    "campuni_bold": {
+      "ocorrencias_de_pagina": 254,
+      "copyright_do_recorte": "Copyright (c) 2018 by Moritz Kleinsorge. All rights reserved.",
+      "grade_do_recorte": "2048 unidades por em",
+      "fsType_do_recorte": 0,
+      "glifos_comparados": 111,
+      "sobreposicao_minima": 0.66,
+      "sobreposicao_mediana": 0.941,
+      "sobreposicao_media": 0.919,
+      "abaixo_de_0_80": [
+        {"glifo": "one", "sobreposicao": 0.66},
+        {"glifo": "semicolon", "sobreposicao": 0.72},
+        {"glifo": "v", "sobreposicao": 0.732},
+        {"glifo": "percent", "sobreposicao": 0.735},
+        {"glifo": "colon", "sobreposicao": 0.742},
+        {"glifo": "quotedbl", "sobreposicao": 0.754},
+        {"glifo": "question", "sobreposicao": 0.755},
+        {"glifo": "ampersand", "sobreposicao": 0.764},
+        {"glifo": "two", "sobreposicao": 0.781}
+      ],
+      "renomeacoes_de_glifo": {
+        "f_f.liga": "f_f",
+        "zero.lnum": "zero.lf",
+        "one.lnum": "one.lf",
+        "two.lnum": "two.lf",
+        "three.lnum": "three.lf",
+        "four.lnum": "four.lf",
+        "five.lnum": "five.lf",
+        "six.lnum": "six.lf",
+        "seven.lnum": "seven.lf",
+        "eight.lnum": "eight.lf",
+        "nine.lnum": "nine.lf"
+      }
+    },
+    "campuni_regular": {
+      "pagina": 120,
+      "glifos": [
+        {"glifo": "period", "sobreposicao": 0.982},
+        {"glifo": "b", "sobreposicao": 0.986},
+        {"glifo": "c", "sobreposicao": 0.85},
+        {"glifo": "m", "sobreposicao": 0.893},
+        {"glifo": "o", "sobreposicao": 0.989},
+        {"glifo": "r", "sobreposicao": 0.97}
+      ]
+    },
+    "leitura": "A versão 2.000 é a mesma família, com revisão de contorno. Não reproduz o desenho embutido no PDF. Na produção, usar os arquivos incluídos. Para descrever o que uma página desenha, consultar o PDF."
+  },
+  "ainda_ausentes": [
+    {
+      "familia": "Figtree",
+      "paginas_pdf": [83, 84, 86],
+      "observacao": "Nenhum arquivo foi incluído. A anotação da p. 83 aponta para https://fonts.google.com/specimen/Figtree. O texto visível da página diz Frigtree. Disponibilidade e licença não foram verificadas."
+    },
+    {
+      "familia": "Univers LT Std",
+      "nomes_embutidos": ["UniversLTStd-Bold", "UniversLTStd-BoldObl", "UniversLTStd-LightObl"],
+      "observacao": "Nenhum arquivo foi incluído. A regra de uso continua a do guia (logotipo em Univers Extra Bold Italic; descritivos e submarcas nos pesos indicados nas páginas). Este ciclo não reinterpretou esses pesos."
+    }
+  ],
+  "pendente_nos_proximos_ciclos": [
+    "Incluir e conferir a Figtree, se os arquivos forem fornecidos.",
+    "Incluir e conferir os pesos Univers aplicáveis ao logotipo e às submarcas.",
+    "Confrontar, página a página, os exemplos de título com a versão 2.000 além da amostra de glifos já medida."
+  ]
+}

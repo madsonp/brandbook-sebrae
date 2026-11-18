@@ -17,6 +17,7 @@
 - [Consulta direta por página do PDF](fonte-pdf/LEIA-ME.md).
 - Orientações internas provisórias, pendentes de confirmação do Sebrae/NA: `dados/criterios-de-aplicacao.json`.
 - Recursos necessários para produção: `dados/recursos-de-producao.json`.
+- Campuni versão 2.000 e o confronto com o PDF: [fontes-tipograficas](fontes-tipograficas/LEIA-ME.md) e `dados/fontes-tipograficas.json`.
 
 ## Apêndices de consulta
 

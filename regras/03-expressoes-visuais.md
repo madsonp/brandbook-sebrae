@@ -139,6 +139,10 @@ Para os títulos e subtítulos, escolhemos a família tipográfica Campuni em se
 
 [Referência visual p. 82](../referencias-visuais/p-082.png)
 
+Os arquivos de produção estão em [fontes-tipograficas/campuni/](../fontes-tipograficas/LEIA-ME.md): Campuni Regular, Bold e Black, versão 2.000. O peso prescrito para títulos e subtítulos continua sendo o Bold. Black não aparece no PDF. Regular está embutida só na p. 120; a menção a Regular na p. 180 segue a orientação provisória CON-11.
+
+O PDF embute um recorte anterior (copyright 2018, grade de 2048). A versão 2.000 (copyright 2020, grade de 1000) é a mesma família, com contornos revistos. Na produção, usar os arquivos incluídos. Para ler o desenho de uma página, usar o PDF. A medição está em [dados/fontes-tipograficas.json](../dados/fontes-tipograficas.json).
+
 ### Tipografia de apoio — Figtree
 
 Para textos longos, tanto em publicações impressas quanto no ambiente digital, adotamos a família tipográfica Figtree. Assim como a Campuni, sua base caligráfica confere um ritmo dinâmico e variado, tornando a leitura confortável.
@@ -147,7 +151,7 @@ Para textos longos, tanto em publicações impressas quanto no ambiente digital,
 
 Pesos disponíveis: Light, Light Italic, Regular, Italic, Medium, Medium Italic, SemiBold, SemiBold Italic, Bold, Bold Italic, ExtraBold, ExtraBold Italic, Black, Black Italic.
 
-*[Baixar a Figtree no Google Fonts](https://fonts.google.com/specimen/Figtree).* *(pág. 83)*
+O texto visível do link na p. 83 diz “Frigtree”. A anotação do PDF aponta para [Figtree no Google Fonts](https://fonts.google.com/specimen/Figtree). Nenhum arquivo Figtree está neste pacote.
 
 [Referência visual p. 83](../referencias-visuais/p-083.png)
 

@@ -830,6 +830,10 @@ Para os títulos e subtítulos, escolhemos a família tipográfica Campuni em se
 
 [Referência visual p. 82](referencias-visuais/p-082.png)
 
+Os arquivos de produção estão em [fontes-tipograficas/campuni/](fontes-tipograficas/LEIA-ME.md): Campuni Regular, Bold e Black, versão 2.000. O peso prescrito para títulos e subtítulos continua sendo o Bold. Black não aparece no PDF. Regular está embutida só na p. 120; a menção a Regular na p. 180 segue a orientação provisória CON-11.
+
+O PDF embute um recorte anterior (copyright 2018, grade de 2048). A versão 2.000 (copyright 2020, grade de 1000) é a mesma família, com contornos revistos. Na produção, usar os arquivos incluídos. Para ler o desenho de uma página, usar o PDF. A medição está em [dados/fontes-tipograficas.json](dados/fontes-tipograficas.json).
+
 ### Tipografia de apoio — Figtree
 
 Para textos longos, tanto em publicações impressas quanto no ambiente digital, adotamos a família tipográfica Figtree. Assim como a Campuni, sua base caligráfica confere um ritmo dinâmico e variado, tornando a leitura confortável.
@@ -838,7 +842,7 @@ Para textos longos, tanto em publicações impressas quanto no ambiente digital,
 
 Pesos disponíveis: Light, Light Italic, Regular, Italic, Medium, Medium Italic, SemiBold, SemiBold Italic, Bold, Bold Italic, ExtraBold, ExtraBold Italic, Black, Black Italic.
 
-*[Baixar a Figtree no Google Fonts](https://fonts.google.com/specimen/Figtree).* *(pág. 83)*
+O texto visível do link na p. 83 diz “Frigtree”. A anotação do PDF aponta para [Figtree no Google Fonts](https://fonts.google.com/specimen/Figtree). Nenhum arquivo Figtree está neste pacote.
 
 [Referência visual p. 83](referencias-visuais/p-083.png)
 
@@ -2726,13 +2730,13 @@ Também foram informados ao Sebrae/NA, como revisão editorial: o rótulo “Pas
 
 # Recursos para produção
 
-O pacote contém o PDF original, recortes e imagens de referência. Eles permitem consultar as regras e examinar figuras, mas não equivalem automaticamente aos arquivos avulsos de produção citados no livro.
+O pacote contém o PDF original, recortes e imagens de referência. Eles permitem consultar as regras e examinar figuras, mas não equivalem automaticamente aos arquivos avulsos de produção citados no livro. A Campuni versão 2.000 está em `fontes-tipograficas/campuni/`.
 
 | Recurso | Necessidade | Disponibilidade |
 | --- | --- | --- |
 | logotipos_e_assinaturas | Arquivos oficiais em curvas das configurações necessárias. | PDF e PNG de referência disponíveis; arquivos oficiais avulsos não incluídos. |
 | grids_de_layout | Grids oficiais nas quatro versões, ou reprodução geométrica fiel verificada. | PDF e PNG disponíveis; não há modelos vetoriais avulsos de construção no pacote. |
-| fontes_tipograficas | Campuni Bold, Figtree e os pesos Univers aplicáveis, conforme a tarefa. | Nenhum arquivo de fonte está incluído. Há link de Figtree; disponibilidade e licença não foram verificadas nesta auditoria. |
+| fontes_tipograficas | Campuni Bold para títulos da marca-mãe; Figtree e os pesos Univers conforme a tarefa. | Campuni Regular, Bold e Black, versão 2.000, em `fontes-tipograficas/campuni/`. O contorno difere do recorte de 2018 embutido no PDF. Figtree e Univers ausentes. O texto visível da p. 83 diz Frigtree; a anotação aponta para a Figtree. |
 | iconografia | Ícones oficiais ou novas construções compatíveis com o grid e as diretrizes. | Referências disponíveis; não há biblioteca oficial avulsa de ícones. |
 | ilustracoes | Ilustrações próprias no estilo definido. | As imagens da p. 128 são referências de estilo e não devem ser reutilizadas em peças da marca. |
 | audio_video | Arquivos oficiais de tema, versões, assinatura sonora e vinheta. | Links extraídos disponíveis; mídias não baixadas e destinos não testados. |
