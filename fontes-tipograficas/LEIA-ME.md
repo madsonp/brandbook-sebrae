@@ -16,4 +16,4 @@ O copyright é de Moritz Kleinsorge (2020). A tabela OS/2 declara `fsType` 8 (em
 
 O `original.pdf` embute um recorte anterior, de 2018, em grade de 2048. A versão 2.000 usa grade de 1000 e revisa contornos. Para produzir, usar estes arquivos. Para descrever o desenho de uma página, consultar o PDF.
 
-Figtree e Univers não estão neste diretório.
+Figtree e Univers não estão neste diretório. Corpo, entrelinha e entreletra medidos nas pp. 82–86 e 93 estão em `dados/fontes-tipograficas.json`.

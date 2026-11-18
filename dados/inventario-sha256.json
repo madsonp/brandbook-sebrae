@@ -2,8 +2,8 @@
   "edicao": "5.1",
   "arquivos": {
     "brandbook-consolidado.md": {
-      "sha256": "a9526a2f703d181581d34dcfe8def0742438aa5a2d3f7c74585107ee4ee181f7",
-      "bytes": 186088
+      "sha256": "095bbf235d2d4bf93c6d8e73382706de0356e70ea22244515a9bc956eff5bf4e",
+      "bytes": 187685
     },
     "dados/combinacoes-graficas.csv": {
       "sha256": "5206c92f565f6b654c8edeae3d8c3f552010393aff83152fe01bc74a34e329cb",
@@ -38,8 +38,8 @@
       "bytes": 1614
     },
     "dados/fontes-tipograficas.json": {
-      "sha256": "08a25fba3212bc20b38f1f90a508e06d29eb411f4a66f88572879bbee7a18642",
-      "bytes": 5887
+      "sha256": "2388ec62966f8c55fa02f48c5ab02b4b0eb0dc7b2058a31d7a90da8762ef6d2a",
+      "bytes": 8828
     },
     "dados/gradientes.json": {
       "sha256": "f07b5a5b9319d25aca42345705cf023c853d5b436c6d02a48587590f19354ebe",
@@ -1070,8 +1070,8 @@
       "bytes": 76164
     },
     "fontes-tipograficas/LEIA-ME.md": {
-      "sha256": "9c253ae950d44aef5bb9e335e790b29b550c629103a1a7fb9f03bb40a9c5c0db",
-      "bytes": 1119
+      "sha256": "641a1a8bbd1488a4696ca2a0e87dc9885f6265abeccfe2fb47ecd6e654cf4fc1",
+      "bytes": 1223
     },
     "GUIA-PARA-LLMS.md": {
       "sha256": "5bacc2f878274793327ff29252219d2416bf18daf388f68742a58525cf305f55",
@@ -2118,8 +2118,8 @@
       "bytes": 23466
     },
     "regras/03-expressoes-visuais.md": {
-      "sha256": "100e9904395441be872c46d73f8b735eccf84a53273d47b26f3d1b7a176b31b8",
-      "bytes": 36512
+      "sha256": "96441d2c1430a60bc4c68a4cac3b2b414d133fd74c1150216ced61bddaa6fdef",
+      "bytes": 38109
     },
     "regras/04-expressoes-sonoras.md": {
       "sha256": "d48eb469f23dd96b41c074802c4c7959855dd74a533f809c574232298deb69ca",
