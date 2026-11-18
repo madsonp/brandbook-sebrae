@@ -139,15 +139,23 @@ Para os títulos e subtítulos, escolhemos a família tipográfica Campuni em se
 
 [Referência visual p. 82](../referencias-visuais/p-082.png)
 
+Os arquivos de produção estão em [fontes-tipograficas/campuni/](../fontes-tipograficas/LEIA-ME.md): Campuni Regular, Bold e Black, versão 2.000. O peso prescrito para títulos e subtítulos continua sendo o Bold. Black não aparece no PDF. Regular está embutida só na p. 120; a menção a Regular na p. 180 segue a orientação provisória CON-11.
+
+O PDF embute um recorte anterior (copyright 2018, grade de 2048). A versão 2.000 (copyright 2020, grade de 1000) é a mesma família, com contornos revistos. Na produção, usar os arquivos incluídos. Para ler o desenho de uma página, usar o PDF. A medição está em [dados/fontes-tipograficas.json](../dados/fontes-tipograficas.json).
+
+No arquivo da p. 82, o exemplo está a 150 pt com entrelinha de 152 pt (x+2). Sem kerning, as três linhas na versão 2.000 medem 1013, 862 e 700 pt; no PDF medem 979, 840 e 668 pt.
+
 ### Tipografia de apoio — Figtree
 
 Para textos longos, tanto em publicações impressas quanto no ambiente digital, adotamos a família tipográfica Figtree. Assim como a Campuni, sua base caligráfica confere um ritmo dinâmico e variado, tornando a leitura confortável.
 
 > O Sebrae oferece uma ampla curadoria de ferramentas, conteúdos e soluções nos formatos on-line e off-line, feitos para apoiar e impulsionar os pequenos negócios. *(55 pt / 60 pt)*
 
+No arquivo, essa amostra está em Figtree Light, a 55 pt, com entrelinha de 60 pt. Os nomes Regular, Medium, SemiBold, Bold, ExtraBold e Black estão desenhados em Figtree Light; cada itálico usa o itálico do peso nomeado.
+
 Pesos disponíveis: Light, Light Italic, Regular, Italic, Medium, Medium Italic, SemiBold, SemiBold Italic, Bold, Bold Italic, ExtraBold, ExtraBold Italic, Black, Black Italic.
 
-*[Baixar a Figtree no Google Fonts](https://fonts.google.com/specimen/Figtree).* *(pág. 83)*
+O texto visível do link na p. 83 diz “Frigtree”. A anotação do PDF aponta para [Figtree no Google Fonts](https://fonts.google.com/specimen/Figtree). Nenhum arquivo Figtree está neste pacote.
 
 [Referência visual p. 83](../referencias-visuais/p-083.png)
 
@@ -163,6 +171,8 @@ O espaço entre cada estilo de texto não deve ser menor do que a altura do text
 | Figtree Regular | Assim como para criar um novo negócio é preciso um conjunto de habilidades e conhecimentos, como entender o mercado e o público e planejar bem cada ação, para uma boa gestão de marca também é preciso reunir processos e técnicas bem apuradas, além de muita criatividade e inovação. | x/4 |
 
 *(pág. 84)*
+
+Na página, esses níveis estão a 100 pt, 50 pt e 25 pt. O título em Campuni tem entrelinha de 102 pt; o subtítulo, de 50 pt. Os dois blocos rotulados Figtree Bold e Figtree Regular estão os dois em Figtree Light, com entrelinha de 30 pt. O rótulo continua indicando o peso a usar; o arquivo não desenha Bold nem Regular nesses blocos.
 
 [Referência visual p. 84](../referencias-visuais/p-084.png)
 
@@ -180,7 +190,9 @@ Temos algumas diretrizes básicas para guiar uma diagramação simples e chegarm
 
 A mesma régua se aplica tanto à família Campuni (pág. 85) quanto à Figtree (pág. 86). As colunas apresentam exemplos de configuração; não estabelecem aprovação automática de todos os valores intermediários.
 
-O PDF não indica a unidade da entreletra. A convenção mais provável é a de tracking do InDesign e do Illustrator (milésimos de em: −10 equivale a −0,01 em). A leitura anterior em px (CON-13) está suspensa até a resposta do Sebrae/NA. Para reproduzir na web, converter por em (−10 → `letter-spacing: -0.01em`), nunca como px. As categorias de tamanho das matrizes de contraste permanecem expressas em pt.
+No arquivo, o corpo desses exemplos é 30 pt. As entrelinhas medidas são 25, 30, 32, 35 e 45 pt: os limites x−5, x, x+2, x+5 e x+15, não valores além das desigualdades impressas. Na p. 86 a entreletra aplicada é −25, −10, 0, +10 e +25 milésimos de em. A primeira linha muda 5,4 pt, 3,6 pt, 3,6 pt e 5,4 pt de uma coluna para a seguinte, que é o efeito dessa entreletra a 30 pt. Na p. 85 só a coluna −10 muda de largura (224,4 pt, contra 219 pt nas outras). As colunas rotuladas 0, 10 e > 25 permanecem na entreletra da coluna −25.
+
+O PDF não indica a unidade da entreletra. A p. 86 mostra, no arquivo, milésimos de em (−10 equivale a −0,01 em). A leitura anterior em px (CON-13) está suspensa até a resposta do Sebrae/NA. Para reproduzir na web, converter por em (−10 → `letter-spacing: -0.01em`), nunca como px. As categorias de tamanho das matrizes de contraste permanecem expressas em pt.
 
 *(págs. 85-86)*
 
@@ -239,6 +251,8 @@ A página compara **duas peças: uma reprovada à esquerda e uma aprovada à dir
 
 - ✗ Título e texto corrido aplicados em cor fora do padrão recomendado, com baixa legibilidade e contraste.
 - ✗ Entrelinhas fora das regras apresentadas.
+
+No arquivo, o título das duas peças está em Campuni Bold a 36,5 pt. À esquerda a entrelinha é 28,7 pt, abaixo de x−5. À direita é 38,4 pt, cerca de x+2. Os dois textos corridos estão em Figtree Light a 12,5 pt, com entrelinhas de 18,2 pt e 14,4 pt. O desvio de entrelinha que a página aponta está no título da esquerda.
 
 *(pág. 93)*
 

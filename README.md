@@ -38,9 +38,10 @@ Para uso por anexos, envie `GUIA-PARA-LLMS.md`, `brandbook-consolidado.md` e os 
 | `fonte-pdf/` | Texto extraído das 245 páginas, para conferência sob demanda |
 | `referencias-visuais/` | 245 imagens PNG das páginas |
 | `pdfs-por-capitulo/` | Oito recortes por assunto |
+| `fontes-tipograficas/` | Campuni versão 2.000 (Regular, Bold e Black) |
 | `original.pdf` | PDF completo preservado |
 
-Os relatórios e históricos de auditoria não fazem parte deste repositório de consulta. Não há arquivos oficiais avulsos de logos, grids ou fontes instaláveis incluídos; as condições de produção estão descritas no guia. As matrizes distinguem composição gráfica de contraste texto/fundo, meio e tamanho do texto.
+Os relatórios e históricos de auditoria não fazem parte deste repositório de consulta. Não há arquivos oficiais avulsos de logos ou grids. A Campuni versão 2.000 está em `fontes-tipograficas/campuni/`; Figtree e Univers não estão incluídas. As condições de produção estão descritas no guia. As matrizes distinguem composição gráfica de contraste texto/fundo, meio e tamanho do texto.
 
 ## Integridade
 

@@ -1,0 +1,175 @@
+{
+  "edicao": "5.1",
+  "ciclo": 2,
+  "escopo": "Registro da Campuni versão 2.000 e das medidas de corpo, entrelinha e entreletra lidas no PDF nas páginas 82–86 e 93. Não é regra nova do PDF nem orientação submetida ao Sebrae/NA.",
+  "origem_dos_arquivos": "OTF fornecidos para este pacote e identificados como as fontes corrigidas da Campuni.",
+  "familia": "Campuni",
+  "papel_no_pdf": "Tipografia principal de títulos e subtítulos, no peso Bold (p. 82).",
+  "diretorio": "fontes-tipograficas/campuni/",
+  "formato": "OpenType CFF (.otf)",
+  "versao": "2.000",
+  "unidades_por_em": 1000,
+  "copyright": "Copyright © 2020 by Moritz Kleinsorge. All rights reserved.",
+  "autor": "Moritz Kleinsorge",
+  "fsType": 8,
+  "leitura_de_licenca": "fsType 8 declara embedding editável na tabela OS/2. O copyright permanece do autor. A inclusão neste repositório privado não cria licença de redistribuição.",
+  "glifos_por_arquivo": 622,
+  "caracteres_mapeados": 395,
+  "cobertura_conferida": "á à â ã ç é ê í ó ô õ ú e os sinais @ # ! & % da p. 81 estão mapeados nos três pesos.",
+  "arquivos": [
+    {
+      "arquivo": "fontes-tipograficas/campuni/Campuni-Regular.otf",
+      "peso": "Regular",
+      "usWeightClass": 400,
+      "bytes": 76164,
+      "sha256": "efb70161878ff8c05ec622f24cd4b933173c3e20e15b7dc7b8deab7c530d6a9a"
+    },
+    {
+      "arquivo": "fontes-tipograficas/campuni/Campuni-Bold.otf",
+      "peso": "Bold",
+      "usWeightClass": 700,
+      "bytes": 77204,
+      "sha256": "b8773cca2d43ab78db4478a85165ae364077a8c9f788e08973054afc8f742820",
+      "nome_windows": "A família Windows (nameID 1) é Campuni Bold e a subfamília (nameID 2) é Regular. A família tipográfica (nameID 16/17) é Campuni Bold. Esse arranjo instala o peso como família própria."
+    },
+    {
+      "arquivo": "fontes-tipograficas/campuni/Campuni-Black.otf",
+      "peso": "Black",
+      "usWeightClass": 900,
+      "bytes": 74456,
+      "sha256": "1872920b6fa1c1f5d5c3c7ece8e0090693f0c55af1c06f10f59eec9c3e7b4c83",
+      "nome_windows": "A família Windows (nameID 1) é Campuni Black e a subfamília (nameID 2) é Regular. A família tipográfica (nameID 16/17) é Campuni Black."
+    }
+  ],
+  "peso_prescrito_para_titulos": "Bold",
+  "pesos_nao_estabelecidos_como_regra": {
+    "Black": "Campuni Black não ocorre no PDF e não há regra que a autorize como peso da marca-mãe.",
+    "Regular": "Campuni-Regular está embutida só na p. 120, nos glifos period, b, c, m, o e r. A p. 180 menciona Regular no texto e Bold na legenda; CON-11, ainda pendente, manda usar Bold nesse exemplo."
+  },
+  "confronto_com_o_pdf": {
+    "metodo": "O subconjunto Type1C de cada página foi desenhado e comparado ao glifo de mesmo nome da versão 2.000, depois de converter a grade de 2048 para 1000. A sobreposição é o índice de Jaccard da área preenchida, com cada glifo centralizado no quadro.",
+    "campuni_bold": {
+      "ocorrencias_de_pagina": 254,
+      "copyright_do_recorte": "Copyright (c) 2018 by Moritz Kleinsorge. All rights reserved.",
+      "grade_do_recorte": "2048 unidades por em",
+      "fsType_do_recorte": 0,
+      "glifos_comparados": 111,
+      "sobreposicao_minima": 0.66,
+      "sobreposicao_mediana": 0.941,
+      "sobreposicao_media": 0.919,
+      "abaixo_de_0_80": [
+        {"glifo": "one", "sobreposicao": 0.66},
+        {"glifo": "semicolon", "sobreposicao": 0.72},
+        {"glifo": "v", "sobreposicao": 0.732},
+        {"glifo": "percent", "sobreposicao": 0.735},
+        {"glifo": "colon", "sobreposicao": 0.742},
+        {"glifo": "quotedbl", "sobreposicao": 0.754},
+        {"glifo": "question", "sobreposicao": 0.755},
+        {"glifo": "ampersand", "sobreposicao": 0.764},
+        {"glifo": "two", "sobreposicao": 0.781}
+      ],
+      "renomeacoes_de_glifo": {
+        "f_f.liga": "f_f",
+        "zero.lnum": "zero.lf",
+        "one.lnum": "one.lf",
+        "two.lnum": "two.lf",
+        "three.lnum": "three.lf",
+        "four.lnum": "four.lf",
+        "five.lnum": "five.lf",
+        "six.lnum": "six.lf",
+        "seven.lnum": "seven.lf",
+        "eight.lnum": "eight.lf",
+        "nine.lnum": "nine.lf"
+      }
+    },
+    "campuni_regular": {
+      "pagina": 120,
+      "glifos": [
+        {"glifo": "period", "sobreposicao": 0.982},
+        {"glifo": "b", "sobreposicao": 0.986},
+        {"glifo": "c", "sobreposicao": 0.85},
+        {"glifo": "m", "sobreposicao": 0.893},
+        {"glifo": "o", "sobreposicao": 0.989},
+        {"glifo": "r", "sobreposicao": 0.97}
+      ]
+    },
+    "leitura": "A versão 2.000 é a mesma família, com revisão de contorno. Não reproduz o desenho embutido no PDF. Na produção, usar os arquivos incluídos. Para descrever o que uma página desenha, consultar o PDF."
+  },
+  "medicoes_das_paginas": {
+    "metodo": "Posição e largura dos trechos de texto no PDF, mais os operadores Tc, Tw, Td e Tm do fluxo de conteúdo. A página mede 1920 por 1080 pt. A entreletra em milésimos é o valor de Tc multiplicado por 1000 quando o Tf está em 1 e o corpo está na matriz Tm.",
+    "pagina_82": {
+      "fonte": "Campuni-Bold",
+      "corpo_pt": 150,
+      "entrelinha_pt": 152,
+      "leitura": "152 é x+2. O exemplo está na coluna recomendada de entrelinha.",
+      "largura_no_pdf_pt": {
+        "Seus projetos ": 978.8,
+        "são nossas  ": 840.3,
+        "batalhas.": 667.8
+      },
+      "largura_campuni_2_000_sem_kerning_pt": {
+        "Seus projetos ": 1012.6,
+        "são nossas  ": 861.6,
+        "batalhas.": 700.2
+      }
+    },
+    "pagina_83": {
+      "amostra_grande": {
+        "fonte": "Figtree-Light",
+        "corpo_pt": 55,
+        "entrelinha_pt": 60
+      },
+      "nomes_de_peso_em_romano": "Regular, Medium, SemiBold, Bold, ExtraBold e Black estão desenhados em Figtree-Light.",
+      "italicos": "Cada itálico usa o itálico do peso nomeado."
+    },
+    "pagina_84": {
+      "titulo": {"fonte": "Campuni-Bold", "corpo_pt": 100, "entrelinha_pt": 102, "escala_rotulada": "1x"},
+      "subtitulo": {"fonte": "Campuni-Bold", "corpo_pt": 50, "entrelinha_pt": 50, "escala_rotulada": "x/2"},
+      "dois_blocos_de_texto": {"fonte_no_arquivo": "Figtree-Light", "corpo_pt": 25, "entrelinha_pt": 30, "rotulos_na_pagina": ["Figtree Bold", "Figtree Regular"], "escala_rotulada": "x/4"}
+    },
+    "pagina_85_campuni": {
+      "corpo_pt": 30,
+      "entrelinhas_pt": [25, 30, 32, 35, 45],
+      "largura_de_Temos_algumas_pt": {
+        "coluna_x-5": 219.0,
+        "coluna_x": 224.4,
+        "coluna_x+2": 219.0,
+        "coluna_x+5": 219.0,
+        "coluna_x+15": 219.0
+      },
+      "leitura": "A entrelinha segue os cinco limites. A entreletra só muda na coluna rotulada -10. As colunas rotuladas 0, 10 e > 25 ficam com a mesma largura da coluna -25."
+    },
+    "pagina_86_figtree": {
+      "corpo_pt": 30,
+      "fonte": "Figtree-Light",
+      "entrelinhas_pt": [25, 30, 32, 35, 45],
+      "entreletra_milésimos": [-25, -10, 0, 10, 25],
+      "largura_de_Temos_algumas_pt": [204.9, 210.3, 213.9, 217.5, 222.9],
+      "passos_de_largura_pt": [5.4, 3.6, 3.6, 5.4],
+      "leitura": "Os passos de 5,4 pt e 3,6 pt são o efeito, a 30 pt, de 15 e de 10 milésimos de em. Os exemplos usam o valor do limite, não um valor além da desigualdade impressa."
+    },
+    "pagina_93": {
+      "titulo": {"fonte": "Campuni-Bold", "corpo_pt": 36.47},
+      "entrelinha_do_titulo_esquerda_pt": 28.7,
+      "entrelinha_do_titulo_direita_pt": 38.4,
+      "texto_corrido": {"fonte": "Figtree-Light", "corpo_pt": 12.48, "entrelinha_esquerda_pt": 18.2, "entrelinha_direita_pt": 14.4},
+      "leitura": "O título da esquerda fica abaixo de x-5. O título da direita fica em cerca de x+2. Os dois textos corridos permanecem aquém de x+15."
+    }
+  },
+  "ainda_ausentes": [
+    {
+      "familia": "Figtree",
+      "paginas_pdf": [83, 84, 86],
+      "observacao": "Nenhum arquivo foi incluído. A anotação da p. 83 aponta para https://fonts.google.com/specimen/Figtree. O texto visível da página diz Frigtree. Disponibilidade e licença não foram verificadas."
+    },
+    {
+      "familia": "Univers LT Std",
+      "nomes_embutidos": ["UniversLTStd-Bold", "UniversLTStd-BoldObl", "UniversLTStd-LightObl"],
+      "observacao": "Nenhum arquivo foi incluído. A regra de uso continua a do guia (logotipo em Univers Extra Bold Italic; descritivos e submarcas nos pesos indicados nas páginas). Estes ciclos não reinterpretaram esses pesos."
+    }
+  ],
+  "pendente_nos_proximos_ciclos": [
+    "Incluir e conferir a Figtree, se os arquivos forem fornecidos.",
+    "Incluir e conferir os pesos Univers aplicáveis ao logotipo e às submarcas."
+  ]
+}

@@ -33,12 +33,14 @@
     "paginas_pdf": [
       82,
       83,
+      120,
       156,
       160,
       199
     ],
-    "necessidade": "Campuni Bold, Figtree e os pesos Univers aplicáveis, conforme a tarefa.",
-    "disponibilidade_no_pacote": "Nenhum arquivo de fonte está incluído. Há link de Figtree; disponibilidade e licença não foram verificadas nesta auditoria.",
+    "necessidade": "Campuni Bold para títulos da marca-mãe. Figtree e os pesos Univers aplicáveis, conforme a tarefa. Regular e Black da Campuni apenas quando a tarefa pedir esses pesos.",
+    "disponibilidade_no_pacote": "Campuni Regular, Bold e Black, versão 2.000, em fontes-tipograficas/campuni/. São os arquivos corrigidos fornecidos; o contorno não é idêntico ao recorte de 2018 embutido no PDF. Figtree e Univers não estão incluídas. A anotação da p. 83 aponta para a Figtree; o arquivo não foi baixado e a licença não foi verificada.",
+    "registro": "dados/fontes-tipograficas.json",
     "imagens_sao_referencias_nao_arquivos_de_producao": true
   },
   {

@@ -21,6 +21,7 @@ Para usar com anexos, comece por `GUIA-PARA-LLMS.md` e `brandbook-consolidado.md
 - `dados/`: paleta, matrizes, gradientes, mapa de páginas e manifesto.
 - `referencias-visuais/`: imagens das 245 páginas.
 - `pdfs-por-capitulo/`: PDFs organizados por assunto.
+- `fontes-tipograficas/`: Campuni versão 2.000. Figtree e Univers não estão incluídas.
 - `original.pdf`: documento original completo.
 - [Links de mídia](links-do-original.md): referências extraídas do PDF.
 

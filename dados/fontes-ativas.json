@@ -39,6 +39,7 @@
     "dados/intervalos-gradientes.json",
     "dados/criterios-de-aplicacao.json",
     "dados/recursos-de-producao.json",
+    "dados/fontes-tipograficas.json",
     "dados/mapa-consulta-paginas.json",
     "dados/medidas-e-contextos.json"
   ],
