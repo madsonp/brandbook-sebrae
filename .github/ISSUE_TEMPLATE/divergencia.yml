@@ -1,0 +1,24 @@
+name: Divergência com o brandbook
+description: O material ou a resposta da IA difere do PDF original.
+title: "[Divergência] "
+labels: [divergencia]
+body:
+  - type: input
+    id: paginas
+    attributes:
+      label: Páginas do PDF
+      placeholder: "Ex.: 89, 166"
+    validations:
+      required: true
+  - type: textarea
+    id: descricao
+    attributes:
+      label: O que está diferente
+      description: Indique o arquivo do repositório ou a resposta da IA e o que o PDF mostra.
+    validations:
+      required: true
+  - type: dropdown
+    id: ferramenta
+    attributes:
+      label: Ferramenta usada
+      options: [Não se aplica, Claude, ChatGPT, Gemini, Copilot, Outra]

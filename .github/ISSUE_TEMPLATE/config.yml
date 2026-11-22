@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Como usar o brandbook com IA
+    url: https://github.com/madsonp/brandbook-sebrae/blob/main/COMO-USAR.md
+    about: Passo a passo para Claude, ChatGPT, Gemini e Copilot.
