@@ -2,8 +2,8 @@
   "edicao": "5.1",
   "arquivos": {
     "brandbook-consolidado.md": {
-      "sha256": "15ff6e5241bf6785684519ba7233b91ae9e76b0efedc93785c560d05db08054a",
-      "bytes": 185099
+      "sha256": "1e668dfb0a3ed26b9a6bc345104a4dfbc14785cc4b09c8096eb1bfd0f50b528d",
+      "bytes": 188003
     },
     "dados/combinacoes-graficas.csv": {
       "sha256": "5206c92f565f6b654c8edeae3d8c3f552010393aff83152fe01bc74a34e329cb",
@@ -34,8 +34,8 @@
       "bytes": 13328
     },
     "dados/fontes-ativas.json": {
-      "sha256": "a2563fd185e45482f9a5ee242312b907a291a0bc3dc11d2ac2ea7c2f30ea1899",
-      "bytes": 1575
+      "sha256": "c2dff47c2b9ceb2f3b99ebd3687694e1c231c2845261ce34896fd192b9da60ad",
+      "bytes": 1614
     },
     "dados/gradientes.json": {
       "sha256": "f07b5a5b9319d25aca42345705cf023c853d5b436c6d02a48587590f19354ebe",
@@ -66,8 +66,8 @@
       "bytes": 6276
     },
     "dados/recursos-de-producao.json": {
-      "sha256": "8734657f4c9cd7997af19ff0433f0211dbbdef3526032772e8aa8070ae456017",
-      "bytes": 2488
+      "sha256": "180e6733dc966d0c6821ff35a4f8d51cac5a87160937c53153dd549884d1459b",
+      "bytes": 2982
     },
     "fonte-pdf/LEIA-ME.md": {
       "sha256": "131c75d3774d446ed452ac4d6e78f6522958f5ab28b508023100d919f63061d8",
@@ -1054,20 +1054,20 @@
       "bytes": 486
     },
     "GUIA-PARA-LLMS.md": {
-      "sha256": "95fc78757182a75745eb0bdb5f9687bce665ea09b657fed16a100bcf43a06ad3",
-      "bytes": 5034
+      "sha256": "baedea7955423353bccf7476e67a63c74c669b17b680349aaca8d4e6ae95abd1",
+      "bytes": 5302
     },
     "indice.md": {
-      "sha256": "4ec4c6aa635e514cbec2493927c8883719aac87f6b73707b8f9286cd7f2e4df9",
-      "bytes": 25513
+      "sha256": "e82064a26bf3f4eff9d03de819441dc9a6f6086df5ef2162a583614faebd0f97",
+      "bytes": 25711
     },
     "LEIA-ME.md": {
-      "sha256": "4209776cc85dfcb6f7a890a35dc64e0056015716860faea137dfc2e208b98d29",
-      "bytes": 1911
+      "sha256": "fc77240420c088dde543625d4a8c349837d9ab6821551c59e072905d27a843a3",
+      "bytes": 2104
     },
     "links-do-original.md": {
-      "sha256": "88dd3ef1239d6aa72ba669bce406581430068342401206cef77c4c82267d4251",
-      "bytes": 1256
+      "sha256": "f864beff0cbc011777c27bae9041a640205afea078663f0b83637506f92bf96a",
+      "bytes": 1370
     },
     "original.pdf": {
       "sha256": "64301c2a36ef06a61c50a0aba31e30af9c43424403bfcbc4eb9ae12cb517c019",
@@ -2098,8 +2098,8 @@
       "bytes": 23466
     },
     "regras/03-expressoes-visuais.md": {
-      "sha256": "884e0089813dd1fa2375d510253cd483e82d8e96931158f9b8faf6602ba97255",
-      "bytes": 35707
+      "sha256": "41fc303a1d0581b0541bd45d0539225889415dcdb2cfbde90912cd84ae634ddd",
+      "bytes": 38241
     },
     "regras/04-expressoes-sonoras.md": {
       "sha256": "d48eb469f23dd96b41c074802c4c7959855dd74a533f809c574232298deb69ca",
@@ -2132,6 +2132,14 @@
     "regras/11-gradientes.md": {
       "sha256": "57c86ff937836a5d8d229b28eada2494cc6ba508eec534eedf0636e01c1a43ad",
       "bytes": 3292
+    },
+    "dados/fontes-tipograficas.json": {
+      "sha256": "3a95a16ee2a78ef4b9f6b9decff8f776c1540d9de825f2c377b9ed33b4267d0b",
+      "bytes": 9041
+    },
+    "fontes-tipograficas/LEIA-ME.md": {
+      "sha256": "2c867a5a133dab4b0727d73c6956f5bdc2fa249192e91554db8a26b5cd883d14",
+      "bytes": 2280
     }
   }
 }

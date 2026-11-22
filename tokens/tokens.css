@@ -21,7 +21,7 @@
   --sebrae-guaco: #61B466; /* Guaco, complementar */
   --sebrae-branco: #FFFFFF; /* Branco, cor_contextual_de_assinatura_e_texto */
 
-  --sebrae-fonte-titulo: 'Campuni', sans-serif; /* Bold, p. 82 */
+  --sebrae-fonte-titulo: 'Campuni', sans-serif; /* Bold, versão 2.000 de referência, p. 82 */
   --sebrae-fonte-texto: 'Figtree', sans-serif; /* Regular e Bold, p. 83 */
   /* Escala da p. 84: título 1x, subtítulo x/2, texto x/4. Defina x conforme a peça. */
 }

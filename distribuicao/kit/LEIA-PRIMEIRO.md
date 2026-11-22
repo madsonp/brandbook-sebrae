@@ -24,7 +24,7 @@ Pronto. A partir daí, peça normalmente, por exemplo: "Revise este post conform
 ## O que este kit não contém
 
 - Imagens das páginas e PDF original. Quando a decisão depender de geometria ou exemplo visual, baixe a página ou o capítulo em https://github.com/madsonp/brandbook-sebrae (pastas `referencias-visuais/` e `pdfs-por-capitulo/`) e envie junto com o pedido.
-- Arquivos oficiais de logos, grids, ícones e fontes. Solicite-os à área de comunicação. Peças feitas sem esses arquivos são rascunhos.
+- Arquivos oficiais de logos, grids, ícones e fontes. Solicite-os à área de comunicação. Para a Campuni, confira se o arquivo recebido é a versão 2.000 de referência, conforme `fontes-tipograficas/LEIA-ME.md`. Peças feitas sem esses arquivos são rascunhos.
 
 ## Orientações provisórias
 

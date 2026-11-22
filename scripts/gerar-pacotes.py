@@ -22,6 +22,7 @@ DADOS = [
     'gradientes.json',
     'intervalos-gradientes.json',
     'medidas-e-contextos.json',
+    'fontes-tipograficas.json',
     'criterios-de-aplicacao.json',
     'recursos-de-producao.json',
     'links-extraidos-do-pdf.json',
@@ -58,6 +59,7 @@ def main():
         (raiz / 'CHECKLIST-DE-VALIDACAO.md', 'CHECKLIST-DE-VALIDACAO.md'),
         (raiz / 'tokens/tokens-de-design.json', 'tokens/tokens-de-design.json'),
         (raiz / 'tokens/tokens.css', 'tokens/tokens.css'),
+        (raiz / 'fontes-tipograficas/LEIA-ME.md', 'fontes-tipograficas/LEIA-ME.md'),
     ] + dados
 
     habilidade = [
@@ -66,6 +68,7 @@ def main():
         (raiz / 'CHECKLIST-DE-VALIDACAO.md', 'referencias/CHECKLIST-DE-VALIDACAO.md'),
         (raiz / 'tokens/tokens-de-design.json', 'referencias/tokens/tokens-de-design.json'),
         (raiz / 'tokens/tokens.css', 'referencias/tokens/tokens.css'),
+        (raiz / 'fontes-tipograficas/LEIA-ME.md', 'referencias/fontes-tipograficas/LEIA-ME.md'),
     ] + [(p, f'referencias/regras/{p.name}') for p in sorted((raiz / 'regras').glob('*.md'))] \
       + [(o, f'referencias/{d}') for o, d in dados]
 

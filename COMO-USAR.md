@@ -55,7 +55,7 @@ Use as variáveis de [`tokens/tokens.css`](tokens/tokens.css) em vez de digitar 
 ## Limites
 
 - É uma adaptação de consulta, não publicação oficial do Sebrae.
-- Não inclui arquivos oficiais de logos, grids, ícones ou fontes. Solicite-os à área de comunicação.
+- Não inclui arquivos oficiais de logos, grids, ícones ou fontes. Solicite-os à área de comunicação. A Campuni de referência é a versão 2.000; confira o arquivo recebido com [fontes-tipograficas](fontes-tipograficas/LEIA-ME.md).
 - Algumas orientações são internas e provisórias, da Unidade de Portfólio e Marketing do Sebrae/BA, e aguardam resposta do Sebrae/NA. A IA deve identificá-las como tal.
 - A IA pode errar. Confira as páginas citadas antes de aprovar uma peça.
 

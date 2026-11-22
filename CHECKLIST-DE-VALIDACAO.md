@@ -11,7 +11,7 @@ Antes de entregar qualquer material com a marca Sebrae, responda sim ou não a c
 
 ## Tipografia
 
-5. [ ] Títulos e subtítulos em Campuni Bold (p. 82) e textos em Figtree (p. 83)? Se alguma fonte foi substituída, isso foi informado?
+5. [ ] Títulos e subtítulos em Campuni Bold versão 2.000, conferida pelo SHA-256 de `fontes-tipograficas/LEIA-ME.md` (p. 82), e textos em Figtree (p. 83)? Se alguma fonte foi substituída, isso foi informado?
 6. [ ] A hierarquia segue a escala título 1x, subtítulo x/2, texto x/4, com espaço entre estilos não menor que a altura do texto seguinte (p. 84)?
 7. [ ] Entreletra, se usada, foi convertida em em, nunca em px (pp. 85 e 86)?
 

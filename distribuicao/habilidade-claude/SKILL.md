@@ -34,7 +34,7 @@ Pacote de consulta do Brandbook Sebrae 2026, organizado para uso por assistentes
 - Cite as páginas do PDF que sustentam cada decisão.
 - Distinga a regra do PDF das orientações internas provisórias de `criterios-de-aplicacao.json`. Essas orientações foram submetidas ao Sebrae/NA e aguardam resposta. Quando o campo `status` for `suspenso_ate_resposta_sebrae_na`, vale a leitura literal do PDF.
 - Não use a matriz de combinações gráficas como substituta da matriz de contraste de texto e fundo. Combinação não mostrada não significa combinação aprovada.
-- Não recrie logotipos com texto digitado nem redesenhe curvas por aproximação. Este pacote não contém arquivos oficiais de logos, grids, ícones ou fontes. Se a peça depender deles, informe exatamente o que falta e trate a entrega como rascunho.
+- Não recrie logotipos com texto digitado nem redesenhe curvas por aproximação. Este pacote não contém arquivos oficiais de logos, grids, ícones ou fontes. A referência oficial da Campuni é a versão 2.000, identificada em `referencias/fontes-tipograficas/LEIA-ME.md`. Se a peça depender deles, informe exatamente o que falta e trate a entrega como rascunho.
 - Antes de entregar, aplique `referencias/CHECKLIST-DE-VALIDACAO.md` e informe os itens não verificados.
 - Não declare conformidade integral com o brandbook sem ter conferido as regras pertinentes de linguagem, tipografia, paleta, contraste, grid, configuração da marca, proporções, área de proteção e reduções.
 

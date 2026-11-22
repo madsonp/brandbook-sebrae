@@ -52,6 +52,8 @@ def main():
         }
 
     gradientes = carregar('gradientes.json')
+    campuni = carregar('fontes-tipograficas.json')
+    bold = next(a for a in campuni['arquivos'] if a['peso'] == 'Bold')
     tokens = {
         'titulo': 'Tokens de design do Brandbook Sebrae 2026',
         'edicao_adaptacao': manifesto['edicao_adaptacao'],
@@ -64,7 +66,10 @@ def main():
         'cores': cores,
         'tipografia': {
             'familias': {
-                'titulos': {'familia': 'Campuni', 'peso': 'Bold', 'paginas_pdf': [82]},
+                'titulos': {'familia': 'Campuni', 'peso': 'Bold', 'versao_de_referencia': campuni['versao'],
+                            'arquivo_esperado': bold['arquivo'].split('/')[-1], 'sha256': bold['sha256'],
+                            'distribuicao': 'Arquivo não distribuído no repositório; ver fontes-tipograficas/LEIA-ME.md.',
+                            'paginas_pdf': [82]},
                 'texto': {'familia': 'Figtree', 'pesos': ['Regular', 'Bold'], 'paginas_pdf': [83],
                           'download': 'https://fonts.google.com/specimen/Figtree'},
                 'nomes_de_submarcas': {'familia': 'Univers', 'observacao': 'Pesos conforme o modelo de arquitetura; ver regras/05-arquitetura-de-marcas.md.', 'paginas_pdf': [156, 160]},
@@ -123,7 +128,7 @@ def main():
         linhas.append(f"  --sebrae-{k}: {c['hex']}; /* {c['nome']}, {c['grupo']} */")
     linhas += [
         '',
-        "  --sebrae-fonte-titulo: 'Campuni', sans-serif; /* Bold, p. 82 */",
+        "  --sebrae-fonte-titulo: 'Campuni', sans-serif; /* Bold, versão 2.000 de referência, p. 82 */",
         "  --sebrae-fonte-texto: 'Figtree', sans-serif; /* Regular e Bold, p. 83 */",
         '  /* Escala da p. 84: título 1x, subtítulo x/2, texto x/4. Defina x conforme a peça. */',
         '}',

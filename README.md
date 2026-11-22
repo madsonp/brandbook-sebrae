@@ -52,10 +52,11 @@ python scripts/gerar-pacotes.py
 | `pdfs-por-capitulo/` | Oito recortes por assunto |
 | `original.pdf` | PDF completo preservado |
 | `tokens/` | Cores, fontes, gradientes e alturas mínimas do logotipo em JSON e CSS, gerados a partir de `dados/` |
+| `fontes-tipograficas/` | Identificação da Campuni versão 2.000, referência oficial de uso (arquivos de fonte não distribuídos) |
 | `distribuicao/` | Fontes do kit para IA e da habilidade do Claude |
 | `scripts/` | Verificação de integridade e geração dos pacotes |
 
-Não há arquivos oficiais avulsos de logos, grids, ícones ou fontes. As condições de produção estão em [recursos de produção](dados/recursos-de-producao.json).
+Não há arquivos oficiais avulsos de logos, grids, ícones ou fontes. A referência oficial da fonte de títulos é a Campuni versão 2.000, identificada em [fontes tipográficas](fontes-tipograficas/LEIA-ME.md) para conferência do arquivo recebido. As condições de produção estão em [recursos de produção](dados/recursos-de-producao.json).
 
 ## Orientações provisórias
 

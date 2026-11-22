@@ -17,6 +17,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Impedir arquivos de fonte no repositório
+        run: |
+          if git ls-files | grep -i -E '\.(otf|ttf|woff2?)$'; then
+            echo "Arquivos de fonte não devem ser publicados; ver fontes-tipograficas/LEIA-ME.md" && exit 1
+          fi
       - name: Verificar integridade e links
         run: python scripts/verificar.py
       - name: Conferir tokens com os dados

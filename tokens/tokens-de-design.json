@@ -338,6 +338,10 @@
       "titulos": {
         "familia": "Campuni",
         "peso": "Bold",
+        "versao_de_referencia": "2.000",
+        "arquivo_esperado": "Campuni-Bold.otf",
+        "sha256": "b8773cca2d43ab78db4478a85165ae364077a8c9f788e08973054afc8f742820",
+        "distribuicao": "Arquivo não distribuído no repositório; ver fontes-tipograficas/LEIA-ME.md.",
         "paginas_pdf": [
           82
         ]
