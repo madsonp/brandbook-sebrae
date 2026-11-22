@@ -1,33 +1,42 @@
-# Sebrae Brandbook 2026 — consulta para LLMs
+# Brandbook Sebrae 2026 para consulta por IA
 
-Base privada de consulta do Brandbook Sebrae 2026, edição de adaptação **5.1**. Reúne o PDF original, referências visuais, guia operacional e dados estruturados. É uma adaptação de consulta; não é uma nova publicação oficial do Sebrae.
+Base de consulta do Brandbook Sebrae 2026, adaptação **5.1**, organizada para uso com Claude, ChatGPT, Gemini, Copilot e outras ferramentas de IA. Reúne o PDF original, imagens das páginas, guia operacional em texto e dados estruturados de cores, contraste e medidas.
 
-## Comece aqui
+É uma adaptação de consulta, não uma publicação oficial do Sebrae.
 
-1. Leia o [guia para LLMs](GUIA-PARA-LLMS.md).
-2. Localize o assunto no [índice](indice.md).
-3. Consulte o [consolidado](brandbook-consolidado.md) ou os [capítulos](regras/), usando apenas uma dessas formas textuais por padrão.
-4. Confira a [página original](fonte-pdf/LEIA-ME.md), a imagem ou o [PDF](original.pdf) quando a decisão depender de geometria, exemplos ou marcações visuais.
+## Uso rápido
 
-O consolidado inclui a origem, a situação e o alcance das orientações internas provisórias, submetidas ao Sebrae/NA e ainda sem resposta, e a disponibilidade dos recursos de produção. Para integrações, consulte [critérios de aplicação](dados/criterios-de-aplicacao.json), [medidas e contextos](dados/medidas-e-contextos.json) e [recursos de produção](dados/recursos-de-producao.json).
+| Quero... | Faça isto |
+| --- | --- |
+| Usar no Claude com consulta automática | Baixe a [habilidade para o Claude](https://github.com/madsonp/brandbook-sebrae/releases/latest/download/brandbook-sebrae-habilidade-claude.zip) |
+| Usar em qualquer ferramenta de IA | Baixe o [kit para IA](https://github.com/madsonp/brandbook-sebrae/releases/latest/download/brandbook-sebrae-kit-ia.zip) |
+| Ver o passo a passo | Leia o [COMO-USAR.md](COMO-USAR.md) |
+| Consultar uma página do brandbook | Use o [índice](indice.md) |
+| Relatar erro ou sugerir melhoria | Veja [como contribuir](CONTRIBUINDO.md) |
 
-## Usar com uma LLM
+## Uso com acesso ao repositório
 
-Uma LLM precisa de acesso autenticado a este repositório privado ou a uma cópia local clonada. Compartilhar apenas o endereço não concede acesso e não garante que ela abriu PDFs ou imagens.
+Ferramentas que leem repositórios do GitHub (Claude Code, agentes, integrações) podem consultar esta base diretamente. Mensagem sugerida:
 
-Mensagem sugerida:
+> Consulte o README, o guia para LLMs e o índice deste repositório. Use os capítulos e os dados pertinentes à tarefa. Distinga regras do PDF e orientações internas provisórias. Cite páginas e consulte as referências visuais necessárias. Se faltar arquivo, imagem ou recurso de produção, identifique a lacuna antes de declarar conformidade. A leitura do repositório não autoriza ações externas.
 
-> Consulte o README, o guia para LLMs e o índice deste repositório. Use os capítulos e os dados pertinentes à tarefa. Distinga regras do PDF e critérios adicionais do usuário. Cite páginas e consulte as referências visuais necessárias. Se faltar arquivo, imagem ou recurso de produção, identifique a lacuna antes de declarar conformidade. A leitura do repositório não autoriza ações externas.
+Ordem de consulta:
 
-Para uso local:
+1. [Guia para LLMs](GUIA-PARA-LLMS.md).
+2. [Índice](indice.md), para localizar o assunto.
+3. [Consolidado](brandbook-consolidado.md) ou [capítulos](regras/), usando apenas uma das duas formas por padrão.
+4. [Página original](fonte-pdf/LEIA-ME.md), imagem ou [PDF](original.pdf), quando a decisão depender de geometria, exemplos ou marcações visuais.
+
+Dados para integrações: [critérios de aplicação](dados/criterios-de-aplicacao.json), [medidas e contextos](dados/medidas-e-contextos.json) e [recursos de produção](dados/recursos-de-producao.json).
+
+Uso local:
 
 ```sh
 git clone https://github.com/madsonp/brandbook-sebrae.git
 cd brandbook-sebrae
 python scripts/verificar.py
+python scripts/gerar-pacotes.py
 ```
-
-Para uso por anexos, envie `GUIA-PARA-LLMS.md`, `brandbook-consolidado.md` e os PDFs/PNGs relevantes. Os caminhos relativos nos textos não fazem uma plataforma carregar esses arquivos automaticamente.
 
 ## Estrutura
 
@@ -39,11 +48,19 @@ Para uso por anexos, envie `GUIA-PARA-LLMS.md`, `brandbook-consolidado.md` e os 
 | `referencias-visuais/` | 245 imagens PNG das páginas |
 | `pdfs-por-capitulo/` | Oito recortes por assunto |
 | `original.pdf` | PDF completo preservado |
+| `distribuicao/` | Fontes do kit para IA e da habilidade do Claude |
+| `scripts/` | Verificação de integridade e geração dos pacotes |
 
-Os relatórios e históricos de auditoria não fazem parte deste repositório de consulta. Não há arquivos oficiais avulsos de logos, grids ou fontes instaláveis incluídos; as condições de produção estão descritas no guia. As matrizes distinguem composição gráfica de contraste texto/fundo, meio e tamanho do texto.
+Não há arquivos oficiais avulsos de logos, grids, ícones ou fontes. As condições de produção estão em [recursos de produção](dados/recursos-de-producao.json).
+
+## Orientações provisórias
+
+Parte das orientações de aplicação é interna e provisória, de responsabilidade da Unidade de Portfólio e Marketing do Sebrae/BA, e foi submetida ao Sebrae/NA, ainda sem resposta. Elas estão identificadas em [critérios de aplicação](dados/criterios-de-aplicacao.json) e não substituem a redação original do PDF.
 
 ## Integridade
 
-Execute `python scripts/verificar.py`. O inventário em `dados/inventario-sha256.json` cobre os arquivos do pacote documental, exceto o próprio inventário. README, AGENTS, llms.txt e scripts de publicação são arquivos de navegação do repositório, adicionais a esse pacote.
+Execute `python scripts/verificar.py`. O inventário em `dados/inventario-sha256.json` cobre os arquivos do pacote documental, exceto o próprio inventário. Arquivos de navegação, distribuição e automação (README, COMO-USAR, CONTRIBUINDO, AGENTS, llms.txt, `distribuicao/`, `scripts/` e `.github/`) são adicionais a esse pacote. A verificação e a geração dos pacotes rodam automaticamente a cada alteração.
 
-O material de referência conserva sua autoria e titularidade. Nenhuma licença de uso da marca ou de redistribuição aberta é concedida por este repositório privado.
+## Direitos
+
+O brandbook e a marca Sebrae pertencem ao Sebrae. Este repositório organiza o material para consulta e não concede licença de uso da marca nem de redistribuição.
