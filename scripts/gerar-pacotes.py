@@ -55,11 +55,17 @@ def main():
         (raiz / 'distribuicao/kit/INSTRUCOES-PARA-O-ASSISTENTE.txt', 'INSTRUCOES-PARA-O-ASSISTENTE.txt'),
         (raiz / 'GUIA-PARA-LLMS.md', 'GUIA-PARA-LLMS.md'),
         (raiz / 'brandbook-consolidado.md', 'brandbook-consolidado.md'),
+        (raiz / 'CHECKLIST-DE-VALIDACAO.md', 'CHECKLIST-DE-VALIDACAO.md'),
+        (raiz / 'tokens/tokens-de-design.json', 'tokens/tokens-de-design.json'),
+        (raiz / 'tokens/tokens.css', 'tokens/tokens.css'),
     ] + dados
 
     habilidade = [
         (raiz / 'distribuicao/habilidade-claude/SKILL.md', 'SKILL.md'),
         (raiz / 'GUIA-PARA-LLMS.md', 'referencias/GUIA-PARA-LLMS.md'),
+        (raiz / 'CHECKLIST-DE-VALIDACAO.md', 'referencias/CHECKLIST-DE-VALIDACAO.md'),
+        (raiz / 'tokens/tokens-de-design.json', 'referencias/tokens/tokens-de-design.json'),
+        (raiz / 'tokens/tokens.css', 'referencias/tokens/tokens.css'),
     ] + [(p, f'referencias/regras/{p.name}') for p in sorted((raiz / 'regras').glob('*.md'))] \
       + [(o, f'referencias/{d}') for o, d in dados]
 

@@ -27,7 +27,7 @@ Se a sua conta não mostrar a área de habilidades, use a opção 2.
    - **ChatGPT**: Projetos ou um GPT personalizado.
    - **Gemini**: um Gem personalizado.
    - **Copilot**: um agente ou bloco de anotações com arquivos de referência.
-3. Envie como conhecimento do projeto `GUIA-PARA-LLMS.md` e `brandbook-consolidado.md`. Para valores exatos de cores e contraste, envie também os arquivos da pasta `dados/`.
+3. Envie como conhecimento do projeto `GUIA-PARA-LLMS.md` e `brandbook-consolidado.md`. Envie também `CHECKLIST-DE-VALIDACAO.md` e `tokens/tokens-de-design.json`. Para valores detalhados de contraste e combinações, inclua os arquivos da pasta `dados/`.
 4. Copie o conteúdo de `INSTRUCOES-PARA-O-ASSISTENTE.txt` para o campo de instruções do projeto.
 
 Compartilhe o projeto com a equipe, se a ferramenta permitir, para que todos usem a mesma base.
@@ -39,6 +39,10 @@ Para uma dúvida isolada, anexe na conversa o `brandbook-consolidado.md` e cole 
 ## Quando a decisão depende de imagem
 
 Logotipo, grid, proporções e exemplos visuais exigem a imagem da página. Localize a página no [índice](indice.md), baixe o arquivo correspondente em [`referencias-visuais/`](referencias-visuais/) ou o capítulo em [`pdfs-por-capitulo/`](pdfs-por-capitulo/) e anexe junto com o pedido. Um link no texto não faz a IA abrir a imagem.
+
+## Para quem gera código (páginas, e-mails, apresentações em HTML)
+
+Use as variáveis de [`tokens/tokens.css`](tokens/tokens.css) em vez de digitar códigos de cor. Exemplo de pedido: "Use as variáveis de tokens.css e confira a peça com o CHECKLIST-DE-VALIDACAO.md antes de entregar."
 
 ## Exemplos de pedidos
 

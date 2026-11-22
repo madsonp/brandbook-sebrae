@@ -9,12 +9,14 @@ Este kit reúne o essencial, em texto, para usar o Brandbook Sebrae 2026 com ass
 | `GUIA-PARA-LLMS.md` | Condições de uso e pontos de atenção. Sempre inclua. |
 | `brandbook-consolidado.md` | Todo o brandbook em um único arquivo de texto, com as páginas do PDF citadas. |
 | `INSTRUCOES-PARA-O-ASSISTENTE.txt` | Texto pronto para colar no campo de instruções do projeto ou do assistente. |
+| `CHECKLIST-DE-VALIDACAO.md` | Perguntas de sim ou não para conferir a peça antes da entrega. |
+| `tokens/` | Cores, fontes, gradientes e alturas mínimas do logotipo em JSON e CSS, prontos para uso em código. |
 | `dados/` | Paleta de cores, contraste de texto e fundo, gradientes, medidas, orientações provisórias e recursos de produção. |
 
 ## Como usar em três passos
 
 1. Crie um projeto (ou assistente personalizado) na ferramenta de IA que você usa.
-2. Envie como conhecimento do projeto os arquivos `GUIA-PARA-LLMS.md`, `brandbook-consolidado.md` e, se quiser valores exatos, os arquivos de `dados/`.
+2. Envie como conhecimento do projeto os arquivos `GUIA-PARA-LLMS.md`, `brandbook-consolidado.md` `CHECKLIST-DE-VALIDACAO.md` e `tokens/tokens-de-design.json`. Para valores detalhados de contraste e combinações, envie também os arquivos de `dados/`.
 3. Cole o conteúdo de `INSTRUCOES-PARA-O-ASSISTENTE.txt` no campo de instruções do projeto.
 
 Pronto. A partir daí, peça normalmente, por exemplo: "Revise este post conforme o tom de voz do Sebrae" ou "Quais cores posso usar para texto pequeno sobre fundo Atlântico no digital?".

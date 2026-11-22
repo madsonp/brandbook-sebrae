@@ -26,7 +26,7 @@ Pacote de consulta do Brandbook Sebrae 2026, organizado para uso por assistentes
 | Combinações gráficas RGB/CMYK | `10-combinacoes-graficas.md` | 69 a 75 |
 | Gradientes | `11-gradientes.md` | 76 a 80 |
 
-3. Para valores exatos, use os dados em `referencias/dados/` (cores, contraste, gradientes, medidas, critérios e recursos de produção).
+3. Para cores, fontes, gradientes e alturas mínimas do logotipo, use `referencias/tokens/tokens-de-design.json` (ou `tokens.css` em código). Para demais valores exatos, use os dados em `referencias/dados/` (cores, contraste, gradientes, medidas, critérios e recursos de produção).
 4. Antes de decidir algo que dependa de exceção ou conflito, leia `referencias/dados/criterios-de-aplicacao.json`.
 
 ## Regras de resposta
@@ -35,6 +35,7 @@ Pacote de consulta do Brandbook Sebrae 2026, organizado para uso por assistentes
 - Distinga a regra do PDF das orientações internas provisórias de `criterios-de-aplicacao.json`. Essas orientações foram submetidas ao Sebrae/NA e aguardam resposta. Quando o campo `status` for `suspenso_ate_resposta_sebrae_na`, vale a leitura literal do PDF.
 - Não use a matriz de combinações gráficas como substituta da matriz de contraste de texto e fundo. Combinação não mostrada não significa combinação aprovada.
 - Não recrie logotipos com texto digitado nem redesenhe curvas por aproximação. Este pacote não contém arquivos oficiais de logos, grids, ícones ou fontes. Se a peça depender deles, informe exatamente o que falta e trate a entrega como rascunho.
+- Antes de entregar, aplique `referencias/CHECKLIST-DE-VALIDACAO.md` e informe os itens não verificados.
 - Não declare conformidade integral com o brandbook sem ter conferido as regras pertinentes de linguagem, tipografia, paleta, contraste, grid, configuração da marca, proporções, área de proteção e reduções.
 
 ## Imagens das páginas
