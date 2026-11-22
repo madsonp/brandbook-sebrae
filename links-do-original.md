@@ -2,6 +2,8 @@
 
 Destinos extraídos das anotações do PDF. A disponibilidade atual não foi testada e os arquivos de mídia não foram baixados. Os endereços foram preservados como estão no original, inclusive o protocolo HTTP quando informado.
 
+Na p. 83, o texto visível do link diz “Frigtree”. A anotação aponta para o endereço Figtree da tabela.
+
 | Referência | Página original | Endereço na fonte |
 | --- | --- | --- |
 | Figtree | 83 | [Abrir destino](https://fonts.google.com/specimen/Figtree) |

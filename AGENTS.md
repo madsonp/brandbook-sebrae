@@ -8,3 +8,4 @@
 - Mantenha original.pdf e referencias-visuais/ preservados. Alterações documentais devem manter coerência entre consolidado, módulos e dados. Atualize o inventário documental se alterar arquivos cobertos por ele.
 - Verifique a integridade com python scripts/verificar.py.
 - Os pacotes de distribuição são gerados por python scripts/gerar-pacotes.py a partir de distribuicao/. Ao alterar o guia, o consolidado, os capítulos ou os dados, confira se SKILL.md e o kit continuam coerentes.
+- tokens/ é gerado por python scripts/gerar-tokens.py a partir de dados/. Não edite à mão. Use CHECKLIST-DE-VALIDACAO.md antes de concluir uma peça.

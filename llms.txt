@@ -2,12 +2,25 @@
 
 > Base de consulta em português do Brandbook Sebrae 2026, adaptação 5.1. Repositório público; original preservado. Adaptação de consulta, não publicação oficial do Sebrae.
 
+## Regras essenciais (do PDF, com páginas)
+- Cores: use somente os códigos de tokens/tokens-de-design.json (pp. 67 e 68). Não derive nem aproxime códigos.
+- Texto sobre fundo: aprove o par em dados/contraste-texto-fundo.json, por meio e tamanho (pp. 89 a 92). A matriz de combinações gráficas não serve para texto. Combinação não mostrada não é combinação aprovada.
+- Tipografia: títulos em Campuni Bold, versão 2.000 de referência (p. 82; fontes-tipograficas/LEIA-ME.md); textos em Figtree (p. 83); escala 1x, x/2, x/4 (p. 84). Fonte alternativa não é definida no PDF; declare qualquer substituição.
+- Logotipo: nunca recriar com texto digitado, mudar cor (salvo versões preta e branca da p. 201), distorcer, rotacionar, eliminar ou modificar elementos (p. 222). Área de proteção: altura da letra S (p. 202). Alturas mínimas na p. 203.
+- Gradiente: só digital, duas cores, 50% de cada, 45° (p. 76), com pares das pp. 77 e 79.
+- Fotografia institucional: sem efeitos, intervenções gráficas, iluminação ou poses forçadas, nem preto e branco (p. 104).
+- Linguagem: próxima, positiva, específica; o cliente é protagonista; no máximo um ponto de exclamação seguido (p. 33).
+- Sem arquivo oficial de logotipo, grid, ícone ou fonte, a entrega é rascunho. Nomeie o recurso ausente.
+- Antes de entregar, aplique o CHECKLIST-DE-VALIDACAO.md.
+
 ## Entrada
 - [README](README.md)
 - [Guia para LLMs](GUIA-PARA-LLMS.md)
 - [Índice](indice.md)
 - [Consolidado](brandbook-consolidado.md)
 - [Como usar](COMO-USAR.md)
+- [Tokens de design](tokens/tokens-de-design.json)
+- [Checklist de validação](CHECKLIST-DE-VALIDACAO.md)
 
 ## Evidência
 - [Fonte por página](fonte-pdf/LEIA-ME.md)
@@ -15,6 +28,8 @@
 - [Orientações provisórias, pendentes do Sebrae/NA](dados/criterios-de-aplicacao.json)
 - [Medidas e contextos](dados/medidas-e-contextos.json)
 - [Recursos de produção](dados/recursos-de-producao.json)
+- [Campuni versão 2.000, referência oficial de uso](fontes-tipograficas/LEIA-ME.md)
+- [Medidas tipográficas](dados/fontes-tipograficas.json)
 
 ## Uso
 Escolha consolidado ou capítulos relevantes. Cite páginas e carregue as imagens/PDFs necessários. Não confunda matriz gráfica com texto/fundo nem orientação provisória com redação original. Não prometa conformidade visual sem recursos e verificação. Este arquivo é um ponto de navegação, não altera as regras do brandbook.

@@ -8,3 +8,8 @@ __pycache__/
 Thumbs.db
 *.tmp
 dist/
+# Arquivos de fonte não são distribuídos (ver fontes-tipograficas/LEIA-ME.md)
+*.otf
+*.ttf
+*.woff
+*.woff2

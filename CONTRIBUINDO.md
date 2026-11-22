@@ -15,7 +15,8 @@ Informe sempre a página do PDF envolvida.
 2. Preserve `original.pdf` e `referencias-visuais/`.
 3. Mantenha coerentes o consolidado, os capítulos em `regras/` e os dados em `dados/`.
 4. Se alterar arquivo coberto por `dados/inventario-sha256.json`, atualize o inventário.
-5. Execute `python scripts/verificar.py` e `python scripts/gerar-pacotes.py`.
+5. Se alterar dados de cores, gradientes ou tipografia, execute `python scripts/gerar-tokens.py`. Não edite `tokens/` à mão.
+6. Execute `python scripts/verificar.py` e `python scripts/gerar-pacotes.py`.
 
 A verificação roda automaticamente em cada proposta.
 

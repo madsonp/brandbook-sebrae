@@ -11,6 +11,8 @@ Base de consulta do Brandbook Sebrae 2026, adaptação **5.1**, organizada para 
 | Usar no Claude com consulta automática | Baixe a [habilidade para o Claude](https://github.com/madsonp/brandbook-sebrae/releases/latest/download/brandbook-sebrae-habilidade-claude.zip) |
 | Usar em qualquer ferramenta de IA | Baixe o [kit para IA](https://github.com/madsonp/brandbook-sebrae/releases/latest/download/brandbook-sebrae-kit-ia.zip) |
 | Ver o passo a passo | Leia o [COMO-USAR.md](COMO-USAR.md) |
+| Usar cores e fontes em código | Use os [tokens de design](tokens/) |
+| Conferir uma peça antes de entregar | Use o [checklist de validação](CHECKLIST-DE-VALIDACAO.md) |
 | Consultar uma página do brandbook | Use o [índice](indice.md) |
 | Relatar erro ou sugerir melhoria | Veja [como contribuir](CONTRIBUINDO.md) |
 
@@ -35,6 +37,7 @@ Uso local:
 git clone https://github.com/madsonp/brandbook-sebrae.git
 cd brandbook-sebrae
 python scripts/verificar.py
+python scripts/gerar-tokens.py
 python scripts/gerar-pacotes.py
 ```
 
@@ -48,10 +51,12 @@ python scripts/gerar-pacotes.py
 | `referencias-visuais/` | 245 imagens PNG das páginas |
 | `pdfs-por-capitulo/` | Oito recortes por assunto |
 | `original.pdf` | PDF completo preservado |
+| `tokens/` | Cores, fontes, gradientes e alturas mínimas do logotipo em JSON e CSS, gerados a partir de `dados/` |
+| `fontes-tipograficas/` | Identificação da Campuni versão 2.000, referência oficial de uso (arquivos de fonte não distribuídos) |
 | `distribuicao/` | Fontes do kit para IA e da habilidade do Claude |
 | `scripts/` | Verificação de integridade e geração dos pacotes |
 
-Não há arquivos oficiais avulsos de logos, grids, ícones ou fontes. As condições de produção estão em [recursos de produção](dados/recursos-de-producao.json).
+Não há arquivos oficiais avulsos de logos, grids, ícones ou fontes. A referência oficial da fonte de títulos é a Campuni versão 2.000, identificada em [fontes tipográficas](fontes-tipograficas/LEIA-ME.md) para conferência do arquivo recebido. As condições de produção estão em [recursos de produção](dados/recursos-de-producao.json).
 
 ## Orientações provisórias
 
@@ -59,7 +64,7 @@ Parte das orientações de aplicação é interna e provisória, de responsabili
 
 ## Integridade
 
-Execute `python scripts/verificar.py`. O inventário em `dados/inventario-sha256.json` cobre os arquivos do pacote documental, exceto o próprio inventário. Arquivos de navegação, distribuição e automação (README, COMO-USAR, CONTRIBUINDO, AGENTS, llms.txt, `distribuicao/`, `scripts/` e `.github/`) são adicionais a esse pacote. A verificação e a geração dos pacotes rodam automaticamente a cada alteração.
+Execute `python scripts/verificar.py`. O inventário em `dados/inventario-sha256.json` cobre os arquivos do pacote documental, exceto o próprio inventário. Arquivos de navegação, distribuição e automação (README, COMO-USAR, CONTRIBUINDO, CHECKLIST-DE-VALIDACAO, AGENTS, llms.txt, `tokens/`, `distribuicao/`, `scripts/` e `.github/`) são adicionais a esse pacote. A verificação e a geração dos pacotes rodam automaticamente a cada alteração.
 
 ## Direitos
 

@@ -1,0 +1,682 @@
+{
+  "titulo": "Tokens de design do Brandbook Sebrae 2026",
+  "edicao_adaptacao": "5.1",
+  "origem": "Gerado por scripts/gerar-tokens.py a partir de dados/. Não editar à mão.",
+  "limites": [
+    "Use somente os códigos desta tabela; não derive novos códigos das cores exibidas no PDF (pp. 67 e 68).",
+    "Combinação de cores não mostrada no PDF não significa combinação aprovada. Para texto sobre fundo, consulte dados/contraste-texto-fundo.json; para composição gráfica, dados/combinacoes-graficas.json.",
+    "Os tokens não substituem os arquivos oficiais de logotipo, grid, ícones e fontes, que não estão no repositório."
+  ],
+  "cores": {
+    "preto": {
+      "nome": "Preto",
+      "grupo": "principal",
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "cmyk": [
+        0,
+        0,
+        0,
+        100
+      ],
+      "pantone": "Process Black C",
+      "pagina_pdf": 67
+    },
+    "atlantico": {
+      "nome": "Atlântico",
+      "grupo": "principal",
+      "hex": "#0B2574",
+      "rgb": [
+        11,
+        37,
+        116
+      ],
+      "cmyk": [
+        100,
+        92,
+        0,
+        26
+      ],
+      "pantone": "2756 C",
+      "pagina_pdf": 67
+    },
+    "ceu": {
+      "nome": "Céu",
+      "grupo": "principal",
+      "hex": "#65B7FB",
+      "rgb": [
+        101,
+        183,
+        251
+      ],
+      "cmyk": [
+        43,
+        3,
+        0,
+        0
+      ],
+      "pantone": "2905 C",
+      "pagina_pdf": 67
+    },
+    "azul": {
+      "nome": "Azul",
+      "grupo": "principal",
+      "hex": "#2A4FDA",
+      "rgb": [
+        42,
+        79,
+        218
+      ],
+      "cmyk": [
+        100,
+        63,
+        0,
+        2
+      ],
+      "pantone": "2935 C",
+      "pagina_pdf": 67
+    },
+    "offwhite": {
+      "nome": "Offwhite",
+      "grupo": "principal",
+      "hex": "#EFF3EE",
+      "rgb": [
+        239,
+        243,
+        238
+      ],
+      "cmyk": [
+        10,
+        7,
+        5,
+        0
+      ],
+      "pantone": "Cool Gray 1 C",
+      "pagina_pdf": 67
+    },
+    "begonia": {
+      "nome": "Begônia",
+      "grupo": "complementar",
+      "hex": "#FF80C8",
+      "rgb": [
+        255,
+        128,
+        200
+      ],
+      "cmyk": [
+        0,
+        60,
+        0,
+        0
+      ],
+      "pantone": "211 C",
+      "pagina_pdf": 68
+    },
+    "canario": {
+      "nome": "Canário",
+      "grupo": "complementar",
+      "hex": "#FBEC76",
+      "rgb": [
+        251,
+        236,
+        118
+      ],
+      "cmyk": [
+        1,
+        0,
+        70,
+        0
+      ],
+      "pantone": "100 C",
+      "pagina_pdf": 68
+    },
+    "manaca": {
+      "nome": "Manacá",
+      "grupo": "complementar",
+      "hex": "#BE64E3",
+      "rgb": [
+        190,
+        100,
+        227
+      ],
+      "cmyk": [
+        20,
+        60,
+        0,
+        0
+      ],
+      "pantone": "252 C",
+      "pagina_pdf": 68
+    },
+    "umbu": {
+      "nome": "Umbu",
+      "grupo": "complementar",
+      "hex": "#E7F79E",
+      "rgb": [
+        231,
+        247,
+        158
+      ],
+      "cmyk": [
+        13,
+        0,
+        48,
+        0
+      ],
+      "pantone": "2281 C",
+      "pagina_pdf": 68
+    },
+    "jacaranda": {
+      "nome": "Jacarandá",
+      "grupo": "complementar",
+      "hex": "#8F85F4",
+      "rgb": [
+        143,
+        133,
+        244
+      ],
+      "cmyk": [
+        65,
+        73,
+        0,
+        0
+      ],
+      "pantone": "2665 C",
+      "pagina_pdf": 68
+    },
+    "pera": {
+      "nome": "Pera",
+      "grupo": "complementar",
+      "hex": "#CADF61",
+      "rgb": [
+        202,
+        223,
+        97
+      ],
+      "cmyk": [
+        17,
+        0,
+        75,
+        0
+      ],
+      "pantone": "584 C",
+      "pagina_pdf": 68
+    },
+    "tie": {
+      "nome": "Tiê",
+      "grupo": "complementar",
+      "hex": "#E0565D",
+      "rgb": [
+        224,
+        86,
+        93
+      ],
+      "cmyk": [
+        0,
+        82,
+        51,
+        0
+      ],
+      "pantone": "1785 C",
+      "pagina_pdf": 68
+    },
+    "menta": {
+      "nome": "Menta",
+      "grupo": "complementar",
+      "hex": "#9FF0BD",
+      "rgb": [
+        159,
+        240,
+        189
+      ],
+      "cmyk": [
+        42,
+        0,
+        44,
+        0
+      ],
+      "pantone": "353 C",
+      "pagina_pdf": 68
+    },
+    "acerola": {
+      "nome": "Acerola",
+      "grupo": "complementar",
+      "hex": "#F39D72",
+      "rgb": [
+        243,
+        157,
+        114
+      ],
+      "cmyk": [
+        0,
+        36,
+        66,
+        0
+      ],
+      "pantone": "714 C",
+      "pagina_pdf": 68
+    },
+    "taiti": {
+      "nome": "Taiti",
+      "grupo": "complementar",
+      "hex": "#90D275",
+      "rgb": [
+        144,
+        210,
+        117
+      ],
+      "cmyk": [
+        44,
+        0,
+        86,
+        0
+      ],
+      "pantone": "2285 C",
+      "pagina_pdf": 68
+    },
+    "ipe": {
+      "nome": "Ipê",
+      "grupo": "complementar",
+      "hex": "#F2AFAB",
+      "rgb": [
+        242,
+        175,
+        171
+      ],
+      "cmyk": [
+        0,
+        34,
+        21,
+        0
+      ],
+      "pantone": "169 C",
+      "pagina_pdf": 68
+    },
+    "guaco": {
+      "nome": "Guaco",
+      "grupo": "complementar",
+      "hex": "#61B466",
+      "rgb": [
+        97,
+        180,
+        102
+      ],
+      "cmyk": [
+        73,
+        0,
+        100,
+        0
+      ],
+      "pantone": "3529 C",
+      "pagina_pdf": 68
+    },
+    "branco": {
+      "nome": "Branco",
+      "grupo": "cor_contextual_de_assinatura_e_texto",
+      "hex": "#FFFFFF",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "cmyk": null,
+      "pantone": null,
+      "paginas_pdf": [
+        89,
+        90,
+        201
+      ],
+      "observacao": "cor branca das amostras digitais do PDF; não é uma nova entrada Pantone"
+    }
+  },
+  "tipografia": {
+    "familias": {
+      "titulos": {
+        "familia": "Campuni",
+        "peso": "Bold",
+        "versao_de_referencia": "2.000",
+        "arquivo_esperado": "Campuni-Bold.otf",
+        "sha256": "b8773cca2d43ab78db4478a85165ae364077a8c9f788e08973054afc8f742820",
+        "distribuicao": "Arquivo não distribuído no repositório; ver fontes-tipograficas/LEIA-ME.md.",
+        "paginas_pdf": [
+          82
+        ]
+      },
+      "texto": {
+        "familia": "Figtree",
+        "pesos": [
+          "Regular",
+          "Bold"
+        ],
+        "paginas_pdf": [
+          83
+        ],
+        "download": "https://fonts.google.com/specimen/Figtree"
+      },
+      "nomes_de_submarcas": {
+        "familia": "Univers",
+        "observacao": "Pesos conforme o modelo de arquitetura; ver regras/05-arquitetura-de-marcas.md.",
+        "paginas_pdf": [
+          156,
+          160
+        ]
+      }
+    },
+    "fonte_alternativa": "Não definida no PDF. Se a fonte oficial não estiver disponível, declare a substituição e trate a peça como rascunho.",
+    "hierarquia": {
+      "escala": [
+        {
+          "estilo": "titulo",
+          "familia": "Campuni Bold",
+          "tamanho": "1x"
+        },
+        {
+          "estilo": "subtitulo",
+          "familia": "Campuni Bold",
+          "tamanho": "x/2"
+        },
+        {
+          "estilo": "texto_destaque",
+          "familia": "Figtree Bold",
+          "tamanho": "x/4"
+        },
+        {
+          "estilo": "texto",
+          "familia": "Figtree Regular",
+          "tamanho": "x/4"
+        }
+      ],
+      "espaco_entre_estilos": "Nunca menor que a altura do texto que vem a seguir.",
+      "pagina_pdf": 84
+    },
+    "entreletra": "Valores em milésimos de em (convenção provável, pendente do Sebrae/NA): -10 equivale a letter-spacing: -0.01em; nunca em px. Ver pp. 85 e 86."
+  },
+  "gradientes": {
+    "regra": {
+      "meio": "digital",
+      "cores": 2,
+      "proporcao": "50% de cada cor",
+      "angulo_graus": 45,
+      "pagina_pdf": 76
+    },
+    "pares_mostrados": [
+      {
+        "grupo": "escuro",
+        "cores": [
+          "Atlântico",
+          "Tiê"
+        ],
+        "pagina_pdf": 77
+      },
+      {
+        "grupo": "escuro",
+        "cores": [
+          "Atlântico",
+          "Ipê"
+        ],
+        "pagina_pdf": 77
+      },
+      {
+        "grupo": "escuro",
+        "cores": [
+          "Atlântico",
+          "Céu"
+        ],
+        "pagina_pdf": 77
+      },
+      {
+        "grupo": "escuro",
+        "cores": [
+          "Atlântico",
+          "Jacarandá"
+        ],
+        "pagina_pdf": 77
+      },
+      {
+        "grupo": "escuro",
+        "cores": [
+          "Atlântico",
+          "Taiti"
+        ],
+        "pagina_pdf": 77
+      },
+      {
+        "grupo": "escuro",
+        "cores": [
+          "Atlântico",
+          "Manacá"
+        ],
+        "pagina_pdf": 77
+      },
+      {
+        "grupo": "escuro",
+        "cores": [
+          "Azul",
+          "Céu"
+        ],
+        "pagina_pdf": 77
+      },
+      {
+        "grupo": "escuro",
+        "cores": [
+          "Azul",
+          "Tiê"
+        ],
+        "pagina_pdf": 77
+      },
+      {
+        "grupo": "escuro",
+        "cores": [
+          "Azul",
+          "Menta"
+        ],
+        "pagina_pdf": 77
+      },
+      {
+        "grupo": "escuro",
+        "cores": [
+          "Azul",
+          "Acerola"
+        ],
+        "pagina_pdf": 77
+      },
+      {
+        "grupo": "escuro",
+        "cores": [
+          "Azul",
+          "Begônia"
+        ],
+        "pagina_pdf": 77
+      },
+      {
+        "grupo": "escuro",
+        "cores": [
+          "Azul",
+          "Canário"
+        ],
+        "pagina_pdf": 77
+      },
+      {
+        "grupo": "claro",
+        "cores": [
+          "Céu",
+          "Manacá"
+        ],
+        "pagina_pdf": 79
+      },
+      {
+        "grupo": "claro",
+        "cores": [
+          "Céu",
+          "Begônia"
+        ],
+        "pagina_pdf": 79
+      },
+      {
+        "grupo": "claro",
+        "cores": [
+          "Céu",
+          "Umbu"
+        ],
+        "pagina_pdf": 79
+      },
+      {
+        "grupo": "claro",
+        "cores": [
+          "Begônia",
+          "Menta"
+        ],
+        "pagina_pdf": 79
+      },
+      {
+        "grupo": "claro",
+        "cores": [
+          "Begônia",
+          "Canário"
+        ],
+        "pagina_pdf": 79
+      },
+      {
+        "grupo": "claro",
+        "cores": [
+          "Begônia",
+          "Tiê"
+        ],
+        "pagina_pdf": 79
+      },
+      {
+        "grupo": "claro",
+        "cores": [
+          "Canário",
+          "Tiê"
+        ],
+        "pagina_pdf": 79
+      },
+      {
+        "grupo": "claro",
+        "cores": [
+          "Canário",
+          "Guaco"
+        ],
+        "pagina_pdf": 79
+      },
+      {
+        "grupo": "claro",
+        "cores": [
+          "Guaco",
+          "Umbu"
+        ],
+        "pagina_pdf": 79
+      },
+      {
+        "grupo": "claro",
+        "cores": [
+          "Manacá",
+          "Canário"
+        ],
+        "pagina_pdf": 79
+      },
+      {
+        "grupo": "claro",
+        "cores": [
+          "Jacarandá",
+          "Menta"
+        ],
+        "pagina_pdf": 79
+      },
+      {
+        "grupo": "claro",
+        "cores": [
+          "Jacarandá",
+          "Umbu"
+        ],
+        "pagina_pdf": 79
+      },
+      {
+        "grupo": "claro",
+        "cores": [
+          "Jacarandá",
+          "Ipê"
+        ],
+        "pagina_pdf": 79
+      },
+      {
+        "grupo": "claro",
+        "cores": [
+          "Acerola",
+          "Menta"
+        ],
+        "pagina_pdf": 79
+      }
+    ],
+    "cores_para_texto_e_grafismos_sobre_gradiente": {
+      "escuro": {
+        "cores": [
+          "Acerola",
+          "Ipê",
+          "Canário",
+          "Umbu",
+          "Pera",
+          "Menta",
+          "Taiti",
+          "Guaco"
+        ],
+        "pagina_pdf": 78
+      },
+      "claro": {
+        "cores": [
+          "Offwhite",
+          "Céu",
+          "Azul",
+          "Atlântico",
+          "Begônia",
+          "Manacá",
+          "Jacarandá"
+        ],
+        "pagina_pdf": 80
+      }
+    },
+    "limite": "A ordem dos nomes identifica o par mostrado; não define coordenadas ou paradas de gradiente."
+  },
+  "logotipo": {
+    "area_de_protecao": "Altura da letra S (X) em todos os lados do retângulo que tangencia o logotipo (p. 202).",
+    "usos_indevidos": [
+      "Não mudar a cor do logotipo, salvo as versões oficiais preta e branca (p. 201).",
+      "Não distorcer as proporções.",
+      "Não rotacionar.",
+      "Não eliminar nenhum elemento.",
+      "Não modificar nenhum elemento."
+    ],
+    "pagina_usos_indevidos": 222,
+    "altura_minima": {
+      "pagina_pdf": 203,
+      "observacao": "Valores em mm e px são limites distintos do original; não converter entre si. Endossos sem barras: p. 166.",
+      "configuracoes": [
+        {
+          "assinatura": "Logotipo isolado, com barras",
+          "impresso_mm": 10,
+          "digital_px": 50
+        },
+        {
+          "assinatura": "Composta versão 3 (descritivo à direita), p. 199",
+          "impresso_mm": 12,
+          "digital_px": 65
+        },
+        {
+          "assinatura": "Composta versão 1 (descritivo centralizado abaixo), p. 199",
+          "impresso_mm": 18,
+          "digital_px": 96
+        },
+        {
+          "assinatura": "Composta versão 2 (descritivo abaixo, à esquerda), p. 199",
+          "impresso_mm": 18,
+          "digital_px": 96
+        }
+      ]
+    }
+  }
+}

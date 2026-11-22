@@ -1,0 +1,27 @@
+/* Tokens de design do Brandbook Sebrae 2026, adaptação 5.1.
+   Gerado por scripts/gerar-tokens.py a partir de dados/. Não editar à mão.
+   Códigos das pp. 67 e 68. Para pares de texto e fundo, consulte dados/contraste-texto-fundo.json. */
+:root {
+  --sebrae-preto: #000000; /* Preto, principal */
+  --sebrae-atlantico: #0B2574; /* Atlântico, principal */
+  --sebrae-ceu: #65B7FB; /* Céu, principal */
+  --sebrae-azul: #2A4FDA; /* Azul, principal */
+  --sebrae-offwhite: #EFF3EE; /* Offwhite, principal */
+  --sebrae-begonia: #FF80C8; /* Begônia, complementar */
+  --sebrae-canario: #FBEC76; /* Canário, complementar */
+  --sebrae-manaca: #BE64E3; /* Manacá, complementar */
+  --sebrae-umbu: #E7F79E; /* Umbu, complementar */
+  --sebrae-jacaranda: #8F85F4; /* Jacarandá, complementar */
+  --sebrae-pera: #CADF61; /* Pera, complementar */
+  --sebrae-tie: #E0565D; /* Tiê, complementar */
+  --sebrae-menta: #9FF0BD; /* Menta, complementar */
+  --sebrae-acerola: #F39D72; /* Acerola, complementar */
+  --sebrae-taiti: #90D275; /* Taiti, complementar */
+  --sebrae-ipe: #F2AFAB; /* Ipê, complementar */
+  --sebrae-guaco: #61B466; /* Guaco, complementar */
+  --sebrae-branco: #FFFFFF; /* Branco, cor_contextual_de_assinatura_e_texto */
+
+  --sebrae-fonte-titulo: 'Campuni', sans-serif; /* Bold, versão 2.000 de referência, p. 82 */
+  --sebrae-fonte-texto: 'Figtree', sans-serif; /* Regular e Bold, p. 83 */
+  /* Escala da p. 84: título 1x, subtítulo x/2, texto x/4. Defina x conforme a peça. */
+}
