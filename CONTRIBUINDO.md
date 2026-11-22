@@ -21,4 +21,4 @@ A verificação roda automaticamente em cada proposta.
 
 ## Publicar nova versão dos pacotes
 
-Crie uma marcação de versão (por exemplo `v5.1.1`) no ramo principal. A automação verifica o repositório, gera os dois pacotes e publica na seção [Releases](https://github.com/madsonp/brandbook-sebrae/releases). Os links de download do `COMO-USAR.md` passam a apontar para a versão nova.
+Altere o número em `distribuicao/VERSAO` (por exemplo, de `5.1.0` para `5.1.1`) junto com a alteração de conteúdo. Ao chegar ao ramo principal, a automação verifica o repositório, gera os dois pacotes e publica a nova versão na seção [Releases](https://github.com/madsonp/brandbook-sebrae/releases). Os links de download do `COMO-USAR.md` passam a apontar para ela. Sem mudança no número, os pacotes continuam disponíveis apenas como artefatos da automação.
